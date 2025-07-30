@@ -1,5 +1,5 @@
 # Veracore Data Retrieval
-Gets a list of available reports with the Task ID
+Gets a list of available reports with the Task ID, and will run a report based on the filters provided from the available reports.
 
 
 
