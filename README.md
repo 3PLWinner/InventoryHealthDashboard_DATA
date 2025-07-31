@@ -24,5 +24,5 @@ pip install -r requirements.txt
 
 3. Execute script:
 ```bash
-python API.py
+python reports.py
 ```

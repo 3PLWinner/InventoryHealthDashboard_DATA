@@ -161,9 +161,6 @@ if __name__ == "__main__":
     
     endpoints = {
     "available_reports_endpoint": "https://wms.3plwinner.com/VeraCore/Public.Api/api/reports", # GETS available reports
-    #"shipping_report": f"https://wms.3plwinner.com/VeraCore/Public.Api/api/reports/172",
-    #"expected_arrivals": "https://wms.3plwinner.com/VeraCore/Public.Api/api/reportdetail?reportName=expected%arrivals",
-    #"warehouse_locations": "https://wms.3plwinner.com/VeraCore/Public.Api/api/reportdetail?reportName=Warehouse%Locations%-%2"
     }
 
     for name, url in endpoints.items():
@@ -184,8 +181,8 @@ if __name__ == "__main__":
                 {"filterColumnName": "Product ID"},
                 {
                     "filterColumnName": "Receipt Date",
-                    "startDate": "01/01/2025",
-                    "endDate": "07/30/2025"
+                    "startDate": "01/01/2025 12:00:00 AM",
+                    "endDate": "07/30/2025 11:59:59 PM"
                 },
                 {"filterColumnName": "Unit"},
                 {"filterColumnName": "Location"},
