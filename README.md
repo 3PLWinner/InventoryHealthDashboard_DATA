@@ -9,7 +9,9 @@ Gets a list of available reports with the Task ID, and will run a report based o
 
 ## Usage
 
-1. Create & Activate a virtual environment:
+1. git clone https://github.com/3PLWinner/InventoryHealthDashboard_DATA.git
+
+2. Create & Activate a virtual environment:
 ```bash
 python -m venv yourenv
 ```
@@ -17,12 +19,12 @@ python -m venv yourenv
 yourenv/Scripts/activate
 ```
 
-2. Install dependencies:
+3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Execute script:
+4. Execute script:
 ```bash
 python reports.py
 ```
