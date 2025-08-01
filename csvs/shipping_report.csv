@@ -1,9 +1,9 @@
 Order ID,Pick Slip ID,Ship To-Full Name,Ship To-Company,Ship To-Address 1,Ship To-Address 2,Ship To-City,Ship To-State,Ship To-Zip/Postal Code,Ship To-Country,Tracking ID,Package Type,Ship Date,Published Freight,Package Identifier,Freight Carrier,Carrier Code,Freight Service,Void Flag
+#146148,343008,Tyler Stambaugh,,1680 Sylvaner Avenue,,St. Helena,CA,94574,USA,9261290336147509705100,,06/30/2025 11:30:18,7.64,,DHL,D43,DHL > 1lb Expedited,0
 #146149,343009,Laura Boyd,,12334 Havermale Road,,Farmersville,OH,45325,USA,9261290336147509730089,,06/30/2025 11:32:36,10.1,,DHL,D43,DHL > 1lb Expedited,0
 #146150,343010,Gina Angelone,,1094 Woodbury Ave Apt 22,,Portsmouth,NH,03801-3279,USA,61292013550820511743,,06/30/2025 11:53:40,8.99,,OTHER,FedEx,,0
 #146151,343011,Elza McKenna,,425 Stonewall St,,Memphis,TN,38112,USA,61292013550820511446,,06/30/2025 10:16:44,8.92,,OTHER,FedEx,,0
 #146161,343021,Ben Wyffels,,2773 East Valencia Street,,Gilbert,AZ,85296,USA,9261290336147509710050,,06/30/2025 11:03:41,7.64,,DHL,D43,DHL > 1lb Expedited,0
-#146163,343023,Stephanie Hladik,,10 Cannon Royal Dr,,Saratoga Springs,NY,12866,USA,9261290336147509715123,,06/30/2025 11:32:13,7.17,,DHL,D32,DHL < 1lb Ground,0
 #146164,343024,Lauren Perlstein,,546 Keystone Avenue,,River Forest,IL,60305,USA,61292013550820511644,,06/30/2025 11:34:59,8.92,,OTHER,FedEx,,0
 #146165,343025,Barbara Shorenstein,,165 East 66th Street,,New York,NY,10065,USA,61292013550820511453,,06/30/2025 10:19:09,8.92,,OTHER,FedEx,,0
 #146166,343026,Lindsey Auriemma,,12009 Pineapple Grove Drive,,North Potomac,MD,20878,USA,61292013550820511675,,06/30/2025 11:41:52,8.99,,OTHER,FedEx,,0
@@ -144,7 +144,7 @@ PH29153549219,343105,,Gayla Salmon,1313 East Northstar Lane Apt 109,,Sioux Falls
 12936,343166, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:19:00,0.0,,UPS,,,0
 4969,343167, Scott Truong,,19031 Milford Cir,,Huntington Beach,CA,92646,United States,Prepaid,AAA (free package),07/01/2025 13:33:00,0.0,,UPS,,,0
 #146152,343012,Arielle Camhi,,14 Millstone Drive,,Southampton,NY,11968,USA,9261290336147509690147,,06/30/2025 11:43:10,10.1,,DHL,D43,DHL > 1lb Expedited,0
-#146148,343008,Tyler Stambaugh,,1680 Sylvaner Avenue,,St. Helena,CA,94574,USA,9261290336147509705100,,06/30/2025 11:30:18,7.64,,DHL,D43,DHL > 1lb Expedited,0
+#146147,343007,Amanda DeMartino,,52 Hanover Street,Unit 318,Portland,ME,04101,USA,61292013550820511125,,06/30/2025 08:49:39,8.99,,OTHER,FedEx,,0
 8377813549,343188,,The GSI Group  Taylorville  IL,2400 South Spresser,,Taylorville,IL,62568,US,prepaid,AAA (free package),07/01/2025 15:26:00,0.0,,UPS,,,0
 8377813550,343189,,Beckett Gas Inc,38000 Beckett Parkwa,,North Ridgeville,OH,44039,US,prepaid,AAA (free package),07/01/2025 15:30:00,0.0,,UPS,,,0
 8377813551,343190,,Metropac Industries Inc,10 Annette Road,,Foxboro,MA,2035,US,prepaid,AAA (free package),07/01/2025 15:29:00,0.0,,UPS,,,0
@@ -162,19 +162,19 @@ PH29153549219,343105,,Gayla Salmon,1313 East Northstar Lane Apt 109,,Sioux Falls
 8377813810,343202,,GE Appliances,50 Haier Blvd,,Camden,SC,29020-7640,US,LTL Freight,AAA (free package),07/08/2025 16:15:00,0.0,,UPS,,,0
 8377813812,343203,,Nilfisk Pressure-Pro LLC.,7337 Commercial Cir,,Fort Pierce,FL,34951-4110,US,prepaid,AAA (free package),07/01/2025 15:27:00,0.0,,UPS,,,0
 8377813813,343204,,???????????????,????? ?? B10?,,??,12,300457,CN,LTL Freight,AAA (free package),07/09/2025 15:59:00,0.0,,UPS,,,0
-#146147,343007,Amanda DeMartino,,52 Hanover Street,Unit 318,Portland,ME,04101,USA,61292013550820511125,,06/30/2025 08:49:39,8.99,,OTHER,FedEx,,0
+#146146,343006,Jennifer Gravenor,,3600 Moon River Rd,,Austin,TX,78746,USA,61292013550820511750,,06/30/2025 11:54:12,8.92,,OTHER,FedEx,,0
 12937,343206, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:25:00,0.0,,UPS,,,0
 4979,343207, Joseph Manton,,4 Briarcliff Ter,,Kinnelon,NJ,07405,United States,Prepaid,AAA (free package),07/01/2025 13:33:00,0.0,,UPS,,,0
 12938,343208, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:24:00,0.0,,UPS,,,0
 12939,343209, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:24:00,0.0,,UPS,,,0
 12940,343210, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:26:00,0.0,,UPS,,,0
-#146146,343006,Jennifer Gravenor,,3600 Moon River Rd,,Austin,TX,78746,USA,61292013550820511750,,06/30/2025 11:54:12,8.92,,OTHER,FedEx,,0
+#146145,343005,Vicki Lane C/O Shirley Jones,,1402 Indiana Avenue,,Winter Park,FL,32789,USA,61292013550820511118,,06/30/2025 08:49:12,8.99,,OTHER,FedEx,,0
 12942,343212, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:26:00,0.0,,UPS,,,0
 12943,343213, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:20:00,0.0,,UPS,,,0
 12944,343214, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:28:00,0.0,,UPS,,,0
 12945,343215, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:28:00,0.0,,UPS,,,0
 12947,343217, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:28:00,0.0,,UPS,,,0
-#146145,343005,Vicki Lane C/O Shirley Jones,,1402 Indiana Avenue,,Winter Park,FL,32789,USA,61292013550820511118,,06/30/2025 08:49:12,8.99,,OTHER,FedEx,,0
+#146144,343004,Cassidy Gossfeld,,13000 Elmcrest Avenue North,,White Bear Lake,MN,55110,USA,61292013550820511774,,06/30/2025 11:03:16,8.92,,OTHER,FedEx,,0
 12949,343219, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:20:00,0.0,,UPS,,,0
 554,343220, Jessica Funk,Jessica Funk,201 E SOUTHWAY BLVD,,KOKOMO,IN,46902-3677,United States,1ZJ201R90311595018,,07/01/2025 08:49:42,21.93,,UPS,U11,UPS Ground,0
 #3878,343221,Suzanne Child,,12362 Lima Lane,,Reston,VA,20191,USA,61292013550820511811,,07/01/2025 08:54:50,8.92,,OTHER,FedEx,,0
@@ -201,13 +201,13 @@ A45725,343223,Nikhil Narahari,,2821 Ainaola Dr,,Hilo,HI,96720,USA,94055091051146
 8377814261,343242,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),07/02/2025 15:23:00,0.0,,UPS,,,0
 8377814263,343244,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),07/02/2025 16:03:00,0.0,,UPS,,,0
 12950,343245, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/01/2025 15:27:00,0.0,,UPS,,,0
-#146144,343004,Cassidy Gossfeld,,13000 Elmcrest Avenue North,,White Bear Lake,MN,55110,USA,61292013550820511774,,06/30/2025 11:03:16,8.92,,OTHER,FedEx,,0
+#146144,343004,Cassidy Gossfeld,,13000 Elmcrest Avenue North,,White Bear Lake,MN,55110,USA,61292013550820511705,,06/30/2025 10:51:51,9.05,,OTHER,FedEx,,1
 DVU_820_1,340472,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:10:00,0.0,,UPS,,,0
 DVU_819_1,340473,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:10:00,0.0,,UPS,,,0
 DVU_818_1,340474,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:10:00,0.0,,UPS,,,0
 DVU_817_1,340475,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:51:00,0.0,,UPS,,,0
 DVU_816_1,340476,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:11:00,0.0,,UPS,,,0
-#146144,343004,Cassidy Gossfeld,,13000 Elmcrest Avenue North,,White Bear Lake,MN,55110,USA,61292013550820511705,,06/30/2025 10:51:51,9.05,,OTHER,FedEx,,1
+#146143,343003,Stephanie Rincon,,123 W 93rd St,6BC,New York,NY,10025,USA,61292013550820511576,,06/30/2025 11:31:27,8.92,,OTHER,FedEx,,0
 DVU_814_1,340478,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:11:00,0.0,,UPS,,,0
 DVU_813_1,340479,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:11:00,0.0,,UPS,,,0
 DVU_812_1,340480,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:11:00,0.0,,UPS,,,0
@@ -226,7 +226,7 @@ DVU_780_1,340493,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,L
 DVU_779_1,340494,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:14:00,0.0,,UPS,,,0
 DVU_778_1,340495,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:14:00,0.0,,UPS,,,0
 DVU_777_1,340496,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:14:00,0.0,,UPS,,,0
-#146143,343003,Stephanie Rincon,,123 W 93rd St,6BC,New York,NY,10025,USA,61292013550820511576,,06/30/2025 11:31:27,8.92,,OTHER,FedEx,,0
+#146142,343002,Alexis Girbes,C/o Alicia Girbes Pierce,817 Caminito Verde,,Carlsbad,CA,92011,USA,9261290336147509725061,,06/30/2025 11:03:19,5.79,,DHL,D32,DHL < 1lb Ground,0
 DVU_775_1,340498,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:15:00,0.0,,UPS,,,0
 DVU_774_1,340499,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:15:00,0.0,,UPS,,,0
 DVU_773_1,340500,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:15:00,0.0,,UPS,,,0
@@ -243,7 +243,7 @@ DVU_763_1,340510,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,L
 DVU_750_1,340511,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:19:00,0.0,,UPS,,,0
 DVU_737_1,340512,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/03/2025 12:19:00,0.0,,UPS,,,0
 16,340513, 1224 Exposition Way,Resideo,1224 Exposition Way,,San Diego,California,92154,United States,LTL Freight,AAA (free package),06/09/2025 10:49:00,0.0,,UPS,,,0
-#146142,343002,Alexis Girbes,C/o Alicia Girbes Pierce,817 Caminito Verde,,Carlsbad,CA,92011,USA,9261290336147509725061,,06/30/2025 11:03:19,5.79,,DHL,D32,DHL < 1lb Ground,0
+8377731321,339262,,Schwank Limited,5285 Bradco Blvd,,Mississauga,ON,L4W 2A6,CA,LTL Freight,AAA (free package),06/03/2025 14:42:00,0.0,,UPS,,,0
 355,340515, Liz Meza,Taoglas USA Inc.,4851 Paramount Drive,,San Diego,CA,92123,United States,prepaid,AAA (free package),06/04/2025 15:45:00,0.0,,FEDEX GROUND,,,0
 A45606,340516,William Sherman,,30 Palmer St,,Helper,UT,84526,USA,1ZJ201R90333042449,,06/03/2025 12:32:48,53.1,,UPS,U11,UPS Ground,0
 A45606,340516,William Sherman,,30 Palmer St,,Helper,UT,84526,USA,1ZJ201R90326628053,,06/03/2025 12:32:48,15.7,,UPS,U11,UPS Ground,0
@@ -251,7 +251,7 @@ A45609,340517,JOSEPH KOSAR,,52 Westminster Way,,Hampstead,NC,28443,USA,940010910
 A45610,340518,Ayden Baca,,1313 Klepper Street,,Kingsburg,CA,93631,USA,1ZJ201R90126572009,,06/03/2025 12:28:11,55.88,,UPS,U01,Next Day Air,0
 A45607,340520,Nathan Talbot,,1455 Satellite Blvd NW,Apt. 8303,Suwanee,GA,30024,USA,9400109105114130822104,,06/03/2025 12:33:30,4.97,,USPS,P10,First-Class Package Service,0
 #124634,340521,Troy Meyer,,5427 East Dry Creek Circle,,Centennial,CO,80122,USA,61292013550820507173,,06/03/2025 12:39:39,8.78,,OTHER,FedEx,,0
-8377731321,339262,,Schwank Limited,5285 Bradco Blvd,,Mississauga,ON,L4W 2A6,CA,LTL Freight,AAA (free package),06/03/2025 14:42:00,0.0,,UPS,,,0
+8377731315,339259,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),06/03/2025 14:42:00,0.0,,UPS,,,0
 83,340523, Jose Amador ,,1416 Bella Terra Dr,,Modesto,CA,95355,,9261290336147506900034,Box - 16 x 12 x 6,06/03/2025 12:43:00,7.64,,DHL,D43,DHL > 1lb Expedited,0
 #3288,340524,Courtney Egbert,,608 Indian Hills Drive,,Saint Charles,MO,63301,USA,1ZJ201R90316301272,,06/03/2025 12:31:21,14.71,,UPS,U11,UPS Ground,0
 A45611,340525,Harinder Phagura,,7008 lakehaven dr,,Roseville,CA,95747,USA,61292013550820507180,Box - 8 x 8 x 8,06/03/2025 14:08:16,8.78,,OTHER,FedEx,,0
@@ -263,11 +263,11 @@ A45611,340525,Harinder Phagura,,7008 lakehaven dr,,Roseville,CA,95747,USA,612920
 8377760407,340531,,SupplyHouse LLC,30 Apple Orchard Dr,,Dayton,NJ,08810,US,prepaid,AAA (free package),06/05/2025 15:42:00,0.0,,UPS,,,0
 8377760410,340532,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),06/04/2025 16:20:00,0.0,,UPS,,,0
 8377760411,340533,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),06/04/2025 16:20:00,0.0,,UPS,,,0
-8377731315,339259,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),06/03/2025 14:42:00,0.0,,UPS,,,0
+8377731305,339251,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),06/03/2025 14:42:00,0.0,,UPS,,,0
 8377760424,340535,,Rheem Montgomery,2769 Gunter Park Dr,,Montgomery,AL,36109-1013,US,LTL Freight,AAA (free package),06/05/2025 13:28:00,0.0,,UPS,,,0
 8377760425,340536,,Trane Co,7701 B Commerce Driv,,Panama City,FL,32404,US,prepaid,AAA (free package),06/04/2025 15:29:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 4655,340537, David Goldwyn,,6701 Oak Hollow Ln,,McKinney,TX,75072,United States,9261290336147506920063,,06/04/2025 08:42:35,5.1,,DHL,D32,DHL < 1lb Ground,0
-8377731305,339251,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),06/03/2025 14:42:00,0.0,,UPS,,,0
+#146163,343023,Stephanie Hladik,,10 Cannon Royal Dr,,Saratoga Springs,NY,12866,USA,9261290336147509715123,,06/30/2025 11:32:13,7.17,,DHL,D32,DHL < 1lb Ground,0
 4657,340539, Gary Steibler,,120 Hazle St,,Delano,PA,18220,United States,Prepaid,AAA (free package),06/04/2025 15:14:00,0.0,,UPS,,,0
 4658,340540, Tyrone Whitt,,14176 Breakfast Drive,,Redford,MI,48239,United States,Prepaid,AAA (free package),06/04/2025 15:13:00,0.0,,UPS,,,0
 4659,340541, Francisco Juarez,,1250 Adams Avenue,"Villa Siena, APT K104",Costa Mesa,CA,92626,United States,Prepaid,AAA (free package),06/04/2025 15:13:00,0.0,,UPS,,,0
@@ -511,10 +511,10 @@ DVU_776_1,340497,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,L
 3697713200,340514,Jaymes Jones,,532 potter hill rd,,READSBORO,VT,05350,USA,61292013550820507166,,06/03/2025 12:38:10,11.26,,OTHER,FedEx,,0
 #124631,340522,Martha Lynn Lorenzo,,22 East McCullough Drive,,Sedona,AZ,86336,USA,9261290336147506915113,,06/03/2025 12:41:02,8.19,,DHL,D43,DHL > 1lb Expedited,0
 8377760423,340534,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),07/11/2025 12:27:00,0.0,,UPS,,,0
-4656,340538, Michael Hentz,,302 Rodman Avenue,,Jenkintown,PA,19046,United States,Prepaid,AAA (free package),06/04/2025 15:16:00,0.0,,UPS,,,0
 8377729087,338923,,Resideo El Paso Dist Ctr,1301 Joe Battle Blvd,,El Paso,TX,79936-0903,US,LTL Freight,AAA (free package),06/03/2025 14:41:00,0.0,,UPS,,,0
 8377727707,338806,,Rheem Montgomery,2769 Gunter Park Dr,,Montgomery,AL,36109-1013,US,LTL Freight,AAA (free package),06/03/2025 14:41:00,0.0,,UPS,,,0
 3343,314206, Tiffany Portman,,43435 Illinois Ave,,Palm Desert,CA,92211,United States,1ZJ201R90114484154,Box - 12 x 12 x 12,06/24/2025 13:21:35,31.7,,UPS,U01,Next Day Air,1
+4661,340543, Robbie Biehl,,19107 Sloop Circle,,Huntington Beach,CA,92648,United States,Prepaid,AAA (free package),06/04/2025 15:12:00,0.0,,UPS,,,0
 #145463,340566,Laura De Courcy,,4700 Via Amante,,Yorba Linda,CA,92886,USA,1ZJ201R9YW37725321,,06/05/2025 15:52:56,8.35,,OTHER,UPS,,0
 8377761743,340593,,Trm Innovative Hearth Products,1769 Lawrence St E,,Russellville,AL,35654-8346,US,prepaid,AAA (free package),06/04/2025 15:28:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 DVU_744,340612,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/04/2025 14:37:00,0.0,,UPS,,,0
@@ -527,7 +527,7 @@ DVU_851,340717,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 4689,340730, Brian Stanley,,16 Dawson Dr,,Fredericksbrg,VA,22405,United States,Prepaid,AAA (free package),06/05/2025 14:11:00,0.0,,UPS,,,0
 468,340734, Bailey Tims,,29 Padgett Lane ,,Belvidere ,TN,37306,USA,9261290336147508735016,,06/05/2025 09:30:48,5.42,,DHL,D32,DHL < 1lb Ground,0
 #1202,340736,Tisha Nelson,,21749 N 1950th St,,Chrisman,IL,61924,USA,9261290336147508750019,,06/05/2025 09:32:31,5.81,,DHL,D32,DHL < 1lb Ground,0
-4661,340543, Robbie Biehl,,19107 Sloop Circle,,Huntington Beach,CA,92648,United States,Prepaid,AAA (free package),06/04/2025 15:12:00,0.0,,UPS,,,0
+4656,340538, Michael Hentz,,302 Rodman Avenue,,Jenkintown,PA,19046,United States,Prepaid,AAA (free package),06/04/2025 15:16:00,0.0,,UPS,,,0
 8377764143,340771,,Empire Comfort Systems Inc,423 Catawba Ave,,Swansea,IL,62226-1660,US,prepaid,AAA (free package),06/05/2025 15:41:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377764148,340772,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,LTL Freight,AAA (free package),06/05/2025 15:32:00,0.0,,UPS,,,0
 8377764153,340773,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,prepaid,AAA (free package),06/05/2025 15:40:00,0.0,,UPS,M4,Expedited Mail Innovations,0
@@ -879,6 +879,13 @@ A45698,342508,Dale Rowland Jr,,28 Belle Vista Hts,,Portland,CT,06480-1672,USA,94
 #146025,342509,Jenna Doohan,,404 W Penn St,,Long Beach,NY,11561,USA,61292013550820510531,,06/24/2025 10:25:35,8.9,,OTHER,FedEx,,0
 #146026,342510,Lauren Parker,,507B East Broadway,,Boston,MA,02127,USA,9261290336147509175170,,06/24/2025 10:28:38,10.1,,DHL,D43,DHL > 1lb Expedited,0
 #146566,344623,Kara Porterfield,,2020 N Scenic View Dr,,Stayton,OR,97383,USA,9261290336147513290128,,07/18/2025 09:03:07,8.57,,DHL,D43,DHL > 1lb Expedited,0
+8377848085,344632,,Allied Midwest DC,860 W. Crossroads,,Romeoville,IL,60446,US,prepaid,AAA (free package),07/18/2025 15:19:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377848087,344634,,Flagro Industries,301 Louth St,,St Catharines,ON,L2S 3V6,CA,prepaid,AAA (free package),07/18/2025 15:12:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377848088,344635,,???????(??)????,????? ?? B10?,,??,12,300457,CN,LTL Freight,AAA (free package),07/24/2025 14:58:00,0.0,,UPS,,,0
+8377848089,344636,,RAYPAK,2151 Eastman Ave,,Oxnard,CA,93030-5194,US,LTL Freight,AAA (free package),07/21/2025 09:24:00,0.0,,UPS,,,0
+8377848091,344637,,Daikin Comfort Technologies Di,18988 Kickapoo Rd,Dock Door 730 – chec,Waller,TX,77484-7112,US,LTL Freight,AAA (free package),07/21/2025 09:20:00,0.0,,UPS,,,0
+8377848616,344638,,Daikin Comfort Technologies Di,18988 Kickapoo Rd,Dock Door 730 – chec,Waller,TX,77484-7112,US,LTL Freight,AAA (free package),07/21/2025 09:19:00,0.0,,UPS,,,0
+8377848619,344639,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,LTL Freight,AAA (free package),07/22/2025 15:10:00,0.0,,UPS,,,0
 8377848620,344640,,Weil-Mclain,523 S New St,,Eden,NC,27288-3623,US,LTL Freight,AAA (free package),07/23/2025 12:54:00,0.0,,UPS,,,0
 8377848621,344641,,A O Smith Apcom Dvi,125 Southeast Pkwy,,Franklin,TN,37064,US,LTL Freight,AAA (free package),07/22/2025 09:12:00,0.0,,UPS,,,0
 8377848622,344642,,Modine Manufacturing Co,1221 Magnolia Ave,,Buena Vista,VA,24416-3317,US,prepaid,AAA (free package),07/21/2025 16:06:00,0.0,,UPS,,,0
@@ -886,13 +893,6 @@ A45698,342508,Dale Rowland Jr,,28 Belle Vista Hts,,Portland,CT,06480-1672,USA,94
 8377848625,344645,,US Boiler Company,2920 Old Tree Dr,,Lancaster,PA,17603-4082,US,LTL Freight,AAA (free package),07/23/2025 13:03:00,0.0,,UPS,,,0
 8377848626,344646,,Empire Comfort Systems Inc,423 Catawba Ave,,Swansea,IL,62226-1660,US,prepaid,AAA (free package),07/21/2025 16:08:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 5168,344656, Donald Goshorn,,4921 Arch Rock Road,,Mifflintown,PA,17059,United States,Prepaid,AAA (free package),07/18/2025 11:01:00,0.0,,UPS,,,0
-8377849073,344658,,Jakel Motors (Mexico) C/O Prot,3822 Adams Cir,,Eagle Pass,TX,78852-5793,US,prepaid,AAA (free package),07/21/2025 16:08:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377849074,344659,,Sherwood Industries Ltd,6845 Kirkpatrick Cr.,,Saanichton,BC,V8M 1Z8,CA,prepaid,AAA (free package),07/22/2025 15:51:00,0.0,,UPS,,,0
-8377849076,344660,,Captive-Aire Systems,6 Commerce Court,,Bedford,PA,15522,US,LTL Freight,AAA (free package),07/23/2025 13:02:00,0.0,,UPS,,,0
-8377849080,344661,,Neuco Inc,515 W Crossroads Pkw,,Bolingbrook,IL,60440-4821,US,prepaid,AAA (free package),07/21/2025 16:07:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377849082,344662,,Crown Boiler,3633 I Street,,Philadelphia,PA,19134-1451,US,prepaid,AAA (free package),07/18/2025 15:05:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377849083,344663,,Crown Boiler,3633 I Street,,Philadelphia,PA,19134-1451,US,prepaid,AAA (free package),07/21/2025 16:08:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377849084,344664,,Frymaster Corporation,8700 Line Avenue,,Shreveport,LA,71106-6814,US,LTL Freight,AAA (free package),07/22/2025 09:08:00,0.0,,UPS,,,0
 8377849088,344665,,Schwank USA Inc.,2 Schwank Way,,Waynesboro,GA,30830-1154,US,prepaid,AAA (free package),07/21/2025 16:09:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377849090,344666,,LII United Products,810 Carriers Dr,,Laredo,TX,78045-3717,US,LTL Freight,AAA (free package),07/24/2025 11:15:00,0.0,,UPS,,,0
 8377849092,344667,,All Point Foodservice Part,101 Mount Holly Bypa,,Lumberton,NJ,08048,US,prepaid,AAA (free package),07/22/2025 15:52:00,0.0,,UPS,,,0
@@ -957,7 +957,7 @@ A45803,344689,Bryan Baldoza,,430 11th st N,2,Naples,FL,34102,USA,1ZJ201R90306224
 5189,344726, Joseph Hausen,,4504 Wilderness Ln N,,Jacksonville,FL,32258,United States,Prepaid,AAA (free package),07/21/2025 12:29:00,0.0,,UPS,,,0
 5190,344727, John Hoyne,,9305 SW Commercial St,9,Tigard,OR,97223,United States,Prepaid,AAA (free package),07/21/2025 10:28:00,0.0,,UPS,,,0
 8377848627,344647,,Allied Air Enterprises Inc,240 Millennium Dr,,Orangeburg,SC,29115,US,LTL Freight,AAA (free package),07/22/2025 16:28:00,0.0,,UPS,,,0
-8377848619,344639,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,LTL Freight,AAA (free package),07/22/2025 15:10:00,0.0,,UPS,,,0
+8377847676,344631,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/22/2025 09:16:00,0.0,,UPS,,,0
 5193,344730, Chris Peacock,,524 University BLVD,,Denver,CO,80206,United States,Prepaid,AAA (free package),07/21/2025 10:26:00,0.0,,UPS,,,0
 5194,344731, Changdae Hahm,,30 N 23rd St,Apt 1704,Philadelphia,PA,19103,United States,Prepaid,AAA (free package),07/21/2025 12:29:00,0.0,,UPS,,,0
 5195,344732, Robert Kelley,,929 Middleton St,,Flint,MI,48503,United States,Prepaid,AAA (free package),07/21/2025 12:31:00,0.0,,UPS,,,0
@@ -965,7 +965,7 @@ A45803,344689,Bryan Baldoza,,430 11th st N,2,Naples,FL,34102,USA,1ZJ201R90306224
 5197,344734, Kalob Martinez,,7445 Town St,LYC1135-1,Richland Hills,TX,76118,United States,Prepaid,AAA (free package),07/21/2025 12:28:00,0.0,,UPS,,,0
 5198,344735, Ralph Tynan,,3288 Theodore E,,Wixom,MI,48393,United States,Prepaid,AAA (free package),07/21/2025 12:30:00,0.0,,UPS,,,0
 5199,344736, Hector Arce,,7321 Miramonte Blvd Apt 209,,Los Angeles,CA,90001,United States,Prepaid,AAA (free package),07/21/2025 10:27:00,0.0,,UPS,,,0
-8377848616,344638,,Daikin Comfort Technologies Di,18988 Kickapoo Rd,Dock Door 730 – chec,Waller,TX,77484-7112,US,LTL Freight,AAA (free package),07/21/2025 09:19:00,0.0,,UPS,,,0
+8377846768,344630,,WHCC United Refrigeration Inc,456 Lakeshore Pkwy,,Rock Hill,SC,29730-4205,US,prepaid,AAA (free package),07/21/2025 16:07:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 5201,344738, James Maroney,,8355 Marx Dr,,N Fort Myers,FL,33917,United States,Prepaid,AAA (free package),07/21/2025 10:11:00,0.0,,UPS,,,0
 5202,344739, Del Keith,,3 Cullen Hills Lane,,Bella Vista,AR,72715,United States,Prepaid,AAA (free package),07/21/2025 10:25:00,0.0,,UPS,,,0
 555,344740, ATTN ANA MARTINEZ-GOMEZ,REDWOOD CITY SCHOOL DISTRICT,750 BRADFORD ST,,REDWOOD CITY,CA,94063-1727,United States,1ZJ201R90315280949,,07/22/2025 11:42:47,15.7,,UPS,U11,UPS Ground,0
@@ -977,7 +977,7 @@ A45803,344689,Bryan Baldoza,,430 11th st N,2,Naples,FL,34102,USA,1ZJ201R90306224
 1070,344742, Tim Geoghegan,,2861 S 7th PL,,Lebanon,OR,97355 ,,9261290336147513295086,,07/21/2025 10:28:28,4.96,,DHL,D32,DHL < 1lb Ground,0
 1071,344743, Sheila,,890 Elo Rd ,,McCall ,ID ,83638-5122,,9261290336147514980011,,07/21/2025 10:34:34,8.57,,DHL,D43,DHL > 1lb Expedited,0
 #3925,344744,Susan La Rue,,23923 Augusta Drive,,Corona,CA,92883-4143,USA,9261290336147513270069,,07/21/2025 10:36:26,7.04,,DHL,D43,DHL > 1lb Expedited,0
-8377848091,344637,,Daikin Comfort Technologies Di,18988 Kickapoo Rd,Dock Door 730 – chec,Waller,TX,77484-7112,US,LTL Freight,AAA (free package),07/21/2025 09:20:00,0.0,,UPS,,,0
+8377846747,344629,,Resideo El Paso Dist Ctr,1301 Joe Battle Blvd,,El Paso,TX,79936-0903,US,LTL Freight,AAA (free package),07/23/2025 12:32:00,0.0,,UPS,,,0
 #3927,344746,Leo onzures,,34260 Crk Vw Ln,,Yucaipa,CA,92399,USA,9261290336147513300094,,07/21/2025 10:35:43,4.87,,DHL,D01,DHL < 1lb Expedited,0
 #1226,344747,Aryion Petrelle,,34-17 37th Street,Apt 4,Long Island City,NY,11101,USA,61292013550820514072,,07/21/2025 10:35:06,8.92,,OTHER,FedEx,,0
 #1227,344748,Barbara Pickard,,201 Colby Lane,,Lake Helen,FL,32744,USA,9261290336147513275125,,07/21/2025 10:31:14,7.07,,DHL,D32,DHL < 1lb Ground,0
@@ -1010,18 +1010,18 @@ A45815,344765,Ben Elsenpeter,,22 George Street East,,Maple lake,MN,55358,USA,940
 729,344771, Robert Bacon ,Titans Treasures Gifts LLC  ,2036 Nevada City Highway , (PMB) 308  ,Grass Valley,CA ,95945,United States of America,1ZJ201R90337703736,,07/21/2025 12:37:56,14.3,,UPS,U11,UPS Ground,0
 730,344772, SOUL BOUTIQUE ,SOUL Boutique, 181 South Washington  Street  ,,Tiffin,OH ,44883  ,United States of America,1ZJ201R90306355573,,07/21/2025 12:34:09,28.99,,UPS,U11,UPS Ground,0
 728,344773, Stefani Sollberger ,THE BEAN, 2317 Mathis Street  ,,Mandeville,LA ,70448  ,United States of America,1ZJ201R90329212460,,07/21/2025 12:21:07,18.83,,UPS,U11,UPS Ground,0
-8377848089,344636,,RAYPAK,2151 Eastman Ave,,Oxnard,CA,93030-5194,US,LTL Freight,AAA (free package),07/21/2025 09:24:00,0.0,,UPS,,,0
-8377848088,344635,,???????(??)????,????? ?? B10?,,??,12,300457,CN,LTL Freight,AAA (free package),07/24/2025 14:58:00,0.0,,UPS,,,0
-8377848087,344634,,Flagro Industries,301 Louth St,,St Catharines,ON,L2S 3V6,CA,prepaid,AAA (free package),07/18/2025 15:12:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377848085,344632,,Allied Midwest DC,860 W. Crossroads,,Romeoville,IL,60446,US,prepaid,AAA (free package),07/18/2025 15:19:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377847676,344631,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/22/2025 09:16:00,0.0,,UPS,,,0
-8377846768,344630,,WHCC United Refrigeration Inc,456 Lakeshore Pkwy,,Rock Hill,SC,29730-4205,US,prepaid,AAA (free package),07/21/2025 16:07:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377846747,344629,,Resideo El Paso Dist Ctr,1301 Joe Battle Blvd,,El Paso,TX,79936-0903,US,LTL Freight,AAA (free package),07/23/2025 12:32:00,0.0,,UPS,,,0
 8377846746,344628,,Resideo El Paso Dist Ctr,1301 Joe Battle Blvd,,El Paso,TX,79936-0903,US,LTL Freight,AAA (free package),07/23/2025 12:32:00,0.0,,UPS,,,0
 8377846745,344627,,Resideo El Paso Dist Ctr,1301 Joe Battle Blvd,,El Paso,TX,79936-0903,US,LTL Freight,AAA (free package),07/23/2025 12:31:00,0.0,,UPS,,,0
 8377846722,344626,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/21/2025 09:09:00,0.0,,UPS,,,0
 #146568,344625,Leslie Smith,,144 North Vermont Avenue,,Glendora,CA,91741,USA,9261290336147513300070,,07/18/2025 09:38:26,5.79,,DHL,D32,DHL < 1lb Ground,0
 #146567,344624,Carmen Nordstrand,,372 Pandora Lane,,Telluride,CO,81435,USA,9261290336147513290159,,07/18/2025 09:40:40,8.57,,DHL,D43,DHL > 1lb Expedited,0
+8377849084,344664,,Frymaster Corporation,8700 Line Avenue,,Shreveport,LA,71106-6814,US,LTL Freight,AAA (free package),07/22/2025 09:08:00,0.0,,UPS,,,0
+8377849083,344663,,Crown Boiler,3633 I Street,,Philadelphia,PA,19134-1451,US,prepaid,AAA (free package),07/21/2025 16:08:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377849082,344662,,Crown Boiler,3633 I Street,,Philadelphia,PA,19134-1451,US,prepaid,AAA (free package),07/18/2025 15:05:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377849080,344661,,Neuco Inc,515 W Crossroads Pkw,,Bolingbrook,IL,60440-4821,US,prepaid,AAA (free package),07/21/2025 16:07:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377849076,344660,,Captive-Aire Systems,6 Commerce Court,,Bedford,PA,15522,US,LTL Freight,AAA (free package),07/23/2025 13:02:00,0.0,,UPS,,,0
+8377849074,344659,,Sherwood Industries Ltd,6845 Kirkpatrick Cr.,,Saanichton,BC,V8M 1Z8,CA,prepaid,AAA (free package),07/22/2025 15:51:00,0.0,,UPS,,,0
+8377849073,344658,,Jakel Motors (Mexico) C/O Prot,3822 Adams Cir,,Eagle Pass,TX,78852-5793,US,prepaid,AAA (free package),07/21/2025 16:08:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377849071,344657,,Habegger Totaline Parts Center,1020 Duquesne Blvd,,Duquesne,PA,15110,US,prepaid,AAA (free package),07/22/2025 15:52:00,0.0,,UPS,,,0
 5176,344688, Tod Chapman,,405 N Broadway St,,Mount Pleasant,IA,52641,United States,Prepaid,AAA (free package),07/18/2025 15:34:00,0.0,,UPS,,,0
 13090,344702, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/21/2025 14:51:00,0.0,,UPS,,,0
@@ -1611,9 +1611,6 @@ A45759,343729,Robert Harvey,,11754 W Gate Dr,,Theodore,AL,36582,USA,1ZJ201R90309
 #146360,343733,Ann Hartigan,,19 4th Street,,rehoboth beach,DE,19971,USA,9261290336147509695227,,07/07/2025 14:20:36,7.17,,DHL,D32,DHL < 1lb Ground,0
 4567,340027, Mark Hood,,2136 S 229th St,,Des Moines,WA,98198,United States,Prepaid,AAA (free package),07/30/2025 10:22:00,0.0,,UPS,,,0
 138,340036, Bonafide Provisions,Bonafide Provisions,7651 St. Andrews Ave.,,San Diego,California,92154,United States,LTL Freight,AAA (free package),06/02/2025 13:42:00,0.0,,UPS,,,0
-DVU_716,340111,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:23:00,0.0,,UPS,,,0
-DVU_717,340112,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:24:00,0.0,,UPS,,,0
-DVU_718,340113,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:24:00,0.0,,UPS,,,0
 DVU_719,340114,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:24:00,0.0,,UPS,,,0
 DVU_720,340115,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:25:00,0.0,,UPS,,,0
 DVU_721,340116,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 12:22:00,0.0,,UPS,,,0
@@ -1627,21 +1624,24 @@ DVU_726,340121,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 8377751463,340124,,Resideo El Paso Dist Ctr,1301 Joe Battle Blvd,,El Paso,TX,79936-0903,US,LTL Freight,AAA (free package),06/02/2025 16:06:00,0.0,,UPS,,,0
 8377751464,340125,,Resideo El Paso Dist Ctr,1301 Joe Battle Blvd,,El Paso,TX,79936-0903,US,LTL Freight,AAA (free package),06/02/2025 16:06:00,0.0,,UPS,,,0
 8377751465,340126,,Resideo El Paso Dist Ctr,1301 Joe Battle Blvd,,El Paso,TX,79936-0903,US,LTL Freight,AAA (free package),06/02/2025 16:07:00,0.0,,UPS,,,0
-DVU_715,340110,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:23:00,0.0,,UPS,,,0
+DVU_718,340113,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:24:00,0.0,,UPS,,,0
+8377752084,340142,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,LTL Freight,AAA (free package),06/03/2025 08:27:00,0.0,,UPS,,,0
+8377752087,340144,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,LTL Freight,AAA (free package),06/03/2025 08:29:00,0.0,,UPS,,,0
+8377752091,340147,,Superior Radiant Products Ltd,563 Barton St.,,Stoney Creek,ON,L8E 5S1,CA,prepaid,AAA (free package),06/02/2025 15:25:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377752101,340151,,Gas-Fired Products,1700 Parker Dr,,Charlotte,NC,28208-6236,US,LTL Freight,AAA (free package),06/09/2025 16:19:00,0.0,,UPS,,,0
 8377752102,340152,,Jakel Motors (Mexico) C/O Prot,3822 Adams Cir,,Eagle Pass,TX,78852-5793,US,prepaid,AAA (free package),06/02/2025 15:26:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377752107,340154,,Frymaster Corporation,8700 Line Avenue,,Shreveport,LA,71106-6814,US,LTL Freight,AAA (free package),06/02/2025 15:29:00,0.0,,UPS,,,0
 8377752112,340158,,Captive-Aire Systems,4031 Tull Avenue,,Muskogee,OK,74403,US,LTL Freight,AAA (free package),06/03/2025 08:26:00,0.0,,UPS,,,0
 8377752113,340159,,Contract Manufacturers Inc,729 N Fleishel Ave,,Tyler,TX,75702-6083,US,prepaid,AAA (free package),06/02/2025 15:25:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-DVU_714,340109,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:22:00,0.0,,UPS,,,0
+DVU_717,340112,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:24:00,0.0,,UPS,,,0
 8377752118,340162,,Captive-Aire Systems,305 Northbrook Dr,,Youngsville,NC,27596-7658,US,LTL Freight,AAA (free package),06/02/2025 15:17:00,0.0,,UPS,,,0
 8377752119,340163,,LB White Company  Inc.,411 Mason Street,,Onalaska,WI,54650,US,LTL Freight,AAA (free package),06/02/2025 15:17:00,0.0,,UPS,,,0
 8377752120,340164,,Resideo Smart Home Technology,Dock B10  China Over,,Tianjin,12,300457,CN,LTL Freight,AAA (free package),06/09/2025 15:40:00,0.0,,UPS,,,0
-DVU_713,340108,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:22:00,0.0,,UPS,,,0
-DVU_712,340107,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:21:00,0.0,,UPS,,,0
+DVU_716,340111,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:23:00,0.0,,UPS,,,0
+DVU_715,340110,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:23:00,0.0,,UPS,,,0
 8377840807,344377,,Lennox Industries Inc,200 South 12th Avenu,,Marshalltown,IA,50158-3005,US,prepaid,AAA (free package),07/15/2025 15:24:00,0.0,,UPS,,,0
 8377840808,344378,,Schwank USA Inc.,2 Schwank Way,,Waynesboro,GA,30830-1154,US,LTL Freight,AAA (free package),07/16/2025 15:25:00,0.0,,UPS,,,0
-DVU_711,340106,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:21:00,0.0,,UPS,,,0
+DVU_714,340109,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:22:00,0.0,,UPS,,,0
 8377840811,344380,,Manufacturas Avanzadas Ramsal,13702 Mercury Dr,,Laredo,TX,78045-3726,US,prepaid,AAA (free package),07/16/2025 15:37:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377840817,344381,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),07/17/2025 08:35:00,0.0,,UPS,,,0
 8377840819,344382,,US Boiler Company,2920 Old Tree Dr,,Lancaster,PA,17603-4082,US,prepaid,AAA (free package),07/16/2025 15:37:00,0.0,,UPS,M4,Expedited Mail Innovations,0
@@ -1658,7 +1658,7 @@ DVU_711,340106,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 8377840838,344395,,A O Smith Water Products,25589 Highway One,,Mc Bee,SC,29101,US,prepaid,AAA (free package),07/18/2025 15:13:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377840839,344396,,US Boiler Warehouse,2930 Old Tree Drive,,Lancaster,PA,17603,US,prepaid,AAA (free package),07/18/2025 15:21:00,0.0,,UPS,,,0
 13056,344397, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/15/2025 14:23:00,0.0,,UPS,,,0
-DVU_710,340105,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/20/2025 09:25:00,0.0,,UPS,,,0
+DVU_713,340108,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:22:00,0.0,,UPS,,,0
 13058,344399, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/15/2025 14:36:00,0.0,,UPS,,,0
 13059,344400, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/15/2025 14:36:00,0.0,,UPS,,,0
 13060,344401, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/15/2025 14:24:00,0.0,,UPS,,,0
@@ -1669,7 +1669,7 @@ DVU_710,340105,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 5125,344406, Paul Hahnenberger,,6128 Sara Suzann Ln,,El Paso,TX,79932,United States,Prepaid,AAA (free package),07/16/2025 11:47:00,0.0,,UPS,,,0
 5124,344407, Enrique Rial,,Rua de Feliciano Rolan 1,,Vigo,Pontevedra,36203,Spain,Prepaid,AAA (free package),07/16/2025 11:47:00,0.0,,UPS,,,0
 8377835017,344408,,Merks Inc,803a Park Ave,,Murfreesboro,TN,37129,US,LTL Freight,AAA (free package),07/18/2025 15:04:00,0.0,,UPS,,,0
-DVU_709,340104,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:17:00,0.0,,UPS,,,0
+DVU_712,340107,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:21:00,0.0,,UPS,,,0
 5126,344410, Russ Garner,,410 Plains Drive,,Mountain Home,AR,72653,United States,Prepaid,AAA (free package),07/16/2025 11:48:00,0.0,,UPS,,,0
 5127,344411, Ian Alejandro Alcocer Cancino,,5011 Montoya Ave.,APT 78,Richmond,CA,94805,United States,Prepaid,AAA (free package),07/16/2025 11:52:00,0.0,,UPS,,,0
 5128,344412, Jonathan Stern-Charles,,1805 CRYSTAL DR,APT 516-S,Arlington ,VA,22202,United States,Prepaid,AAA (free package),07/16/2025 11:51:00,0.0,,UPS,,,0
@@ -1693,10 +1693,10 @@ A45795,344416,Christian Merlino,,315 Bougher Hill Road,,Easton,PA,18042,USA,9400
 #146511,344429,Nathan Rosidi,,40 La Salle Dr,,Moraga,CA,94556-1510,USA,9261290336147513290074,,07/15/2025 14:13:13,7.64,,DHL,D43,DHL > 1lb Expedited,0
 #146512,344430,Najua Ojeil,,1720 New York Ave,Apt 307,Union City,NJ,07087,USA,61292013550820513761,,07/15/2025 14:15:26,8.92,,OTHER,FedEx,,0
 #146513,344431,Holly Dunlap,,690 Harbor St,Unit 3,Venice,CA,90291,USA,9261290336147513255073,,07/15/2025 14:14:52,7.04,,DHL,D43,DHL > 1lb Expedited,0
-DVU_709,340104,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),07/11/2025 14:19:00,0.0,,UPS,,,0
+DVU_711,340106,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:21:00,0.0,,UPS,,,0
 13066,344433, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/16/2025 14:49:00,0.0,,UPS,,,0
 13067,344434, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/16/2025 14:53:00,0.0,,UPS,,,0
-8377751116,340096,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),06/02/2025 15:40:00,0.0,,UPS,,,0
+DVU_710,340105,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/20/2025 09:25:00,0.0,,UPS,,,0
 13069,344436, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/16/2025 14:48:00,0.0,,UPS,,,0
 84,344437, Ian Townsend,Full Glass Enterprise,1440 Innovative Dr.,#400,San Diego,CA,92154,USA ,LTL Freight,AAA (free package),07/17/2025 13:04:00,0.0,,UPS,,,0
 5133,344438, Don Hefner,,3190 Xanthus Ln N,,Plymouth,MN,55447,United States,Prepaid,AAA (free package),07/16/2025 13:31:00,0.0,,UPS,,,0
@@ -1708,7 +1708,7 @@ DVU_709,340104,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 5139,344444, Jared malow,,1430 1st St,,Port Townsend,WA,98368,United States,Prepaid,AAA (free package),07/16/2025 11:52:00,0.0,,UPS,,,0
 5140,344445, Patrick Aldrich,,1514 20th Ave N,,Texas City,TX,77590,United States,Prepaid,AAA (free package),07/16/2025 11:53:00,0.0,,UPS,,,0
 5141,344446, George Richardson,,6324 Timberly Lane,,Zephyrhills,FL,33542,United States,Prepaid,AAA (free package),07/16/2025 11:53:00,0.0,,UPS,,,0
-8377750582,340091,,???????(??)????,????? ?? B10?,,??,12,300457,CN,LTL Freight,AAA (free package),06/09/2025 15:40:00,0.0,,UPS,,,0
+DVU_709,340104,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Frieght,AAA (free package),07/11/2025 14:17:00,0.0,,UPS,,,0
 379,344448, Liz Meza,Taoglas USA Inc.,4851 Paramount Drive,,San Diego,CA,92123,United States,8828 4026 6978,AAA (free package),07/17/2025 08:03:00,0.0,,FEDEX GROUND,,,0
 A45796,344449,Shauna McGloin,,89 Dunes Circle,,Cathedral City,CA,92234,USA,pickup,AAA (free package),07/21/2025 11:59:00,0.0,,OTHER,,,0
 A45797,344450,Jose Nieves,DIGITAL SOUND CONTRACTORS,250 Calle Malagueta Urb los flamboyanes,,Gurabo,PR,00778,USA,9434609105114133947134,,07/16/2025 11:02:45,60.65,,USPS,P11,Parcel Select,0
@@ -1741,6 +1741,9 @@ A45797,344450,Jose Nieves,DIGITAL SOUND CONTRACTORS,250 Calle Malagueta Urb los 
 8377843045,344473,,NORTHRIDGE,2685 Northridge Dr N,,Grand Rapids,MI,49544-9111,US,prepaid,AAA (free package),07/16/2025 15:37:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377843046,344474,,Ademco Australia PTY Limited,1/162 Australis Driv,,Derrimut,VIC,3026,AU,LTL Freight,AAA (free package),07/28/2025 08:17:00,0.0,,UPS,,,0
 8377843236,344475,,Jakel Motors (Mexico) C/O Prot,3822 Adams Cir,,Eagle Pass,TX,78852-5793,US,prepaid,AAA (free package),07/17/2025 15:54:00,0.0,,UPS,,,0
+DVU_709,340104,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),07/11/2025 14:19:00,0.0,,UPS,,,0
+8377751116,340096,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),06/02/2025 15:40:00,0.0,,UPS,,,0
+8377750582,340091,,???????(??)????,????? ?? B10?,,??,12,300457,CN,LTL Freight,AAA (free package),06/09/2025 15:40:00,0.0,,UPS,,,0
 8377750155,340088,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),06/03/2025 14:44:00,0.0,,UPS,,,0
 8377749287,340055,,Ademco Australia PTY Limited,1/162 Australis Driv,,Derrimut,VIC,3026,AU,LTL Freight,AAA (free package),06/04/2025 15:19:00,0.0,,UPS,,,0
 137,340020, Bonafide Provisions,Bonafide Provisions,7651 St. Andrews Ave.,,San Diego,California,92154,United States,LTL Freight,AAA (free package),06/02/2025 13:40:00,0.0,,UPS,,,0
@@ -1751,9 +1754,6 @@ A45797,344450,Jose Nieves,DIGITAL SOUND CONTRACTORS,250 Calle Malagueta Urb los 
 8377735080,339351,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),06/03/2025 14:42:00,0.0,,UPS,,,0
 343,339342, Liz Meza,"Taoglas USA, Inc.",4851 Paramount Drive,,San Diego,CA,92123,United States,pickup,AAA (free package),06/02/2025 14:50:00,0.0,,UPS,,,0
 8377734197,339330,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),06/03/2025 14:42:00,0.0,,UPS,,,0
-8377752091,340147,,Superior Radiant Products Ltd,563 Barton St.,,Stoney Creek,ON,L8E 5S1,CA,prepaid,AAA (free package),06/02/2025 15:25:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377752087,340144,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,LTL Freight,AAA (free package),06/03/2025 08:29:00,0.0,,UPS,,,0
-8377752084,340142,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,LTL Freight,AAA (free package),06/03/2025 08:27:00,0.0,,UPS,,,0
 8377752079,340139,,Mestek,3576 S Fields St,,Farmville,NC,27828,US,LTL Freight,AAA (free package),06/03/2025 10:00:00,0.0,,UPS,,,0
 8377752028,340136,,Laars Heating Systems,20 Industrial Way,,Rochester,NH,03867,US,prepaid,AAA (free package),06/02/2025 15:15:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377752117,340161,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),06/02/2025 15:14:00,0.0,,UPS,M4,Expedited Mail Innovations,0
@@ -2036,8 +2036,11 @@ A45597,340346,James Firman,,1044 north avenue 50,,los angeles,CA,90042,USA,1ZJ20
 #3286,340351,Traci Dow,,738 County Road 700 North,New Life Lactation PLLC,Toledo,IL,62468,USA,1ZJ201R90318348460,,06/02/2025 13:32:15,19.08,,UPS,U11,UPS Ground,0
 1197,340352, Kelly Cottrell,Amazon,7312 JOURNEYVILLE DR,,AUSTIN,TX,78735-1762,United States,61292013550820507128,,06/02/2025 14:12:12,8.78,,OTHER,FedEx,,0
 A45602,340353,William Anderson,,2026 14th Ave. SW,,Vero Beach,FL,32962,USA,9400109105114655999237,,06/02/2025 14:19:23,4.97,,USPS,P10,First-Class Package Service,0
+A45605,340366,Christopher Feller,,7039 Garrett Hwy.,,Oakland,MD,21550,USA,1ZJ201R90304510667,,06/03/2025 09:33:54,25.08,,UPS,U11,UPS Ground,0
+A45603,340367,Jeff Jordan,,13607 Shoup Ave,,Hawthorne,CA,90250,USA,1ZJ201R9YW13582646,Box - 10 x 10 x 10,06/03/2025 09:32:50,8.35,,OTHER,UPS,,0
 1159,340372, Jose Ramos,,8187 RANCHERIA DR,APT A,RANCHO CUCAMONGA,CA,91730-3153,USA,9261290336147506900027,,06/03/2025 09:41:27,5.78,,DHL,D32,DHL < 1lb Ground,0
-#3287,340371,John Berndt,,13285 19P Street NW,,Arnegard,ND,58835,USA,61292013550820507159,,06/03/2025 09:36:16,17.39,,OTHER,FedEx,,0
+8377757727,340378,,Lochinvar Corporation,300 Maddox Simpson P,,Lebanon,TN,37090,US,prepaid,AAA (free package),06/04/2025 15:35:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377757728,340379,,Laars Heating Systems,20 Industrial Way,,Rochester,NH,03867,US,prepaid,AAA (free package),06/04/2025 15:29:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377757729,340380,,A O Smith Apcom Dvi,125 Southeast Pkwy,,Franklin,TN,37064,US,LTL Freight,AAA (free package),06/04/2025 16:25:00,0.0,,UPS,,,0
 8377757730,340381,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),06/04/2025 16:21:00,0.0,,UPS,,,0
 8377757731,340382,,Wayne Combustion Systems,801 Glasgow Ave,,Fort Wayne,IN,46803-1344,US,prepaid,AAA (free package),06/04/2025 15:30:00,0.0,,UPS,M4,Expedited Mail Innovations,0
@@ -2068,15 +2071,17 @@ A45602,340353,William Anderson,,2026 14th Ave. SW,,Vero Beach,FL,32962,USA,94001
 8377759296,340407,,Cleveland Range LTD (Welbilt),8251 Keele St,,Concord,ON,L4K 1Z1,CA,prepaid,AAA (free package),06/04/2025 15:39:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377759297,340408,,Marcole Enterprises Llc,1108 Oakdale Street,,Manchester,TN,37355,US,LTL Freight,AAA (free package),06/03/2025 16:24:00,0.0,,UPS,,,0
 8377759298,340409,,Mestek,3576 S Fields St,,Farmville,NC,27828,US,prepaid,AAA (free package),06/04/2025 15:36:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377759299,340410,,Williams Furnace Company,220 W Laurel St,,Colton,CA,92324-1435,US,prepaid,AAA (free package),06/04/2025 15:30:00,0.0,,UPS,,,0
-8377759303,340411,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),06/04/2025 15:28:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377757718,340377,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),06/03/2025 15:47:00,0.0,,UPS,,,0
+8377757717,340376,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),06/03/2025 16:36:00,0.0,,UPS,,,0
+8377757716,340375,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),06/03/2025 15:48:00,0.0,,UPS,,,0
+8377757715,340374,,Ferguson Enterprises Inc,3730 Martin Luther K,,Waterloo,IA,50703-9629,US,prepaid,AAA (free package),06/04/2025 15:31:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377757714,340373,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),06/04/2025 15:44:00,0.0,,UPS,,,0
+#3287,340371,John Berndt,,13285 19P Street NW,,Arnegard,ND,58835,USA,61292013550820507159,,06/03/2025 09:36:16,17.39,,OTHER,FedEx,,0
 655,340370, Jessica Pursley ,Gypsy Life Handcrafted Magic, 88 W. Maple St  ,,Losantville,IN,47354  ,United States of America,1ZJ201R90308204553,Box - 12 x 12 x 12,06/03/2025 09:21:26,18.67,,UPS,U11,UPS Ground,0
 655,340370, Jessica Pursley ,Gypsy Life Handcrafted Magic, 88 W. Maple St  ,,Losantville,IN,47354  ,United States of America,1ZJ201R90315182546,,06/03/2025 09:21:26,23.42,,UPS,U11,UPS Ground,0
 655,340370, Jessica Pursley ,Gypsy Life Handcrafted Magic, 88 W. Maple St  ,,Losantville,IN,47354  ,United States of America,1ZJ201R90309364530,,06/03/2025 09:21:26,30.51,,UPS,U11,UPS Ground,0
 1399,340369, Marie Rhudy,,3923 Postridge Trail,,Melbourne,FL,32934,United States,9261290336147506915106,,06/03/2025 09:40:07,6.65,,DHL,D32,DHL < 1lb Ground,0
 1398,340368, Christopher Engel,,130 North Remington Road,,Columbus,OH,43209,United States,9405509105114130790727,,06/03/2025 09:38:08,10.83,,USPS,P03,Priority Mail,0
-A45603,340367,Jeff Jordan,,13607 Shoup Ave,,Hawthorne,CA,90250,USA,1ZJ201R9YW13582646,Box - 10 x 10 x 10,06/03/2025 09:32:50,8.35,,OTHER,UPS,,0
-A45605,340366,Christopher Feller,,7039 Garrett Hwy.,,Oakland,MD,21550,USA,1ZJ201R90304510667,,06/03/2025 09:33:54,25.08,,UPS,U11,UPS Ground,0
 A45604,340365,Rob Bloch,,241 Laurens St SW,,Aiken,SC,29801,USA,61292013550820507142,Box - 16 x 12 x 6,06/03/2025 09:33:19,9.18,,OTHER,FedEx,,0
 3705238989,340364,Susan Gallagher,,425 Beech St,,Arroyo Grande,CA,93420,USA,9261290336147506915090,,06/03/2025 09:31:34,5.79,,DHL,D32,DHL < 1lb Ground,0
 #3840,340363,Juliet Kunderman,,6318 Highland Estates Drive,,St. Louis,MO,63129,USA,61292013550820507135,,06/03/2025 09:32:19,8.78,,OTHER,FedEx,,0
@@ -2087,13 +2092,8 @@ A45604,340365,Rob Bloch,,241 Laurens St SW,,Aiken,SC,29801,USA,61292013550820507
 8377757642,340356,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,prepaid,AAA (free package),06/03/2025 15:39:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377757443,340355,,DOMINION INDUSTRIAL SA de CV,REVILLAGIGEDO 37H,,CIUDAD DE MEXICO,,06500,MX,prepaid,AAA (free package),06/03/2025 15:39:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377757074,340354,,US Boiler Warehouse,2930 Old Tree Drive,,Lancaster,PA,17603,US,prepaid,AAA (free package),06/03/2025 15:42:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377757728,340379,,Laars Heating Systems,20 Industrial Way,,Rochester,NH,03867,US,prepaid,AAA (free package),06/04/2025 15:29:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377757727,340378,,Lochinvar Corporation,300 Maddox Simpson P,,Lebanon,TN,37090,US,prepaid,AAA (free package),06/04/2025 15:35:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377757718,340377,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),06/03/2025 15:47:00,0.0,,UPS,,,0
-8377757717,340376,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),06/03/2025 16:36:00,0.0,,UPS,,,0
-8377757716,340375,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),06/03/2025 15:48:00,0.0,,UPS,,,0
-8377757715,340374,,Ferguson Enterprises Inc,3730 Martin Luther K,,Waterloo,IA,50703-9629,US,prepaid,AAA (free package),06/04/2025 15:31:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377757714,340373,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),06/04/2025 15:44:00,0.0,,UPS,,,0
+8377759299,340410,,Williams Furnace Company,220 W Laurel St,,Colton,CA,92324-1435,US,prepaid,AAA (free package),06/04/2025 15:30:00,0.0,,UPS,,,0
+8377759303,340411,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),06/04/2025 15:28:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 1025,340412, The Spiceman’s Kitchen,Spiceman's Kitchen LLC,815 Dodecanese Boulevard,,Tarpon Springs,FL,34689 ,,Prepaid,AAA (free package),06/03/2025 16:21:00,0.0,,UPS,,,0
 1026,340413, Joanna Culmone ,Mother Dough,1336 Vardon Road,,Brigantine,NJ,08203 ,,Prepaid,AAA (free package),06/03/2025 16:21:00,0.0,,UPS,,,0
 415,340414, Brad Kauer,Merry water farms,N1240 Hillside Road,,Lake Geneva,Wisconsin ,53147,USA,1ZJ201R90327864224,,06/03/2025 09:57:35,17.94,,UPS,U11,UPS Ground,0
@@ -2171,26 +2171,14 @@ DVU_895,341191,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 DVU_896,341192,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:34:00,0.0,,UPS,,,0
 DVU_897,341193,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:34:00,0.0,,UPS,,,0
 DVU_898,341194,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,,AAA (free package),06/10/2025 08:35:00,0.0,,UPS,,,0
-DVU_899,341195,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:35:00,0.0,,UPS,,,0
-DVU_900,341196,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:35:00,0.0,,UPS,,,0
-DVU_901,341197,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:36:00,0.0,,UPS,,,0
-DVU_902,341198,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:36:00,0.0,,UPS,,,0
-DVU_903,341199,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:36:00,0.0,,UPS,,,0
 DVU_904,341200,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:36:00,0.0,,UPS,,,0
 DVU_905,341201,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:37:00,0.0,,UPS,,,0
 DVU_906,341202,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:37:00,0.0,,UPS,,,0
 DVU_907,341203,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:37:00,0.0,,UPS,,,0
-4734,341204, Chris Almonte,,48 Blaine Street,,Cranston,RI,02920,United States,Prepaid,AAA (free package),06/10/2025 10:22:00,0.0,,UPS,,,0
-4735,341205, Chad Hawks,,6201 SE Chesney St,,Hillsboro,OR,97123,United States,Prepaid,AAA (free package),06/10/2025 10:10:00,0.0,,UPS,,,0
-4736,341206, Jesse Reyes Zaragoza,,445 Yuba PL.,,Woodland,CA,95695,United States,Prepaid,AAA (free package),06/10/2025 09:57:00,0.0,,UPS,,,0
-4737,341207, Colten HOOD,,2136 S 229th St,,Des Moines,WA,98198,United States,Prepaid,AAA (free package),06/10/2025 09:57:00,0.0,,UPS,,,0
 4738,341208, DAVID CEVARR,,2819 Walnut Street,,BETHEL PARK,PA,15102,United States,Prepaid,AAA (free package),06/10/2025 10:02:00,0.0,,UPS,,,0
 4739,341209, Jan Garcia Sotelo,,2000 Northwest 97th Avenue,,Doral,FL,33172,United States,Prepaid,AAA (free package),06/10/2025 10:12:00,0.0,,UPS,,,0
 4740,341210, Charles Frasch,,1322 Hill Drive,,Largo,FL,33770,United States,Prepaid,AAA (free package),06/10/2025 10:06:00,0.0,,UPS,,,0
 4741,341211, Sophia Goncalves,,672 Wishaw Lane,,Winter Springs,FL,32708,United States,Prepaid,AAA (free package),06/10/2025 10:13:00,0.0,,UPS,,,0
-4742,341212, Fernando David,,4810 Southwest 54th Terrace,,Davie,FL,33314,United States,Prepaid,AAA (free package),06/10/2025 10:09:00,0.0,,UPS,,,0
-A45640,341213,David Meissner,,214 W. Hackberry Ave.,,Enid,OK,73701,USA,9400109105114656761512,,06/10/2025 09:55:00,5.09,,USPS,P10,First-Class Package Service,0
-#124888,341214,Daniel Sternberg,,805 park road,,Ojai,CA,93023,USA,9261290336147508765099,,06/10/2025 10:12:19,7.17,,DHL,D43,DHL > 1lb Expedited,0
 #124873,341215,Rebecca Kashiwagi,,441 Cedar Street,,Jenkintown,PA,19046,USA,61292013550820508453,,06/10/2025 10:13:51,8.88,,OTHER,FedEx,,0
 #124881,341217,Tina Pieniazek,,120A Collen Drive Apt 201,,Lombard,IL,60148,USA,61292013550820508446,,06/10/2025 10:00:14,8.88,,OTHER,FedEx,,0
 #124884,341218,Lauren Kemmerer,,307 Cazenovia St,,East Aurora,NY,14052,USA,1ZJ201R90302396241,,06/10/2025 09:14:37,26.68,,UPS,U11,UPS Ground,0
@@ -2208,7 +2196,6 @@ A45640,341213,David Meissner,,214 W. Hackberry Ave.,,Enid,OK,73701,USA,940010910
 #145654,341230,Tara Owens,,5945 Chokecherry Drive,,Colorado Springs,CO,80919,USA,9261290336147508770161,,06/10/2025 11:22:45,6.36,,DHL,D32,DHL < 1lb Ground,0
 #145655,341231,sam williams,,1616 Bethlehem Road,,Knightdale,NC,27545,USA,61292013550820508507,,06/10/2025 11:23:32,8.88,,OTHER,FedEx,,0
 #145656,341232,Sarah Sherman,,95 Suffolk Rd,,Chestnut Hill,MA,02467,USA,61292013550820508484,,06/10/2025 11:21:34,8.88,,OTHER,FedEx,,0
-#145667,341233,Christina Merideth,,10417 Edinburgh Drive,,Spotsylvania Courthouse,VA,22553,USA,9261290336147508765105,,06/10/2025 11:02:40,7.07,,DHL,D32,DHL < 1lb Ground,0
 #145663,341234,Jamie Brown,,1219 Woodcliff Court,,Alexandria,VA,22308,USA,61292013550820508477,,06/10/2025 11:03:09,8.88,,OTHER,FedEx,,0
 #145664,341235,Danielle Day,,64 Mapleview Road,,Cheektowaga,NY,14225,USA,9261290336147508735207,,06/10/2025 11:02:13,6.86,,DHL,D32,DHL < 1lb Ground,0
 #145665,341236,Regina Baptista,,1403 Bay Boulevard,,Lavallette,NJ,08735,USA,61292013550820508460,,06/10/2025 10:50:07,10.78,,OTHER,FedEx,,0
@@ -2216,7 +2203,6 @@ A45640,341213,David Meissner,,214 W. Hackberry Ave.,,Enid,OK,73701,USA,940010910
 661,341238, Fine Fettle ,Fine Fettle, 16 Bridge Square  ,,Northfield,MN ,55057  ,United States of America,1ZJ201R90339697231,,06/10/2025 09:56:05,18.13,,UPS,U11,UPS Ground,0
 87,341239, Stephanie Bryan ,,Oak Street 75,,Boston,MA,02180,,61292013550820508439,Box - 10 x 10 x 10,06/10/2025 09:58:04,10.78,,OTHER,FedEx,,0
 88,341240, Kyle Wilhem ,,323 Meadowview Drive,,Trappe,PA,19426,,9261290336147508770147,Box - 8 x 8 x 8,06/10/2025 09:55:29,6.56,,DHL,D32,DHL < 1lb Ground,0
-538_1,341242,,Marshalls (DC 01 - 881),3000 S. 55TH AVENUE,,PHOENIX,AZ,85043,USA,LTL Freight,AAA (free package),06/13/2025 08:08:00,0.0,,UPS,,,0
 8377774484,341243,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),06/10/2025 17:08:00,0.0,,UPS,,,0
 8377774492,341244,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,LTL Freight,AAA (free package),06/10/2025 17:00:00,0.0,,UPS,,,0
 8377774495,341245,,Greenheck Fan Corporation  FAC,400 Ross Avenue,,Schofield,WI,54476,US,LTL Freight,AAA (free package),06/10/2025 16:58:00,0.0,,UPS,,,0
@@ -2260,7 +2246,10 @@ A45640,341213,David Meissner,,214 W. Hackberry Ave.,,Enid,OK,73701,USA,940010910
 8377775210,341277,,Crown Boiler,3633 I Street,,Philadelphia,PA,19134-1451,US,LTL Freight,AAA (free package),06/12/2025 16:11:00,0.0,,UPS,,,0
 8377775216,341278,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),06/11/2025 15:49:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 539_1,341279,,Marshalls PO # 04 480925,3900 GLOBAL REACH DR,,EL PASO,TX,79925,USA,LTL Freight,AAA (free package),06/12/2025 12:03:00,0.0,,UPS,,,0
+8377772353,341125,,Frymaster Corporation,8700 Line Avenue,,Shreveport,LA,71106-6814,US,prepaid,AAA (free package),06/10/2025 15:57:00,0.0,,UPS,,,0
 3712853515,341290,Juan Calle,,1475 Canoochee Dr Ne,,Brookhaven,GA,30319-3471,USA,61292013550820508521,,06/10/2025 12:36:27,8.88,,OTHER,FedEx,,0
+538_1,341242,,Marshalls (DC 01 - 881),3000 S. 55TH AVENUE,,PHOENIX,AZ,85043,USA,LTL Freight,AAA (free package),06/13/2025 08:08:00,0.0,,UPS,,,0
+#124903,341292,Maurice Calloway,,420 Northeast 72nd Street,APT 305,Seattle,WA,98115,USA,61292013550820508514,,06/10/2025 12:33:53,8.88,,OTHER,FedEx,,0
 #124892,341293,Klinton Bicknell,,693 Wheeler Hill Road,,Wappingers Falls,NY,12590,USA,9261290336147508760193,,06/10/2025 12:34:24,5.84,,DHL,D32,DHL < 1lb Ground,0
 #124893,341294,John Busch,,780 Wildcat Canyon Rd,,Berkeley,CA,94708,USA,9261290336147508770178,,06/10/2025 12:35:08,7.64,,DHL,D43,DHL > 1lb Expedited,0
 #145670,341295,Lauren Levinson,,5802 Knightsbridge Drive,,Dallas,TX,75252,USA,1ZJ201R9YW01565026,,06/10/2025 12:47:01,8.82,,OTHER,UPS,,0
@@ -2278,11 +2267,17 @@ A45640,341213,David Meissner,,214 W. Hackberry Ave.,,Enid,OK,73701,USA,940010910
 8377775752,341307,,ATLANTA WAREHOUSE GDC,4286 Southmeadow Eas,,Atlanta,GA,30349-1856,US,prepaid,AAA (free package),06/10/2025 16:01:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 536_1,341308,,TJX Group (Home Goods),770 Cochituate Rd,,Framingham,MA,1701,USA,1ZJ201R90335298410,,06/12/2025 15:28:23,14.17,,UPS,U11,UPS Ground,0
 1199,341309, Tanya Harrison,amazon,5403 WILLIAM HOLLAND AVE APT 209,,AUSTIN,TX,78756-2025,United States,61292013550820508545,,06/10/2025 14:17:37,8.88,,OTHER,FedEx,,0
+#145667,341233,Christina Merideth,,10417 Edinburgh Drive,,Spotsylvania Courthouse,VA,22553,USA,9261290336147508765105,,06/10/2025 11:02:40,7.07,,DHL,D32,DHL < 1lb Ground,0
+#145678,341311,Alex Siwek,,9975 Peace Way #2098,,Las Vegas,NV,89147,USA,9261290336147508730080,,06/10/2025 14:22:37,7.17,,DHL,D43,DHL > 1lb Expedited,0
 #145677,341312,Nikki Pascoe,,2008 S. Cedarbrook Ave,,Springfield,MO,65804,USA,9261290336147508735238,,06/10/2025 14:23:33,6.72,,DHL,D43,DHL > 1lb Expedited,0
 #145675,341313,Margot McConnell,,3611 Congress Ave,405,Dallas,TX,75219,USA,9261290336147508735221,,06/10/2025 14:22:53,6.67,,DHL,D32,DHL < 1lb Ground,0
 #145676,341314,Dena Magrish,,28 Elm Drive,,Pittsburgh,PA,15238,USA,9261290336147508730097,,06/10/2025 14:23:14,6.95,,DHL,D32,DHL < 1lb Ground,0
 4743,341315, Hovan Godzhoyan,,903 Omar St,,Glendale,CA,91202,United States,9434609105114656807007,,06/10/2025 14:54:49,6.68,,USPS,P11,Parcel Select,0
 4744,341316, James Robinson,,14660 NW 17th DR,,Miami,FL,33167,United States,61292013550820508569,,06/10/2025 14:53:32,8.88,,OTHER,FedEx,,0
+#124888,341214,Daniel Sternberg,,805 park road,,Ojai,CA,93023,USA,9261290336147508765099,,06/10/2025 10:12:19,7.17,,DHL,D43,DHL > 1lb Expedited,0
+DVU_909,341318,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:49:00,0.0,,UPS,,,0
+DVU_911,341320,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:49:00,0.0,,UPS,,,0
+DVU_912,341321,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:49:00,0.0,,UPS,,,0
 DVU_913,341322,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:49:00,0.0,,UPS,,,0
 DVU_914,341323,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:50:00,0.0,,UPS,,,0
 DVU_915,341324,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:50:00,0.0,,UPS,,,0
@@ -2298,9 +2293,14 @@ DVU_924,341333,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 DVU_925,341334,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:53:00,0.0,,UPS,,,0
 DVU_926,341335,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:53:00,0.0,,UPS,,,0
 4745,341336, Gary Maloney,,460 Trimmer Road,,Spencerport,NY,14559,United States,61292013550820508583,,06/11/2025 09:02:04,8.88,,OTHER,FedEx,,0
+A45640,341213,David Meissner,,214 W. Hackberry Ave.,,Enid,OK,73701,USA,9400109105114656761512,,06/10/2025 09:55:00,5.09,,USPS,P10,First-Class Package Service,0
+A45645,341338,Michael Dramstad,Millennium Sound Productions,133 3rd ST SE,,HURON,SD,57350-4353,USA,289664257219,,06/11/2025 08:47:21,24.73,,FEDEX,R02,Ground,0
+4742,341212, Fernando David,,4810 Southwest 54th Terrace,,Davie,FL,33314,United States,Prepaid,AAA (free package),06/10/2025 10:09:00,0.0,,UPS,,,0
 A45643,341340,Frank Fusco,,3540 Overcreek Rd,,Columbia,SC,29206,USA,9400109105114656859165,,06/11/2025 09:02:31,5.33,,USPS,P10,First-Class Package Service,0
 #124926,341341,Betsy Moore,,2 Shadbush Cluster,,Doylestown,PA,18901,USA,9261290336147508735245,,06/11/2025 09:10:25,6.65,,DHL,D32,DHL < 1lb Ground,0
-A45644,341339,Armando Bernal,,1445 East Locust Drive,,Chandler,AZ,85286,USA,9400109105114656859387,,06/11/2025 09:03:33,4.98,,USPS,P10,First-Class Package Service,0
+4737,341207, Colten HOOD,,2136 S 229th St,,Des Moines,WA,98198,United States,Prepaid,AAA (free package),06/10/2025 09:57:00,0.0,,UPS,,,0
+#145687,341343,David Coon,,497 Greenwich Street,4A,New York,NY,10013,USA,9261290336147508755052,,06/11/2025 10:31:39,10.1,,DHL,D43,DHL > 1lb Expedited,0
+#145688,341344,Courtney Gonnella,,831 West Roscoe Street,Apt 1E,Chicago,IL,60657,USA,61292013550820508637,,06/11/2025 10:32:04,8.88,,OTHER,FedEx,,0
 #145689,341345,Nicole Spanos,,6 Woodgreen Way,,Syosset,NY,11791,USA,9261290336147508760216,,06/11/2025 10:42:46,7.07,,DHL,D32,DHL < 1lb Ground,0
 #145690,341346,Karen Kwarta,,27 NORTH ST,,SYOSSET,NY,11791-2714,USA,9261290336147508780153,,06/11/2025 10:41:07,6.86,,DHL,D32,DHL < 1lb Ground,0
 #145691,341347,Kelsey Sullivan,,816 Briar Lake Place,,Columbia,IL,62236,USA,9261290336147508745152,,06/11/2025 10:33:17,9.69,,DHL,D43,DHL > 1lb Expedited,0
@@ -2331,18 +2331,14 @@ A45644,341339,Armando Bernal,,1445 East Locust Drive,,Chandler,AZ,85286,USA,9400
 4752,341372, Ronald Ambrosius,,1069 East Grand Avenue,,Arroyo Grande,CA,93420,United States,Prepaid,AAA (free package),06/11/2025 13:53:00,0.0,,UPS,,,0
 4753,341373, Luna Yee,,1625 S Juanita St,,Boise,ID,83706,United States,Prepaid,AAA (free package),06/11/2025 13:52:00,0.0,,UPS,,,0
 4754,341374, Heather Miller,,2369 Autumn mist lane,,League City,TX,77573,United States,Prepaid,AAA (free package),06/11/2025 13:56:00,0.0,,UPS,,,0
-8377775847,341375,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),06/12/2025 08:50:00,0.0,,UPS,,,0
-8377775894,341376,,Johnstone Corp,4875 E Cheyenne Ave,,Las Vegas,NV,89115-3419,US,prepaid,AAA (free package),06/11/2025 15:49:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-A45645,341338,Michael Dramstad,Millennium Sound Productions,133 3rd ST SE,,HURON,SD,57350-4353,USA,289664257219,,06/11/2025 08:47:21,24.73,,FEDEX,R02,Ground,0
-357,341337, Stock Transfer / Liz MA1509.AK.005,Taoglas USA. Inc.,4851 Paramount Dr.,,San Diego,CA,92123,United States,8819 6199 2590,AAA (free package),06/11/2025 16:14:00,0.0,,FEDEX,,,0
-DVU_912,341321,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:49:00,0.0,,UPS,,,0
-DVU_911,341320,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:49:00,0.0,,UPS,,,0
-DVU_909,341318,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:49:00,0.0,,UPS,,,0
-DVU_908,341317,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:48:00,0.0,,UPS,,,0
-#145678,341311,Alex Siwek,,9975 Peace Way #2098,,Las Vegas,NV,89147,USA,9261290336147508730080,,06/10/2025 14:22:37,7.17,,DHL,D43,DHL > 1lb Expedited,0
-A45642,341310,Brandon Garcia,,303 S. Vaughn Ave,,Fritch,TX,79036,USA,61292013550820508552,,06/10/2025 14:18:40,17.22,,OTHER,FedEx,,0
-#124903,341292,Maurice Calloway,,420 Northeast 72nd Street,APT 305,Seattle,WA,98115,USA,61292013550820508514,,06/10/2025 12:33:53,8.88,,OTHER,FedEx,,0
-A45641,341291,Richard Fiedler,,1423 Southwest 109th Way,,Davie,FL,33324,USA,9400109105114131394105,,06/10/2025 12:35:36,5.33,,USPS,P10,First-Class Package Service,0
+4736,341206, Jesse Reyes Zaragoza,,445 Yuba PL.,,Woodland,CA,95695,United States,Prepaid,AAA (free package),06/10/2025 09:57:00,0.0,,UPS,,,0
+4735,341205, Chad Hawks,,6201 SE Chesney St,,Hillsboro,OR,97123,United States,Prepaid,AAA (free package),06/10/2025 10:10:00,0.0,,UPS,,,0
+4734,341204, Chris Almonte,,48 Blaine Street,,Cranston,RI,02920,United States,Prepaid,AAA (free package),06/10/2025 10:22:00,0.0,,UPS,,,0
+DVU_903,341199,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:36:00,0.0,,UPS,,,0
+DVU_902,341198,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:36:00,0.0,,UPS,,,0
+DVU_901,341197,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:36:00,0.0,,UPS,,,0
+DVU_900,341196,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:35:00,0.0,,UPS,,,0
+DVU_899,341195,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/10/2025 08:35:00,0.0,,UPS,,,0
 547_1,341289,,TJ Maxx (DC 80 - 898),4100 EASTLONE MOUNTAIN RD,TLV: MAXX LAS VEGAS DC # 898,NORTH LAS VEGAS,NV,89081,USA,LTL Freight,AAA (free package),06/13/2025 08:09:00,0.0,,UPS,,,0
 1035,341288, Orchards Ace Hardware,Orchards Ace Hardware,269 East 29th Street,,Loveland,CO,80538,,Prepaid,AAA (free package),06/10/2025 15:27:00,0.0,,UPS,,,0
 1034,341287, Highlands Ranch Ace Hardware ,Highlands Ranch Ace Hardware,9579 South University Boulevard,,Highlands Ranch,CO,80126,,Prepaid,AAA (free package),06/10/2025 15:08:00,0.0,,UPS,,,0
@@ -2353,10 +2349,14 @@ A45641,341291,Richard Fiedler,,1423 Southwest 109th Way,,Davie,FL,33324,USA,9400
 542_1,341282,,Marshalls (DC 08 - 888),83 COMMERCE WAY,,WOBURN,MA ,01801,USA,LTL Freight,AAA (free package),06/13/2025 08:12:00,0.0,,UPS,,,0
 541_1,341281,,Marshalls (DC 07 - 887),2300 MILLER ROAD,,DECATUR,GA,30035,USA,LTL Freight,AAA (free package),06/13/2025 08:11:00,0.0,,UPS,,,0
 540_1,341280,,Marshalls (DC 06 - 886),701 N. MAIN STREET,,BRIDGEWATER,VA,22812,USA,LTL Freight,AAA (free package),06/13/2025 08:11:00,0.0,,UPS,,,0
-8377772353,341125,,Frymaster Corporation,8700 Line Avenue,,Shreveport,LA,71106-6814,US,prepaid,AAA (free package),06/10/2025 15:57:00,0.0,,UPS,,,0
-#145688,341344,Courtney Gonnella,,831 West Roscoe Street,Apt 1E,Chicago,IL,60657,USA,61292013550820508637,,06/11/2025 10:32:04,8.88,,OTHER,FedEx,,0
-#145687,341343,David Coon,,497 Greenwich Street,4A,New York,NY,10013,USA,9261290336147508755052,,06/11/2025 10:31:39,10.1,,DHL,D43,DHL > 1lb Expedited,0
+A45641,341291,Richard Fiedler,,1423 Southwest 109th Way,,Davie,FL,33324,USA,9400109105114131394105,,06/10/2025 12:35:36,5.33,,USPS,P10,First-Class Package Service,0
+A45642,341310,Brandon Garcia,,303 S. Vaughn Ave,,Fritch,TX,79036,USA,61292013550820508552,,06/10/2025 14:18:40,17.22,,OTHER,FedEx,,0
+DVU_908,341317,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/11/2025 08:48:00,0.0,,UPS,,,0
+357,341337, Stock Transfer / Liz MA1509.AK.005,Taoglas USA. Inc.,4851 Paramount Dr.,,San Diego,CA,92123,United States,8819 6199 2590,AAA (free package),06/11/2025 16:14:00,0.0,,FEDEX,,,0
+A45644,341339,Armando Bernal,,1445 East Locust Drive,,Chandler,AZ,85286,USA,9400109105114656859387,,06/11/2025 09:03:33,4.98,,USPS,P10,First-Class Package Service,0
 #124922,341342,Thomas Wages,,1270 Mackintosh Park Northwest,,Atlanta,GA,30318,USA,61292013550820508590,,06/11/2025 09:09:53,8.95,,OTHER,FedEx,,0
+8377775847,341375,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),06/12/2025 08:50:00,0.0,,UPS,,,0
+8377775894,341376,,Johnstone Corp,4875 E Cheyenne Ave,,Las Vegas,NV,89115-3419,US,prepaid,AAA (free package),06/11/2025 15:49:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377775895,341377,,Neuco Inc,515 W Crossroads Pkw,,Bolingbrook,IL,60440-4821,US,prepaid,AAA (free package),06/11/2025 15:48:00,0.0,,UPS,,,0
 8377775896,341378,,LII United Products,810 Carriers Dr,,Laredo,TX,78045-3717,US,LTL Freight,AAA (free package),06/13/2025 16:16:00,0.0,,UPS,,,0
 8377775897,341379,,Economy Plumbing & Heating,875 Morton St,,Mattapan,MA,02126,US,prepaid,AAA (free package),06/12/2025 16:18:00,0.0,,UPS,M4,Expedited Mail Innovations,0
@@ -2500,6 +2500,8 @@ A45646,341453,Scott Hrebek,,2109 West Tulsa Street,,Siloam Springs,AR,72761,USA,
 #145723,341511,mim feldman,,356 hartshorn drive,,short hills,NJ,07078,USA,61292013550820508774,,06/12/2025 11:47:58,8.88,,OTHER,FedEx,,0
 3312_1,341512,Nancy Nelson,,1260 Marquise Court,,Rockledge,FL,32955,United States,1ZJ201R90101152009,Box - 12 x 12 x 12,06/12/2025 09:43:09,55.25,,UPS,U01,Next Day Air,0
 4773,341513, Miguel Gonzales,,5731 Brookgreen Avenue,,Orlando ,FL,32839,United States,9261290336147508745183,,06/12/2025 11:48:35,6.43,,DHL,D32,DHL < 1lb Ground,0
+4774,341514, Ben Labrecque,,9989 Barnston Dr East,,Surrey,BC,V4N 6N3,Canada,Prepaid,AAA (free package),06/12/2025 11:55:00,0.0,,UPS,,,0
+140,341515, Bonafide Provisions,Bonafide Provisions,7651 St. Andrews Ave.,,San Diego,California,92154,United States,LTL Freight,AAA (free package),06/16/2025 12:00:00,0.0,,UPS,,,0
 A45647,341517,Richard L White,,150 Humpty Dumpty Rd,,White Bluff,TN,37187-2000,USA,61292013550820508798,Box - 10 x 10 x 10,06/12/2025 12:30:12,10.72,,OTHER,FedEx,,0
 #124961,341518,Amy Upton,,8611 E Kettle Cir,,Centennial,CO,80112-2706,USA,1ZJ201R9YW07808726,,06/12/2025 12:43:52,8.48,,OTHER,UPS,,0
 #124964,341519,Evan Middleton,,12801Libertys Delight Dr,,Bowie,MD,20720,USA,61292013550820508811,,06/12/2025 12:42:12,8.88,,OTHER,FedEx,,0
@@ -2513,6 +2515,12 @@ A45649,341523,John Messenger,,2027 Glen Falls Rd.,,Clarksburg,WV,26301,USA,61292
 8377780409,341527,,Empire Comfort Systems Inc,918 Freeburg Avenue,,Belleville,IL,62220-2623,US,,AAA (free package),06/13/2025 15:34:00,0.0,,UPS,,,0
 8377780572,341528,,Schwank USA Inc.,2 Schwank Way,,Waynesboro,GA,30830-1154,US,LTL Freight,AAA (free package),06/13/2025 15:45:00,0.0,,UPS,,,0
 8377780573,341529,,Lennox Industries Inc,200 South 12th Avenu,,Marshalltown,IA,50158-3005,US,prepaid,AAA (free package),06/13/2025 15:31:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377780574,341530,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),06/13/2025 16:15:00,0.0,,UPS,,,0
+8377780575,341531,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,LTL Freight,AAA (free package),06/17/2025 15:05:00,0.0,,UPS,,,0
+8377780576,341532,,Allied Air Enterprises Inc,240 Millennium Dr,,Orangeburg,SC,29115,US,LTL Freight,AAA (free package),06/16/2025 15:29:00,0.0,,UPS,,,0
+8377780577,341533,,US Boiler Warehouse,2930 Old Tree Drive,,Lancaster,PA,17603,US,prepaid,AAA (free package),06/16/2025 15:39:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377780578,341534,,A O Smith Water Products,25589 Highway One,,Mc Bee,SC,29101,US,LTL Freight,AAA (free package),06/16/2025 16:16:00,0.0,,UPS,,,0
+8377780579,341535,,Modine Manufacturing Co,1221 Magnolia Ave,,Buena Vista,VA,24416-3317,US,prepaid,AAA (free package),06/16/2025 15:40:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377780580,341536,,Lochinvar Corporation,300 Maddox Simpson P,,Lebanon,TN,37090,US,prepaid,AAA (free package),06/16/2025 15:39:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377780581,341537,,A O Smith Apcom Dvi,125 Southeast Pkwy,,Franklin,TN,37064,US,LTL Freight,AAA (free package),06/16/2025 15:25:00,0.0,,UPS,,,0
 8377780582,341538,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,LTL Freight,AAA (free package),06/16/2025 15:26:00,0.0,,UPS,,,0
@@ -2524,6 +2532,13 @@ DVU_928,341543,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 DVU_929,341544,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
 DVU_930,341545,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
 DVU_931,341546,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
+DVU_932,341547,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
+DVU_933,341548,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
+DVU_934,341549,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
+DVU_935,341550,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
+DVU_936,341551,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
+DVU_937,341552,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:38:00,0.0,,UPS,,,0
+DVU_938,341553,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:38:00,0.0,,UPS,,,0
 DVU_939,341554,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:38:00,0.0,,UPS,,,0
 DVU_940,341555,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:38:00,0.0,,UPS,,,0
 DVU_941,341556,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:38:00,0.0,,UPS,,,0
@@ -2538,11 +2553,20 @@ DVU_946,341561,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 4777,341565, Lawson Youmans,,1100 Olive Dr,APT 157,Davis,CA,95616,United States,Prepaid,AAA (free package),06/13/2025 15:40:00,0.0,,UPS,,,0
 4778,341566, Jeffrey Sue,,6 Kyle Dr,,Nashua,NH,03062,United States,Prepaid,AAA (free package),06/13/2025 15:40:00,0.0,,UPS,,,0
 4779,341567, Jesse Lipman,,45 Lafayette Rd,278,North Hampton,NH,03862,United States,Prepaid,AAA (free package),06/13/2025 15:39:00,0.0,,UPS,,,0
+597,341568, amazon.com,amazon.com,3292 E Holmes Rd,,Memphis,TN ,38118-8102,United States,Prepaid,AAA (free package),06/13/2025 15:31:00,0.0,,UPS,,,0
+598,341569, Amazon.com,Amazon.com,11500 Freeman Road,,HUNTLEY,IL,60142,United States,Prepaid,AAA (free package),06/13/2025 15:32:00,0.0,,UPS,,,0
+599,341570, Amazon.com,Amazon.com,24300 Nandina Ave,,Moreno Valley,CA,92551-9534,United States,Prepaid,AAA (free package),06/13/2025 15:33:00,0.0,,UPS,,,0
+600,341571, Amazon.com,Amazon.com,1568 N Linden Ave,,Rialto,CA,92376-8624,United States,Prepaid,AAA (free package),06/13/2025 15:32:00,0.0,,UPS,,,0
+601,341572, Amazon.com,Amazon.com,76 Patriot Way,,Hopewell Junction,NY,12533-6159,United States,Prepaid,AAA (free package),06/13/2025 15:31:00,0.0,,UPS,,,0
+602,341573, Amazon.com,Amazon.com,24300 Nandina Ave,,Moreno Valley,CA,92551-9534,United States,Prepaid,AAA (free package),06/13/2025 15:31:00,0.0,,UPS,,,0
+603,341574, Amazon.com,Amazon.com,3292 E Holmes Rd,,Memphis,TN,38118-8102,United States,Prepaid,AAA (free package),06/13/2025 15:28:00,0.0,,UPS,,,0
+604,341575, Amazon.com,Amazon.com,11500 Freeman Road,,HUNTLEY,IL,60142,United States,Prepaid,AAA (free package),06/13/2025 15:28:00,0.0,,UPS,,,0
+605,341576, Amazon.com,Amazon.com,1568 N Linden Ave,,Rialto,CA,92376-8624,United States,Prepaid,AAA (free package),06/13/2025 15:30:00,0.0,,UPS,,,0
 3706755182,341577,Aneshia Kemp,,1323 Wabash St,,Denver,CO,80220,USA,1ZJ201R9YW25430251,,06/13/2025 08:44:41,8.48,,OTHER,UPS,,0
 109016450932790,341578,Laura Kinsey,,357 Sundance Circle,,Richland,MS,39218,USA,61292013550820508866,,06/13/2025 09:13:05,8.88,,OTHER,FedEx,,0
-605,341576, Amazon.com,Amazon.com,1568 N Linden Ave,,Rialto,CA,92376-8624,United States,Prepaid,AAA (free package),06/13/2025 15:30:00,0.0,,UPS,,,0
+#125106,341824,Tianna Timpe,,PO BOX 872,,Ilwaco,WA,98624,USA,9261290336147509225080,,06/17/2025 10:25:13,8.57,,DHL,D43,DHL > 1lb Expedited,0
 #125110,341825,Randy Sharp,,174 West 4th Street,123,New York,NY,10014,USA,61292013550820509382,,06/17/2025 10:19:25,10.78,,OTHER,FedEx,,0
-604,341575, Amazon.com,Amazon.com,11500 Freeman Road,,HUNTLEY,IL,60142,United States,Prepaid,AAA (free package),06/13/2025 15:28:00,0.0,,UPS,,,0
+#145827,341826,Jordan Shaughnessy,,36 Margranita Cres,,Austin,TX,78703,USA,9261290336147509170045,,06/17/2025 09:19:48,6.61,,DHL,D32,DHL < 1lb Ground,0
 #145828,341827,Florence Rogers,,111 Trae Lane,,Santa Rosa Beach,FL,32459,USA,9261290336147509215098,,06/17/2025 09:46:40,7.17,,DHL,D32,DHL < 1lb Ground,0
 #145829,341828,Anna Sanders,,23998 Wendover Dr,,Beachwood,OH,44122-1553,USA,9261290336147509175057,,06/17/2025 09:48:56,7.17,,DHL,D32,DHL < 1lb Ground,0
 #145830,341829,Ellie Stephens,,12 Leeward Mdws,,Biddeford,ME,04005,USA,61292013550820509351,,06/17/2025 09:19:00,8.88,,OTHER,FedEx,,0
@@ -2550,13 +2574,13 @@ DVU_946,341561,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 #145826,341831,Gabriela Prizant,,18201 Collins Ave,3307,Sunny Isles beach,FL,33160,USA,61292013550820509375,,06/17/2025 09:46:21,8.88,,OTHER,FedEx,,0
 #145825,341832,Ivana Aleksich,,373 Wythe Avenue,Apt 10h,Brooklyn,NY,11249,USA,9261290336147509225059,,06/17/2025 09:47:00,7.17,,DHL,D32,DHL < 1lb Ground,0
 #145824,341833,Harmony Schroder,,3 Todd Lane,,Somers,NY,10589,USA,61292013550820509405,,06/17/2025 10:24:01,8.95,,OTHER,FedEx,,0
-603,341574, Amazon.com,Amazon.com,3292 E Holmes Rd,,Memphis,TN,38118-8102,United States,Prepaid,AAA (free package),06/13/2025 15:28:00,0.0,,UPS,,,0
+#145822,341834,Katie Ackels,,4123 High Summit Dr,,Dallas,TX,75244-6627,USA,9261290336147509225066,,06/17/2025 09:48:15,6.67,,DHL,D32,DHL < 1lb Ground,0
 #145823,341835,Brogan Hayden,,6464 Terrill Lane,,Brownsburg,IN,46112,USA,61292013550820509344,,06/17/2025 09:18:33,8.88,,OTHER,FedEx,,0
-602,341573, Amazon.com,Amazon.com,24300 Nandina Ave,,Moreno Valley,CA,92551-9534,United States,Prepaid,AAA (free package),06/13/2025 15:31:00,0.0,,UPS,,,0
+#145812,341836,Angela Vanderslice,,4447 North Central Expressway,Ste 110 #454,Dallas,TX,75205,USA,1ZJ201R9YW37437339,,06/17/2025 09:19:28,8.82,,OTHER,UPS,,0
 #145813,341837,Catherine Halprin,,11 5th Avenue,Apt 10JK,New York,NY,10003,USA,9261290336147509195031,,06/17/2025 10:22:38,10.1,,DHL,D43,DHL > 1lb Expedited,0
 #145814,341838,Christina Emerson,,4221 Bryn Mawr Drive,,Dallas,TX,75225,USA,9261290336147509230060,,06/17/2025 09:47:31,6.48,,DHL,D32,DHL < 1lb Ground,0
 #145815,341839,Maya Pacheco,,253 Tulane Drive,,Larkspur,CA,94939,USA,9261290336147509200049,,06/17/2025 10:19:51,7.64,,DHL,D43,DHL > 1lb Expedited,0
-601,341572, Amazon.com,Amazon.com,76 Patriot Way,,Hopewell Junction,NY,12533-6159,United States,Prepaid,AAA (free package),06/13/2025 15:31:00,0.0,,UPS,,,0
+#145816,341840,Chantal Ulmer,,280 Fountain Road,,Englewood,NJ,07631,USA,9261290336147509215081,,06/17/2025 09:28:42,6.95,,DHL,D32,DHL < 1lb Ground,0
 #145817,341841,Kristi Sulak,,1322 East Cota Street,,Santa Barbara,CA,93103,USA,9261290336147509225097,,06/17/2025 10:25:51,7.17,,DHL,D43,DHL > 1lb Expedited,0
 #145818,341842,Melissa Ni,,12131 Oak Park Court,,Los Altos Hills,CA,94022,USA,9261290336147509175064,,06/17/2025 09:49:20,6.17,,DHL,D32,DHL < 1lb Ground,0
 #145819,341843,Blaine Slack,,515 West Belmont Avenue,Unit 2,Chicago,IL,60657,USA,61292013550820509368,,06/17/2025 09:46:03,8.88,,OTHER,FedEx,,0
@@ -2574,7 +2598,7 @@ DVU_946,341561,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 8377787322,341855,,Greenheck Fan Corporation  FAC,400 Ross Avenue,,Schofield,WI,54476,US,prepaid,AAA (free package),06/17/2025 15:49:00,0.0,,UPS,,,0
 8377787323,341856,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,LTL Freight,AAA (free package),07/11/2025 12:29:00,0.0,,UPS,,,0
 8377787325,341857,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),06/17/2025 15:17:00,0.0,,UPS,,,0
-600,341571, Amazon.com,Amazon.com,1568 N Linden Ave,,Rialto,CA,92376-8624,United States,Prepaid,AAA (free package),06/13/2025 15:32:00,0.0,,UPS,,,0
+8377787328,341858,,Weil-Mclain,523 S New St,,Eden,NC,27288-3623,US,prepaid,AAA (free package),06/17/2025 15:41:00,0.0,,UPS,,,0
 8377787329,341859,,Rheem Manufacturing C0,5600 Old Greenwood R,,Fort Smith,AR,72908,US,prepaid,AAA (free package),06/17/2025 15:47:00,0.0,,UPS,,,0
 8377787330,341860,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,LTL Freight,AAA (free package),06/17/2025 15:04:00,0.0,,UPS,,,0
 8377788249,341861,,Glt Inc,4970 Wagner Ford Rd,,Dayton,OH,45414,US,prepaid,AAA (free package),06/17/2025 15:45:00,0.0,,UPS,,,0
@@ -2592,14 +2616,14 @@ DVU_946,341561,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 8377789005,341875,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),06/18/2025 15:16:00,0.0,,UPS,,,0
 8377789007,341876,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),06/17/2025 15:16:00,0.0,,UPS,,,0
 8377789008,341877,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),06/18/2025 15:06:00,0.0,,UPS,,,0
-599,341570, Amazon.com,Amazon.com,24300 Nandina Ave,,Moreno Valley,CA,92551-9534,United States,Prepaid,AAA (free package),06/13/2025 15:33:00,0.0,,UPS,,,0
+DVU_961,341878,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:21:00,0.0,,UPS,,,0
 DVU_962,341879,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:21:00,0.0,,UPS,,,0
 DVU_963,341880,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:21:00,0.0,,UPS,,,0
 DVU_964,341881,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:22:00,0.0,,UPS,,,0
 DVU_965,341882,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:22:00,0.0,,UPS,,,0
 DVU_966,341883,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:22:00,0.0,,UPS,,,0
 DVU_967,341884,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:22:00,0.0,,UPS,,,0
-598,341569, Amazon.com,Amazon.com,11500 Freeman Road,,HUNTLEY,IL,60142,United States,Prepaid,AAA (free package),06/13/2025 15:32:00,0.0,,UPS,,,0
+DVU_968,341885,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:22:00,0.0,,UPS,,,0
 DVU_969,341886,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:22:00,0.0,,UPS,,,0
 DVU_970,341887,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:22:00,0.0,,UPS,,,0
 DVU_971,341888,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:23:00,0.0,,UPS,,,0
@@ -2618,7 +2642,6 @@ DVU_983,341900,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 DVU_984,341901,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:24:00,0.0,,UPS,,,0
 DVU_985,341902,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:24:00,0.0,,UPS,,,0
 DVU_986,341903,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:24:00,0.0,,UPS,,,0
-597,341568, amazon.com,amazon.com,3292 E Holmes Rd,,Memphis,TN ,38118-8102,United States,Prepaid,AAA (free package),06/13/2025 15:31:00,0.0,,UPS,,,0
 A45669,341905,BRENT PARSONS,,117 High Gabriel Drive,,Leander,TX,78641,USA,61292013550820509450,Box - 10 x 10 x 10,06/17/2025 12:41:41,8.88,,OTHER,FedEx,,0
 A45670,341906,Bobby Clegg,,4618 Hopson Rd,,Morrisville,NC,27560,USA,1ZJ201R90338310980,,06/17/2025 12:31:08,69.85,,UPS,U11,UPS Ground,0
 A45670,341906,Bobby Clegg,,4618 Hopson Rd,,Morrisville,NC,27560,USA,1ZJ201R90337829397,,06/17/2025 12:31:08,69.83,,UPS,U11,UPS Ground,0
@@ -2646,28 +2669,10 @@ DVU_989,341917,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 103,341927, Griff Fox ,,960 Ripley ln,,Oyster Bay,NY,11771,,61292013550820509474,Box - 10 x 10 x 10,06/17/2025 14:37:25,8.95,,OTHER,FedEx,,0
 8377789278,341928,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),06/18/2025 15:02:00,0.0,,UPS,,,0
 8377789486,341929,,Pollution Control,2677 Freewood,,Dallas,TX,75220-2510,US,prepaid,AAA (free package),06/19/2025 15:58:00,0.0,,UPS,,,0
-DVU_938,341553,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:38:00,0.0,,UPS,,,0
-8377789494,341931,,Crown Boiler,3633 I Street,,Philadelphia,PA,19134-1451,US,LTL Freight,AAA (free package),06/18/2025 14:42:00,0.0,,UPS,,,0
-8377789495,341932,,Williams Furnace Company,220 W Laurel St,,Colton,CA,92324-1435,US,LTL Freight,AAA (free package),06/19/2025 16:00:00,0.0,,UPS,,,0
-8377789497,341933,,Frymaster Corporation,8700 Line Avenue,,Shreveport,LA,71106-6814,US,LTL Freight,AAA (free package),06/18/2025 14:45:00,0.0,,UPS,,,0
-8377789498,341934,,Raypak Inc,2151 Eastman Avenue,,Oxnard,CA,93030,US,prepaid,AAA (free package),06/18/2025 15:43:00,0.0,,UPS,,,0
-8377789499,341935,,Midco International Inc,4140 West Victoria S,,Chicago,IL,60646,US,prepaid,AAA (free package),06/19/2025 15:57:00,0.0,,UPS,,,0
-8377789501,341936,,Trane,3709 Shiloh Rd,,Tyler,TX,75707-1913,US,prepaid,AAA (free package),06/18/2025 15:41:00,0.0,,UPS,,,0
-8377789502,341937,,Schwank USA Inc.,2 Schwank Way,,Waynesboro,GA,30830-1154,US,prepaid,AAA (free package),06/19/2025 15:48:00,0.0,,UPS,,,0
-8377789507,341938,,Phoenix Controls,75 Discovery Way,,ACTON,MA,01720,US,prepaid,AAA (free package),06/18/2025 15:43:00,0.0,,UPS,,,0
-8377789508,341939,,Phoenix Controls,75 Discovery Way,,ACTON,MA,01720,US,prepaid,AAA (free package),06/18/2025 15:42:00,0.0,,UPS,,,0
-8377789509,341940,,Phoenix Controls,75 Discovery Way,,ACTON,MA,01720,US,prepaid,AAA (free package),06/18/2025 15:42:00,0.0,,UPS,,,0
 8377789533,341941,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),06/19/2025 08:30:00,0.0,,UPS,,,0
 8377789534,341942,,Rheem Montgomery,2769 Gunter Park Dr,,Montgomery,AL,36109-1013,US,LTL Freight,AAA (free package),06/23/2025 16:18:00,0.0,,UPS,,,0
 8377789535,341943,,Manufacturas Avanzadas Ramsal,13702 Mercury Dr,,Laredo,TX,78045-3726,US,LTL Freight,AAA (free package),06/18/2025 14:41:00,0.0,,UPS,,,0
 8377789536,341944,,Manufacturas Avanzadas Ramsal,13702 Mercury Dr,,Laredo,TX,78045-3726,US,LTL Freight,AAA (free package),06/18/2025 14:41:00,0.0,,UPS,,,0
-DVU_937,341552,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:38:00,0.0,,UPS,,,0
-613,341946, Amazon.com,Amazon.com,1568 N Linden Ave,,Rialto,CA,92376-8624,United States,Prepaid,AAA (free package),06/18/2025 13:08:00,0.0,,UPS,,,0
-614,341947, Amazon.com,Amazon.com,76 Patriot Way,,Hopewell Junction,NY,12533-6159,United States,Prepaid,AAA (free package),06/19/2025 08:31:00,0.0,,UPS,,,0
-615,341948, Amazon.com,Amazon.com,3292 E Holmes Rd,,Memphis,TN,38118-8102,United States,Prepaid,AAA (free package),06/18/2025 13:08:00,0.0,,UPS,,,0
-616,341949, Amazon.com,Amazon.com,11500 Freeman Road,,HUNTLEY,IL,60142,United States,Prepaid,AAA (free package),06/18/2025 13:08:00,0.0,,UPS,,,0
-617,341950, Amazon.com,Amazon.com,27505 SW 132nd AVE,,HOMESTEAD,FL,33032-8597,United States,Prepaid,AAA (free package),06/19/2025 08:34:00,0.0,,UPS,,,0
-DVU_936,341551,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
 4822,341952, Ricardo Soto,,3506 North Keeler Avenue,,Chicago,IL,60641,United States,Prepaid,AAA (free package),06/19/2025 10:17:00,0.0,,UPS,,,0
 618,341953, Amazon.com,Amazon.com,11263 Oleander Ave,,FONTANA,CA,92337-7441,United States,LTL Freight,AAA (free package),06/30/2025 11:01:00,0.0,,UPS,,,0
 619,341954, Amazon.com,Amazon.com,401 Independence Road,, Florence,NJ,08518-2200,United States,LTL Freight,AAA (free package),06/23/2025 15:26:00,0.0,,UPS,,,0
@@ -2685,7 +2690,6 @@ DVU_936,341551,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 1200,341966, Maricela ayala,Amazon,1221 Toltec dr,,dallas,Texas,75232,United States,1ZJ201R90335817304,,06/18/2025 10:04:35,14.71,,UPS,U11,UPS Ground,0
 1200,341966, Maricela ayala,Amazon,1221 Toltec dr,,dallas,Texas,75232,United States,1ZJ201R90337358119,,06/18/2025 10:04:35,14.71,,UPS,U11,UPS Ground,0
 109016986374288,341967,Debra Ripley,,71 Shaw Ave. N1,N1,Abington,MA,02351,USA,9261290336147509170069,,06/18/2025 10:07:57,5.84,,DHL,D32,DHL < 1lb Ground,0
-DVU_935,341550,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
 A45672,341969,Richard Maestas,,3340 N Dyer St,,Flagstaff,AZ,86004,USA,9434609105114132014417,,06/18/2025 09:23:59,7.88,,USPS,P11,Parcel Select,0
 #125132,341970,Eliza Aldous,,105 Himalaya Ct,,Alpine,UT,84004,USA,1ZJ201R9YW29673107,,06/18/2025 09:21:23,8.48,,OTHER,UPS,,0
 #145840,341971,Amy Jones,,231 39th Street,,Sacramento,CA,95816,USA,9261290336147509200070,,06/18/2025 09:18:21,7.64,,DHL,D43,DHL > 1lb Expedited,0
@@ -2708,11 +2712,7 @@ A45672,341969,Richard Maestas,,3340 N Dyer St,,Flagstaff,AZ,86004,USA,9434609105
 #145853,341988,Samantha Chobot,,6 Ross Court,,Loudonville,NY,12211,USA,9261290336147509225110,,06/18/2025 09:09:06,7.07,,DHL,D32,DHL < 1lb Ground,0
 667,341989, mike williams  ,Mr. Smoke's One Really Cool Store,1014 20th Place  ,,Vero Beach,FL ,32960,United States of America,1ZJ201R90331958124,,06/18/2025 10:15:10,24.77,,UPS,U11,UPS Ground,0
 #3328,341990,Emily Williams,,1913 Grove Ave,2,Richmond,VA,23220,USA,61292013550820509528,Box - 10 x 10 x 10,06/18/2025 10:07:21,8.95,,OTHER,FedEx,,0
-DVU_934,341549,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
-8377790459,341993,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,LTL Freight,AAA (free package),06/18/2025 15:28:00,0.0,,UPS,,,0
-8377790466,341994,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),06/19/2025 16:09:00,0.0,,UPS,,,0
-8377790880,341995,,LII United Products,810 Carriers Dr,,Laredo,TX,78045-3717,US,LTL Freight,AAA (free package),06/20/2025 15:20:00,0.0,,UPS,,,0
-8377790881,341996,,US Boiler Warehouse,2930 Old Tree Drive,,Lancaster,PA,17603,US,prepaid,AAA (free package),06/19/2025 15:49:00,0.0,,UPS,,,0
+A45671,341968,Kenneth Payne,,7225 Deatricks Road Southeast,,Elizabeth,IN,47117,USA,61292013550820509511,,06/18/2025 09:22:40,11.34,,OTHER,FedEx,,0
 8377790883,341997,,Kauffman Engineering Inc -REY,1501 W Produce Dr,MAS Logistics,Pharr,TX,78577-1405,US,LTL Freight,AAA (free package),06/18/2025 15:26:00,0.0,,UPS,,,0
 8377790885,341998,,WIRE TECH LTD,11 Westside Industri,,Rome,GA,30165-2033,US,prepaid,AAA (free package),06/19/2025 15:50:00,0.0,,UPS,,,0
 8377790886,341999,,???????(??)????,????? ?? B10?,,??,12,300457,CN,LTL Freight,AAA (free package),06/25/2025 10:13:00,0.0,,UPS,,,0
@@ -2727,7 +2727,7 @@ DVU_934,341549,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 8377791186,342008,,Moons Precision Products,1601 Fullerton Ct,,Glendale Heights,IL,60139-2752,US,prepaid,AAA (free package),06/19/2025 15:54:00,0.0,,UPS,,,0
 8377791187,342009,,Phoenix Controls,75 Discovery Way,,ACTON,MA,01720,US,prepaid,AAA (free package),06/20/2025 15:27:00,0.0,,UPS,,,0
 8377791191,342010,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),06/20/2025 15:32:00,0.0,,UPS,,,0
-DVU_933,341548,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
+12837,341951, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/19/2025 10:19:00,0.0,,UPS,,,0
 8377791197,342012,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,LTL Freight,AAA (free package),06/19/2025 16:05:00,0.0,,UPS,,,0
 8377791198,342013,,Rheem Manufacturing C0,5600 Old Greenwood R,,Fort Smith,AR,72908,US,LTL Freight,AAA (free package),06/19/2025 16:03:00,0.0,,UPS,,,0
 8377791199,342014,,Lochinvar Corporation,300 Maddox Simpson P,,Lebanon,TN,37090,US,prepaid,AAA (free package),06/19/2025 15:49:00,0.0,,UPS,,,0
@@ -2750,12 +2750,12 @@ DVU_933,341548,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 12847,342031, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/19/2025 10:28:00,0.0,,UPS,,,0
 12848,342032, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/19/2025 10:26:00,0.0,,UPS,,,0
 12849,342033, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/19/2025 10:26:00,0.0,,UPS,,,0
-DVU_932,341547,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/13/2025 09:37:00,0.0,,UPS,,,0
+617,341950, Amazon.com,Amazon.com,27505 SW 132nd AVE,,HOMESTEAD,FL,33032-8597,United States,Prepaid,AAA (free package),06/19/2025 08:34:00,0.0,,UPS,,,0
 628,342035, Amazon.com,Amazon.com,1568 N Linden Ave,,Rialto,CA,92376-8624,United States,Prepaid,AAA (free package),06/19/2025 08:33:00,0.0,,UPS,,,0
 629,342036, Amazon.com,Amazon.com,24300 Nandina Ave,,Moreno Valley,CA,92551-9534,United States,Prepaid,AAA (free package),06/19/2025 08:33:00,0.0,,UPS,,,0
 630,342037, Amazon.com,Amazon.com,76 Patriot Way,,Hopewell Junction,NY,12533-6159,United States,Prepaid,AAA (free package),06/18/2025 13:09:00,0.0,,UPS,,,0
 631,342038, Amazon.com,Amazon.com,3292 E Holmes Rd,,Memphis,TN,38118-8102,United States,Prepaid,AAA (free package),06/19/2025 08:32:00,0.0,,UPS,,,0
-8377780579,341535,,Modine Manufacturing Co,1221 Magnolia Ave,,Buena Vista,VA,24416-3317,US,prepaid,AAA (free package),06/16/2025 15:40:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+616,341949, Amazon.com,Amazon.com,11500 Freeman Road,,HUNTLEY,IL,60142,United States,Prepaid,AAA (free package),06/18/2025 13:08:00,0.0,,UPS,,,0
 #145810,341778,Mandy Liscio,,157 Queenston Dr,,Pittsburgh,PA,15235,USA,9261290336147509200032,,06/16/2025 14:18:23,7.07,,DHL,D32,DHL < 1lb Ground,0
 #145811,341779,Alessandra Donnarumma,,241 Alden Street,,Fairfield,CT,06824,USA,9261290336147509180068,,06/16/2025 14:17:57,7.17,,DHL,D32,DHL < 1lb Ground,0
 99,341780, William Street ,,3938 Kimberly Dawn Cove,,Bartlett,TN,38133,,9261290336147509180075,Box - 8 x 8 x 8,06/16/2025 14:25:31,6.77,,DHL,D32,DHL < 1lb Ground,0
@@ -2774,8 +2774,8 @@ DVU_932,341547,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 8377824450,343735,,Rbi,7555 Tranmere Drive,,Mississauga,ON,L5S 1L4,CA,prepaid,AAA (free package),07/08/2025 16:14:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377824451,343736,,Johnstone Corp,3500 Corporate Dr,,Joliet,IL,60431-7930,US,prepaid,AAA (free package),07/08/2025 16:11:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377824452,343737,,RAL Corp,375 Executive Blvd,,Elmsford,NY,10523-1228,US,prepaid,AAA (free package),07/08/2025 16:11:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377780578,341534,,A O Smith Water Products,25589 Highway One,,Mc Bee,SC,29101,US,LTL Freight,AAA (free package),06/16/2025 16:16:00,0.0,,UPS,,,0
-8377780577,341533,,US Boiler Warehouse,2930 Old Tree Drive,,Lancaster,PA,17603,US,prepaid,AAA (free package),06/16/2025 15:39:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+615,341948, Amazon.com,Amazon.com,3292 E Holmes Rd,,Memphis,TN,38118-8102,United States,Prepaid,AAA (free package),06/18/2025 13:08:00,0.0,,UPS,,,0
+614,341947, Amazon.com,Amazon.com,76 Patriot Way,,Hopewell Junction,NY,12533-6159,United States,Prepaid,AAA (free package),06/19/2025 08:31:00,0.0,,UPS,,,0
 566,343741, Marshalls (DC 04 - 884),ELP: MAR EL PASO DC #: 884,3900 GLOBAL REACH DR,,EL PASO,Texas,79925,USA,LTL Freight,AAA (free package),07/14/2025 14:52:00,0.0,,UPS,,,0
 567,343742, Marshalls (DC 06 - 886),BRI: BRIDGEWATER DC #: 886,701 N. MAIN STREET,,BRIDGEWATER,Virginia,22812,USA,LTL Freight,AAA (free package),07/14/2025 14:54:00,0.0,,UPS,,,0
 568,343743, Marshalls (DC 07 - 887), ATL: ATLANTA DC # 887,2300 MILLER ROAD,,DECATUR,Georgia,30035,USA,LTL Freight,AAA (free package),07/14/2025 14:56:00,0.0,,UPS,,,0
@@ -2789,7 +2789,7 @@ DVU_932,341547,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL
 5057,343768, Vasily Shepelin,,2001 Jasper Bluff Street,Unit 203,Las Vegas,NV,89117,United States,Prepaid,AAA (free package),07/09/2025 12:37:00,0.0,,UPS,,,0
 5058,343769, Drew Dickinson,,513 Concise Dr,,Fort Collins,CO,80525,United States,Prepaid,AAA (free package),07/09/2025 12:43:00,0.0,,UPS,,,0
 5060,343770, Jared Smith,,2101 Plank Rd,,Cottrellville,MI,48039,United States,Prepaid,AAA (free package),07/09/2025 12:28:00,0.0,,UPS,,,0
-8377780576,341532,,Allied Air Enterprises Inc,240 Millennium Dr,,Orangeburg,SC,29115,US,LTL Freight,AAA (free package),06/16/2025 15:29:00,0.0,,UPS,,,0
+613,341946, Amazon.com,Amazon.com,1568 N Linden Ave,,Rialto,CA,92376-8624,United States,Prepaid,AAA (free package),06/18/2025 13:08:00,0.0,,UPS,,,0
 3737085351,343772,Heather Youmg,,3260 River Road,,Chatsworth,GA,30705,USA,61292013550820512948,,07/08/2025 09:01:48,10.82,,OTHER,FedEx,,0
 2260,343773, Rita Winnerl,Rita Winnerl, 429 Aumack Ave,,Union Beach  ,NJ ,07735,UNITED STATES,9261290336147509725207,,07/08/2025 08:59:09,5.42,,DHL,D32,DHL < 1lb Ground,0
 WPG1405US,343774,Maili Senna,,621 Brooklyn Boulevard,,Sea Girt,NJ,08750,USA,1ZJ201R90331215935,,07/08/2025 09:30:49,14.85,,UPS,U11,UPS Ground,0
@@ -2822,23 +2822,23 @@ A45763,343778,Amber DengXiang,,6215 NE 92nd Dr C/O JEP891,,Portland,OR,97253,USA
 8377826766,343799,,Raypak Inc,2151 Eastman Avenue,,Oxnard,CA,93030,US,prepaid,AAA (free package),07/11/2025 15:37:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377826767,343800,,Munch's Supply,470 Crossroads Unit,,Bolingbrook,IL,60440,US,prepaid,AAA (free package),07/10/2025 15:51:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377826768,343801,,???????(??)????,????? ?? B10?,,??,12,300457,CN,LTL Freight,AAA (free package),07/24/2025 14:57:00,0.0,,UPS,,,0
-8377780575,341531,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,LTL Freight,AAA (free package),06/17/2025 15:05:00,0.0,,UPS,,,0
-8377780574,341530,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),06/13/2025 16:15:00,0.0,,UPS,,,0
-140,341515, Bonafide Provisions,Bonafide Provisions,7651 St. Andrews Ave.,,San Diego,California,92154,United States,LTL Freight,AAA (free package),06/16/2025 12:00:00,0.0,,UPS,,,0
-4774,341514, Ben Labrecque,,9989 Barnston Dr East,,Surrey,BC,V4N 6N3,Canada,Prepaid,AAA (free package),06/12/2025 11:55:00,0.0,,UPS,,,0
-#125106,341824,Tianna Timpe,,PO BOX 872,,Ilwaco,WA,98624,USA,9261290336147509225080,,06/17/2025 10:25:13,8.57,,DHL,D43,DHL > 1lb Expedited,0
-#145827,341826,Jordan Shaughnessy,,36 Margranita Cres,,Austin,TX,78703,USA,9261290336147509170045,,06/17/2025 09:19:48,6.61,,DHL,D32,DHL < 1lb Ground,0
-#145822,341834,Katie Ackels,,4123 High Summit Dr,,Dallas,TX,75244-6627,USA,9261290336147509225066,,06/17/2025 09:48:15,6.67,,DHL,D32,DHL < 1lb Ground,0
-#145812,341836,Angela Vanderslice,,4447 North Central Expressway,Ste 110 #454,Dallas,TX,75205,USA,1ZJ201R9YW37437339,,06/17/2025 09:19:28,8.82,,OTHER,UPS,,0
-#145816,341840,Chantal Ulmer,,280 Fountain Road,,Englewood,NJ,07631,USA,9261290336147509215081,,06/17/2025 09:28:42,6.95,,DHL,D32,DHL < 1lb Ground,0
-8377787328,341858,,Weil-Mclain,523 S New St,,Eden,NC,27288-3623,US,prepaid,AAA (free package),06/17/2025 15:41:00,0.0,,UPS,,,0
-DVU_961,341878,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:21:00,0.0,,UPS,,,0
-DVU_968,341885,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/17/2025 15:22:00,0.0,,UPS,,,0
-109016985515235,341904,Kathleen Fabela,,W4576 County Rd ES,,Elkhorn,WI,53121,USA,1ZJ201R90327646933,,06/17/2025 12:26:48,17.96,,UPS,U11,UPS Ground,0
-8377789492,341930,,Bock Water Heaters Inc,110 South Dickinson,,Madison,WI,53703-3021,US,LTL Freight,AAA (free package),06/19/2025 16:04:00,0.0,,UPS,,,0
 612,341945, Amazon.com,Amazon.com,24300 Nandina Ave ,,Moreno Valley,CA,92551-9534,United States,Prepaid,AAA (free package),06/18/2025 13:07:00,0.0,,UPS,,,0
-12837,341951, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/19/2025 10:19:00,0.0,,UPS,,,0
-A45671,341968,Kenneth Payne,,7225 Deatricks Road Southeast,,Elizabeth,IN,47117,USA,61292013550820509511,,06/18/2025 09:22:40,11.34,,OTHER,FedEx,,0
+8377789509,341940,,Phoenix Controls,75 Discovery Way,,ACTON,MA,01720,US,prepaid,AAA (free package),06/18/2025 15:42:00,0.0,,UPS,,,0
+8377789508,341939,,Phoenix Controls,75 Discovery Way,,ACTON,MA,01720,US,prepaid,AAA (free package),06/18/2025 15:42:00,0.0,,UPS,,,0
+8377789507,341938,,Phoenix Controls,75 Discovery Way,,ACTON,MA,01720,US,prepaid,AAA (free package),06/18/2025 15:43:00,0.0,,UPS,,,0
+8377789502,341937,,Schwank USA Inc.,2 Schwank Way,,Waynesboro,GA,30830-1154,US,prepaid,AAA (free package),06/19/2025 15:48:00,0.0,,UPS,,,0
+8377789501,341936,,Trane,3709 Shiloh Rd,,Tyler,TX,75707-1913,US,prepaid,AAA (free package),06/18/2025 15:41:00,0.0,,UPS,,,0
+8377789499,341935,,Midco International Inc,4140 West Victoria S,,Chicago,IL,60646,US,prepaid,AAA (free package),06/19/2025 15:57:00,0.0,,UPS,,,0
+8377789498,341934,,Raypak Inc,2151 Eastman Avenue,,Oxnard,CA,93030,US,prepaid,AAA (free package),06/18/2025 15:43:00,0.0,,UPS,,,0
+8377789497,341933,,Frymaster Corporation,8700 Line Avenue,,Shreveport,LA,71106-6814,US,LTL Freight,AAA (free package),06/18/2025 14:45:00,0.0,,UPS,,,0
+8377789495,341932,,Williams Furnace Company,220 W Laurel St,,Colton,CA,92324-1435,US,LTL Freight,AAA (free package),06/19/2025 16:00:00,0.0,,UPS,,,0
+8377789494,341931,,Crown Boiler,3633 I Street,,Philadelphia,PA,19134-1451,US,LTL Freight,AAA (free package),06/18/2025 14:42:00,0.0,,UPS,,,0
+8377789492,341930,,Bock Water Heaters Inc,110 South Dickinson,,Madison,WI,53703-3021,US,LTL Freight,AAA (free package),06/19/2025 16:04:00,0.0,,UPS,,,0
+109016985515235,341904,Kathleen Fabela,,W4576 County Rd ES,,Elkhorn,WI,53121,USA,1ZJ201R90327646933,,06/17/2025 12:26:48,17.96,,UPS,U11,UPS Ground,0
+8377790881,341996,,US Boiler Warehouse,2930 Old Tree Drive,,Lancaster,PA,17603,US,prepaid,AAA (free package),06/19/2025 15:49:00,0.0,,UPS,,,0
+8377790880,341995,,LII United Products,810 Carriers Dr,,Laredo,TX,78045-3717,US,LTL Freight,AAA (free package),06/20/2025 15:20:00,0.0,,UPS,,,0
+8377790466,341994,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),06/19/2025 16:09:00,0.0,,UPS,,,0
+8377790459,341993,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,LTL Freight,AAA (free package),06/18/2025 15:28:00,0.0,,UPS,,,0
 8377790441,341992,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),06/18/2025 15:16:00,0.0,,UPS,,,0
 8377791193,342011,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),06/19/2025 15:55:00,0.0,,UPS,,,0
 12850,342034, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/19/2025 10:24:00,0.0,,UPS,,,0
@@ -3165,9 +3165,6 @@ A45789,344280,Don Oblander,,19100 NE 74th Ct,,Battle Ground,WA,98604,USA,6129201
 8377838425,344307,,ECR International  Inc.,PO Box 4729,,Utica,NY,13504,US,prepaid,AAA (free package),07/15/2025 15:22:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377838426,344308,,Wayne Combustion Systems,801 Glasgow Ave,,Fort Wayne,IN,46803-1344,US,prepaid,AAA (free package),07/15/2025 15:27:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377838427,344309,,Weil-Mclain,523 S New St,,Eden,NC,27288-3623,US,prepaid,AAA (free package),07/15/2025 15:25:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-635,344314, Amazon.com,Amazon.com,250 EMERALD DR,,Joliet,IL,60433-3280,United States,Prepaid,AAA (free package),07/15/2025 09:55:00,0.0,,UPS,,,0
-636,344315, Amazon.com,Amazon.com,3292 E Holmes Rd,,Memphis,TN,38118-8102,United States,Prepaid,AAA (free package),07/15/2025 09:56:00,0.0,,UPS,,,0
-637,344316, Amazon.com,Amazon.com,4412 W 300 N,,GREENFIELD,IN,46140-7099,United States,Prepaid,AAA (free package),07/15/2025 09:56:00,0.0,,UPS,,,0
 5114,344318, Robert Lamb,,5305 40 Ave,,Beaumont,AB,T4X 1L9,Canada,Prepaid,AAA (free package),07/15/2025 15:07:00,0.0,,UPS,,,0
 5115,344319, Matthew Marble,,3580 Beal Ln,,Mason,MI,48854,United States,Prepaid,AAA (free package),07/15/2025 14:56:00,0.0,,UPS,,,0
 5118,344322, Jonathan Pena,,4 Bear Hill Road,,Merrimac,MA,01860,United States,LTL Freight,AAA (free package),07/16/2025 13:56:00,0.0,,UPS,,,0
@@ -3205,6 +3202,9 @@ A45792,344339,Henry Losee,,251 Mount Zion Rd,,Marlboro,NY,12542,USA,612920135508
 5117,344321, Randall Whitaker,,531 Foxmoor Dr,,Plainwell,MI,49080,United States,Prepaid,AAA (free package),07/15/2025 14:57:00,0.0,,UPS,,,0
 5116,344320, Jordan Fenster,,77 Prospect Street,12D,Stamford,CT,06901,United States,Prepaid,AAA (free package),07/15/2025 14:59:00,0.0,,UPS,,,0
 13053,344317, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/15/2025 14:11:00,0.0,,UPS,,,0
+637,344316, Amazon.com,Amazon.com,4412 W 300 N,,GREENFIELD,IN,46140-7099,United States,Prepaid,AAA (free package),07/15/2025 09:56:00,0.0,,UPS,,,0
+636,344315, Amazon.com,Amazon.com,3292 E Holmes Rd,,Memphis,TN,38118-8102,United States,Prepaid,AAA (free package),07/15/2025 09:56:00,0.0,,UPS,,,0
+635,344314, Amazon.com,Amazon.com,250 EMERALD DR,,Joliet,IL,60433-3280,United States,Prepaid,AAA (free package),07/15/2025 09:55:00,0.0,,UPS,,,0
 634,344313, Amazon.com,Amazon.com,76 Patriot Way,,Hopewell Junction,NY,12533-6159,United States,Prepaid,AAA (free package),07/15/2025 09:55:00,0.0,,UPS,,,0
 633,344312, Amazon.com,Amazon.com,1568 N Linden Ave,,Rialto,CA,92376-8624,United States,Prepaid,AAA (free package),07/15/2025 09:55:00,0.0,,UPS,,,0
 76,344311, Amazon.com,Amazon.com,6251 Pioneer Trail NW,,LOS LUNAS,NM,87031,US,Admin Shipped - FINAL ORDER,AAA (free package),07/15/2025 12:55:00,0.0,,UPS,,,0
@@ -3567,9 +3567,12 @@ A45838,345358,Russell Ferrell,,14632 Toronto St,,Spring Lake,MI,49456,USA,940010
 #146741,345428,Tara Tarr,,158 M Street,,Boston,MA,02127,USA,9261290336147515045078,,07/28/2025 10:47:30,10.1,,DHL,D43,DHL > 1lb Expedited,0
 8377866083,345430,,Contract Manufacturers Inc,729 N Fleishel Ave,,Tyler,TX,75702-6083,US,prepaid,AAA (free package),07/28/2025 15:30:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377866084,345431,,RAYPAK,2151 Eastman Ave,,Oxnard,CA,93030-5194,US,prepaid,AAA (free package),07/28/2025 15:28:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377866239,345432,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),07/31/2025 14:15:00,0.0,,UPS,,,0
 8377866240,345433,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),07/30/2025 09:00:00,0.0,,UPS,,,0
 8377866243,345434,,Lennox Industries Inc,200 South 12th Avenu,,Marshalltown,IA,50158-3005,US,LTL Freight,AAA (free package),07/30/2025 08:25:00,0.0,,UPS,,,0
 8377866245,345436,,US Boiler Company,2920 Old Tree Dr,,Lancaster,PA,17603-4082,US,prepaid,AAA (free package),07/29/2025 16:18:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377866246,345437,,Ao Smith,500 Tennessee Waltz,,Ashland City,TN,37015-1234,US,LTL Freight,AAA (free package),07/31/2025 12:53:00,0.0,,UPS,,,0
+8377866247,345438,,Weil-Mclain,523 S New St,,Eden,NC,27288-3623,US,LTL Freight,AAA (free package),07/31/2025 14:16:00,0.0,,UPS,,,0
 8377866251,345439,,Allied Midwest DC,860 W. Crossroads,,Romeoville,IL,60446,US,prepaid,AAA (free package),07/29/2025 16:19:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377866252,345440,,SupplyHouse LLC,3840 Lockbourne Indu,,Columbus,OH,43207,US,prepaid,AAA (free package),07/29/2025 16:19:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377866253,345441,,PWHS United Refrigeration Inc,11451 Roosevelt Blvd,,Philadelphia,PA,19154-2102,US,prepaid,AAA (free package),07/29/2025 16:19:00,0.0,,UPS,M4,Expedited Mail Innovations,0
@@ -3616,6 +3619,13 @@ A45844,345463,David.L James,,1043 NE Mountain Ash Rd,,Prineville,OR,97754,USA,94
 #146748,345492,Sherry Litwer,,190 Presidential Blvd,Unit 705,Bala Cynwyd,PA,19004,USA,61292013550820515017,,07/28/2025 14:17:36,8.92,,OTHER,FedEx,,0
 #146749,345493,michelle egen,,1625 East Blacklidge Drive,,Tucson,AZ,85719,USA,9261290336147515025049,,07/28/2025 14:16:14,7.64,,DHL,D43,DHL > 1lb Expedited,0
 #146750,345494,Kristen Miller,,5007 Benton Avenue,,Bethesda,MD,20814,USA,9261290336147515050102,,07/28/2025 14:18:14,6.95,,DHL,D32,DHL < 1lb Ground,0
+419,345495, Darrell Gilbert,LEN LO FARM,640 ROBINSON ROAD,,MOHAWK,New York,13407,United States,1ZJ201R90324378809,,07/29/2025 09:43:30,18.13,,UPS,U11,UPS Ground,0
+13186,345496, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:26:00,0.0,,UPS,,,0
+13187,345497, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:25:00,0.0,,UPS,,,0
+13188,345498, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:24:00,0.0,,UPS,,,0
+13189,345499, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:24:00,0.0,,UPS,,,0
+13190,345500, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:26:00,0.0,,UPS,,,0
+13191,345501, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:27:00,0.0,,UPS,,,0
 13179,345502, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:28:00,0.0,,UPS,,,0
 13178,345503, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:28:00,0.0,,UPS,,,0
 13180,345504, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:29:00,0.0,,UPS,,,0
@@ -3625,10 +3635,26 @@ A45844,345463,David.L James,,1043 NE Mountain Ash Rd,,Prineville,OR,97754,USA,94
 13184,345508, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:44:00,0.0,,UPS,,,0
 13185,345509, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:33:00,0.0,,UPS,,,0
 53,345510, Mohammed Khan,"National Institutes of Health, Clinical Center",10 Center Drive Suite Room 3N317,"Building 10, Room 3N317",Bethesda,MD,20982,United States,Prepaid,AAA (free package),07/29/2025 11:04:00,0.0,,UPS,,,0
+5290,345511, Jesse Mullins,,26998 West Rd,,Flat Rock,MI,48134,United States,Prepaid,AAA (free package),07/29/2025 11:06:00,0.0,,UPS,,,0
 5291,345512, Gabe Heller,,8532 Kedvale Ave,,Skokie,IL,60076,United States,Prepaid,AAA (free package),07/29/2025 11:06:00,0.0,,UPS,,,0
 5292,345513, Denise Holland,,271 Riddle Ct,,Martinsville,VA,24112,United States,Prepaid,AAA (free package),07/29/2025 11:53:00,0.0,,UPS,,,0
+8377867027,345514,,Lennox Commercial Plant,13166 South Unitec D,,Laredo,TX,78045,US,LTL Freight,AAA (free package),07/31/2025 14:26:00,0.0,,UPS,,,0
 8377867028,345515,,Cambridge Air Solutions,1290 Interstate Dr,,Wentzville,MO,63385-4515,US,prepaid,AAA (free package),07/29/2025 16:18:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377867029,345516,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),07/30/2025 08:19:00,0.0,,UPS,,,0
+8377867030,345517,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),07/31/2025 14:18:00,0.0,,UPS,,,0
+8377867031,345518,,Daikin Comfort Technologies Di,18988 Kickapoo Rd,Dock Door 730 ??? chec,Waller,TX,77484-7112,US,prepaid,AAA (free package),07/31/2025 14:54:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377867032,345519,,Ferguson,4100 N Webster Ave,,Perris,CA,92571-8738,US,prepaid,AAA (free package),07/31/2025 14:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377867033,345520,,Ferguson Enterprises Inc,620 Fairground Rd,,Front Royal,VA,22630-6742,US,prepaid,AAA (free package),07/31/2025 14:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377867034,345521,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),07/31/2025 16:00:00,0.0,,UPS,,,0
+8377867035,345522,,Studio Iron,3400 W Edge St,,Apache Junction,AZ,85120-7166,US,prepaid,AAA (free package),07/31/2025 14:54:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377867037,345524,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,LTL Freight,AAA (free package),07/31/2025 15:19:00,0.0,,UPS,,,0
+8377867038,345525,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,LTL Freight,AAA (free package),07/31/2025 15:18:00,0.0,,UPS,,,0
+8377867039,345526,,ADC - Atlanta 3PL Distribution,4965 Stonewall Tell,,Atlanta,GA,30349-1725,US,prepaid,AAA (free package),07/31/2025 14:52:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377867040,345527,,Kele & Associates,3300 Brother Blvd,,Bartlett,TN,38133,US,prepaid,AAA (free package),07/31/2025 14:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377867041,345528,,Pb Heat Llc,225 S Seventh Street,,Bally,PA,19503,US,prepaid,AAA (free package),07/31/2025 14:52:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377867042,345529,,Michel R E Company Inc,1 Skywater Way,,Glen Burnie,MD,21060,US,prepaid,AAA (free package),07/31/2025 14:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377867043,345530,,Metropac Industries Inc,10 Annette Road,,Foxboro,MA,02035,US,prepaid,AAA (free package),07/31/2025 14:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377867044,345531,,Ao Smith,500 Tennessee Waltz,,Ashland City,TN,37015-1234,US,LTL Freight,AAA (free package),07/31/2025 12:53:00,0.0,,UPS,,,0
 3749137020,345532,Pamela M. Williams,,306 Stonebrook Drive,,Clayton,NC,27520,USA,61292013550820515055,,07/29/2025 09:41:01,8.92,,OTHER,FedEx,,0
 1100,345533, Rich Par ,,4656 west honeysuckle dr ,,Phoenix,AZ,85083,,9261290336147515005201,,07/29/2025 09:40:19,5.06,,DHL,D32,DHL < 1lb Ground,0
 #3941,345534,Yoojin Kwon,,1/31 North Shore Ave,1/31 North Shore Ave,Varsity Lakes,QLD,4227,AUS,GM2753815450016797,,07/29/2025 08:50:51,16.36,,DHL,D72,DHL Packet International,0
@@ -3647,11 +3673,40 @@ A45848,345542,Jerry Williams,Fogmusic,103 Gayle Ridge Drive,,Easley,SC,29642,USA
 #146755,345556,Betsy Crawford,,4544 Crosstimber Drive,,Plano,TX,75093,USA,1ZJ201R9YW12602401,,07/29/2025 10:36:11,8.91,,OTHER,UPS,,0
 #146756,345557,Patricia Vasquez,,491 W Hamlin Ln,,Round Lake,IL,60073,USA,9261290336147515020143,,07/29/2025 10:34:54,6.97,,DHL,D32,DHL < 1lb Ground,0
 8377868055,345558,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,LTL Freight,AAA (free package),07/30/2025 09:02:00,0.0,,UPS,,,0
+8377869103,345559,,Middleby Cooking Sys Group,1400 Toastmaster Dr,,Elgin,IL,60120-9274,US,LTL Freight,AAA (free package),07/31/2025 14:13:00,0.0,,UPS,,,0
+8377869106,345560,,LB White Company  Inc.,411 Mason Street,,Onalaska,WI,54650,US,LTL Freight,AAA (free package),07/31/2025 13:35:00,0.0,,UPS,,,0
 8377869107,345561,,Metropac Industries Inc,10 Annette Road,,Foxboro,MA,02035,US,prepaid,AAA (free package),07/29/2025 16:19:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377869111,345562,,Williams Furnace Company,220 W Laurel St,,Colton,CA,92324-1435,US,prepaid,AAA (free package),07/29/2025 16:20:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377869114,345564,,SupplyHouse LLC,3840 Lockbourne Indu,,Columbus,OH,43207,US,prepaid,AAA (free package),07/29/2025 16:20:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377869115,345565,,Phoenix Controls,75 Discovery Way,,ACTON,MA,01720,US,prepaid,AAA (free package),07/29/2025 16:20:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377869117,345566,,SupplyHouse LLC,30 Apple Orchard Dr,,Dayton,NJ,08810,US,prepaid,AAA (free package),07/29/2025 16:20:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377869124,345567,,Lennox Industries Inc,200 South 12th Avenu,,Marshalltown,IA,50158-3005,US,LTL Freight,AAA (free package),07/31/2025 14:14:00,0.0,,UPS,,,0
+8377869125,345568,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),07/31/2025 14:56:00,0.0,,UPS,,,0
+8377869126,345569,,A O Smith Water Products,25589 Highway One,,Mc Bee,SC,29101,US,prepaid,AAA (free package),07/31/2025 14:52:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377869127,345570,,US Boiler Warehouse,2930 Old Tree Drive,,Lancaster,PA,17603,US,prepaid,AAA (free package),07/31/2025 14:54:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377869129,345571,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),07/31/2025 16:00:00,0.0,,UPS,,,0
+8377869130,345572,,Rheem Montgomery,2769 Gunter Park Dr,,Montgomery,AL,36109-1013,US,LTL Freight,AAA (free package),07/31/2025 15:25:00,0.0,,UPS,,,0
+8377869131,345573,,Heilbronn Pittway (GE2P),Wohlgelegen 9,,Heilbronn,08,74076,DE,LTL Freight,AAA (free package),07/31/2025 15:20:00,0.0,,UPS,,,0
+8377869137,345574,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),07/31/2025 14:23:00,0.0,,UPS,,,0
+8377869138,345575,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),07/30/2025 08:47:00,0.0,,UPS,,,0
+8377869147,345577,,Superior Radiant Products Ltd,563 Barton St.,,Stoney Creek,ON,L8E 5S1,CA,LTL Freight,AAA (free package),07/31/2025 13:21:00,0.0,,UPS,,,0
+8377869148,345578,,Karcher North America,2700 S. Armstrong Av,,Fayetteville,AR,72701-7274,US,LTL Freight,AAA (free package),07/31/2025 14:24:00,0.0,,UPS,,,0
+8377869149,345579,,Revent Incorporated,22 Roosevelt Ave  Su,,Somerset,NJ,08873,US,prepaid,AAA (free package),07/31/2025 14:54:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377869150,345580,,Trane Co,2701 Wilma Rudolph B,,Clarksville,TN,37040,US,prepaid,AAA (free package),07/31/2025 14:51:00,0.0,,UPS,,,0
+8377869156,345581,,Vulcan FEG Troy Ohio,750 Lincoln Avenue,,Troy,OH,45373,US,LTL Freight,AAA (free package),07/31/2025 14:27:00,0.0,,UPS,,,0
+8377869157,345582,,Captive-Aire Systems,101 North Industrial,,West Union,IA,52175,US,LTL Freight,AAA (free package),07/31/2025 16:02:00,0.0,,UPS,,,0
+8377869167,345583,,Schwank USA Inc.,2 Schwank Way,,Waynesboro,GA,30830-1154,US,LTL Freight,AAA (free package),07/30/2025 08:18:00,0.0,,UPS,,,0
+8377869168,345584,,Trane Co,835 HALLMARK DR,,LAREDO,TX,78045-6347,US,LTL Freight,AAA (free package),07/31/2025 14:12:00,0.0,,UPS,,,0
+8377869170,345585,,Plumbers Supply Company,99 Eastman St,,South Easton,MA,02375,US,prepaid,AAA (free package),07/31/2025 14:54:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377869174,345587,,Captive-Aire Systems,305 Northbrook Dr,,Youngsville,NC,27596-7658,US,LTL Freight,AAA (free package),07/31/2025 16:07:00,0.0,,UPS,,,0
+8377869178,345588,,ADC - Atlanta 3PL Distribution,4965 Stonewall Tell,,Atlanta,GA,30349-1725,US,prepaid,AAA (free package),07/29/2025 16:18:00,0.0,,UPS,,,0
+8377869183,345591,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,LTL Freight,AAA (free package),07/31/2025 15:18:00,0.0,,UPS,,,0
 13192,345592, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:22:00,0.0,,UPS,,,0
 5293,345594, Alex Titarenko,,76 Cypress Street,,Bristol,CT,06010,United States,9405509105114134878971,,07/29/2025 11:14:21,13.33,,USPS,P03,Priority Mail,0
 13193,345595, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:27:00,0.0,,UPS,,,0
+A45849,345596,Mike Kelemen,,2631 English Ivy Rd,,Nazareth,PA,18064,USA,9400109105114134890055,,07/29/2025 12:57:34,5.28,,USPS,P10,First-Class Package Service,0
+#126519,345597,Dan White,,3025 Vía Borica,,Palos Verdes Estates,CA,90274,USA,9261290336147515010090,,07/29/2025 15:17:04,5.64,,DHL,D32,DHL < 1lb Ground,1
+#126519,345597,Dan White,,3025 Vía Borica,,Palos Verdes Estates,CA,90274,USA,9405509105114134902584,,07/29/2025 15:34:23,7.77,,USPS,P03,Priority Mail,0
 #126511,345598,Mallory Shocklee,,6380 Washington Ave,,University City,MO,63130,USA,61292013550820515123,,07/29/2025 13:05:19,8.92,,OTHER,FedEx,,0
 #126518,345599,Silvestre Padilla,,36158 Toulouse St,,Newark,CA,94560,USA,9261290336147517375012,,07/29/2025 13:04:41,7.64,,DHL,D43,DHL > 1lb Expedited,0
 766,345600, ANNETTE MADIGAN ,Madhouse Emporium, 5 Packer Avenue ,,Towanda,PA ,18848  ,United States of America,1ZJ201R90324953599,,07/29/2025 13:00:47,18.43,,UPS,U11,UPS Ground,0
@@ -3667,19 +3722,27 @@ A45848,345542,Jerry Williams,Fogmusic,103 Gayle Ridge Drive,,Easley,SC,29642,USA
 #1237,345613,Michele MARRINAN,,5120 Aldrich Avenue South,,MINNEAPOLIS,MN,55419,USA,9261290336147515045108,,07/29/2025 13:33:41,6.9,,DHL,D32,DHL < 1lb Ground,0
 #1238,345614,,,,,,,,,9261290336147515005249,,07/30/2025 08:13:36,6.34,,DHL,D32,DHL < 1lb Ground,0
 #1240,345615,Nancy Chu,,1199 Seymour St #1103,Apt 1103 Buzzer # 0059,Vancouver,BC,V6B 1K3,CAN,GM2753815450016803,,07/29/2025 14:31:23,10.53,,DHL,D72,DHL Packet International,0
-#126519,345597,Dan White,,3025 Vía Borica,,Palos Verdes Estates,CA,90274,USA,9405509105114134902584,,07/29/2025 15:34:23,7.77,,USPS,P03,Priority Mail,0
+#1241,345616,Em Rodriguez,,1211 San Jose St,,San Leandro,CA,94577,USA,1ZJ201R9YW36153692,,07/29/2025 13:35:51,8.74,,OTHER,UPS,,0
+#1231,345617,Julie Reeves,,P.O.Box 1069,P.O.Box 1069,Queen Creek,AZ,85142,USA,9261290336147515010083,,07/29/2025 13:34:46,5.79,,DHL,D32,DHL < 1lb Ground,0
+#1232,345618,Meghan Gallagher,,1445 South Colorado Street,,Philadelphia,PA,19146,USA,9261290336147515030067,,07/29/2025 13:31:02,6.34,,DHL,D32,DHL < 1lb Ground,0
+#1233,345619,Amy Whitt-Smith,,1112 Fulton Street,,Albertville,AL,35950,USA,9261290336147515050126,,07/29/2025 13:29:01,6.23,,DHL,D32,DHL < 1lb Ground,0
+#1235,345620,Rachael Geiger,,2402 Robinwood Place,,Shawnee,OK,74801,USA,9261290336147515040110,,07/29/2025 13:29:33,6.02,,DHL,D32,DHL < 1lb Ground,0
+#1239,345621,Anastasiia  Nykyforets,,11216 Northeast 17th Street,,Vancouver,WA,98684,USA,9261290336147515030074,,07/29/2025 13:32:55,5.91,,DHL,D32,DHL < 1lb Ground,0
+#1242,345622,Crystal Bedassie,NOVAMULTIVERSE LLC,12119 Heritage Park Road,Apt 141,Oklahoma City,OK,73120,USA,9261290336147515020167,,07/29/2025 13:34:22,5.7,,DHL,D32,DHL < 1lb Ground,0
+#1243,345623,Kenzie Benvenuti,,2021 F St,,Eureka,CA,95501,USA,9261290336147515045115,,07/29/2025 13:35:11,5.96,,DHL,D32,DHL < 1lb Ground,0
 #1244,345624,Zara Komek,,312 Port Way,,Braselton,GA,30517,USA,9261290336147515015170,,07/29/2025 13:27:47,6.34,,DHL,D32,DHL < 1lb Ground,0
 #1245,345625,Bailey Jones,,74 Enza Court,,North Bay,ON,P1C 0A4,CAN,GM2753815450016810,,07/29/2025 14:32:21,10.53,,DHL,D72,DHL Packet International,0
 #146761,345626,Valerie Mercurio,,205 Queen Anne Drive,,Williamstown,NJ,08094,USA,61292013550820515109,,07/29/2025 12:58:55,8.92,,OTHER,FedEx,,0
 13194,345627, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/30/2025 15:24:00,0.0,,UPS,,,0
-#126519,345597,Dan White,,3025 Vía Borica,,Palos Verdes Estates,CA,90274,USA,9261290336147515010090,,07/29/2025 15:17:04,5.64,,DHL,D32,DHL < 1lb Ground,1
+39,345628, Tatyana Presny,Brooks Rehabilitation Hospital,3599 University Blvd.,,South Jacksonville,FL,32216,United States,LTL Freight,AAA (free package),07/31/2025 15:55:00,0.0,,UPS,,,0
+5294,345629, Brennan Booth,,7819 Commerce Park,APT 101,Dubuque,IA,52002,United States,Prepaid,AAA (free package),07/30/2025 10:09:00,0.0,,UPS,,,0
 A45850,345630,Elroy Paule,,460 Rienstra Court,,Chula Vista,CA,91911,USA,9434609105114661516147,,07/29/2025 14:17:26,6.64,,USPS,P11,Parcel Select,0
 #3419,345631,Shari Martinez,,8610 Amblewood Drive,,Houston,TX,77099,USA,391556734864,,07/29/2025 14:19:05,14.4,,FEDEX,F90,FedEx Home Delivery®,0
 #146762,345632,Molly Paduda,,2107 Graham Avenue,,Redondo Beach,CA,90278,USA,9261290336147515030081,,07/29/2025 14:16:51,5.78,,DHL,D32,DHL < 1lb Ground,0
 #146763,345633,William Seibold,,82 Quaker Road,,Falmouth,MA,02540,USA,9261290336147515020174,,07/29/2025 14:18:01,10.1,,DHL,D43,DHL > 1lb Expedited,0
 5295,345634, Alexander Gaggs,,7303 BASSANO DR,,GOLETA,CA,93117,United States,Prepaid,AAA (free package),07/30/2025 10:11:00,0.0,,UPS,,,0
 5296,345635, Fernand David,,4810 Southwest 54th Terrace,,Davie,FL,33314,United States,9261290336147515045122,,07/30/2025 09:17:49,5.88,,DHL,D32,DHL < 1lb Ground,0
-A45849,345596,Mike Kelemen,,2631 English Ivy Rd,,Nazareth,PA,18064,USA,9400109105114134890055,,07/29/2025 12:57:34,5.28,,USPS,P10,First-Class Package Service,0
+1101,345636, Butte Creek Mill FDN/Karen Hammonds,Butte Creek Mill,1404 Brownsboro-Eagle Point Highway,,Eagle Point,OR,97524,,Prepaid,AAA (free package),07/30/2025 11:08:00,0.0,,UPS,,,0
 5298,345637, Sean Stevenson,,601 Stellman Rd,,River Vale,NJ,07675,United States,Prepaid,AAA (free package),07/30/2025 10:08:00,0.0,,UPS,,,0
 5300,345639, Tom Crowder,,450 Consolation Church Road,,Whitesburg,GA,30185,United States,Prepaid,AAA (free package),07/30/2025 10:10:00,0.0,,UPS,,,0
 5301,345640, Eric Watson,,4603 Telescope Ave,,Carlsbad,CA,92008,United States,Prepaid,AAA (free package),07/30/2025 10:09:00,0.0,,UPS,,,0
@@ -3687,14 +3750,18 @@ A45849,345596,Mike Kelemen,,2631 English Ivy Rd,,Nazareth,PA,18064,USA,940010910
 5303,345642, Richard Kokish,,718 Washington St,#2,Sewickley,PA,15143,United States,Prepaid,AAA (free package),07/30/2025 10:10:00,0.0,,UPS,,,0
 5304,345643, Joel Scott,,3756 West Outer Drive,,Detroit,MI,48221,United States,Prepaid,AAA (free package),07/30/2025 10:06:00,0.0,,UPS,,,0
 5297,345644, Jeff VerBerkmoes,,13785 120th Ave,,Grand Haven,MI,49417,United States,Prepaid,AAA (free package),07/30/2025 10:07:00,0.0,,UPS,,,0
-8377869178,345588,,ADC - Atlanta 3PL Distribution,4965 Stonewall Tell,,Atlanta,GA,30349-1725,US,prepaid,AAA (free package),07/29/2025 16:18:00,0.0,,UPS,,,0
+29,345645," Annabella Technologies, Inc. ",Amazon.com Services LLC,18900 W McDowell Road,"BUCKEYE, AZ 85396",Buckeye,AZ,85396,United States,Prepaid,AAA (free package),07/30/2025 12:41:00,0.0,,UPS,,,0
+8377869629,345646,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),07/31/2025 16:00:00,0.0,,UPS,,,0
+8377869855,345647,,Cleveland Range LTD (Welbilt),8251 Keele St,,Concord,ON,L4K 1Z1,CA,prepaid,AAA (free package),07/31/2025 14:54:00,0.0,,UPS,,,0
+8377869856,345648,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),07/31/2025 14:53:00,0.0,,UPS,,,0
+8377869857,345649,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),07/31/2025 14:50:00,0.0,,UPS,,,0
 #3942,345650,Katarzyna Andrzejewska,,Fredry,6M/30,Kraków,,30-605,POL,GM2753815450016834,,07/30/2025 13:45:52,23.04,,DHL,D72,DHL Packet International,0
 A45851,345651,William Beisner,,43633 Old Hwy 87,,Hardin,MT,59034,USA,9400109105114134947667,,07/30/2025 09:18:26,5.41,,USPS,P10,First-Class Package Service,0
 A45852,345652,Craig Hoek,,42 Putnam Road,,Hyde Park,NY,12538,USA,9400109105114661570581,,07/30/2025 09:18:56,5.53,,USPS,P10,First-Class Package Service,0
 182,345653, Joseph Beckett,,5195 Violet Lane,,Macclenny ,FL,32063,,9261290336147515050140,,07/30/2025 09:50:06,10.1,,DHL,D43,DHL > 1lb Expedited,0
 #3420,345654,Kanisha Bailey,,3759 Washburn Street,,Columbus,OH,43213,USA,1ZJ201R90119929870,Box - 12 x 12 x 12,07/30/2025 09:52:50,55.97,,UPS,U01,Next Day Air,0
 #3422,345655,Kanisha Bailey,,3759 Washburn Street,,Columbus,OH,43213,USA,9261290336147515040127,,07/30/2025 09:17:00,6.86,,DHL,D32,DHL < 1lb Ground,0
-8377869167,345583,,Schwank USA Inc.,2 Schwank Way,,Waynesboro,GA,30830-1154,US,LTL Freight,AAA (free package),07/30/2025 08:18:00,0.0,,UPS,,,0
+#3423,345656,Evelyn Peats,,3655 W Tropicana Ave j2120,,Las Vegas,NV,89103,USA,391585439430,Box - 12 x 12 x 12,07/30/2025 09:53:17,10.51,,FEDEX,R02,Ground,0
 #146764,345657,Valentine Klutznick,,809 Greenleaf Avenue,,Glencoe,IL,60022,USA,9261290336147515035086,,07/30/2025 10:08:31,6.9,,DHL,D32,DHL < 1lb Ground,0
 #146765,345658,Mary Mailhot,,5-5226 Kuhio Hwy #1431,,Hanalei,HI,96714,USA,9434609105114134953288,,07/30/2025 10:03:44,12.65,,USPS,P11,Parcel Select,0
 #146766,345659,Suzanne Lampert,,3432 North Seeley Avenue,,Chicago,IL,60618,USA,9261290336147515010106,,07/30/2025 10:06:24,6.97,,DHL,D32,DHL < 1lb Ground,0
@@ -3712,10 +3779,22 @@ A45852,345652,Craig Hoek,,42 Putnam Road,,Hyde Park,NY,12538,USA,940010910511466
 13195,345671, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/30/2025 15:25:00,0.0,,UPS,,,0
 13196,345672, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/30/2025 15:25:00,0.0,,UPS,,,0
 13197,345673, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/30/2025 15:22:00,0.0,,UPS,,,0
-8377869138,345575,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),07/30/2025 08:47:00,0.0,,UPS,,,0
+8377870689,345674,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),07/31/2025 13:20:00,0.0,,UPS,,,0
+8377870703,345675,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/31/2025 15:38:00,0.0,,UPS,,,0
+8377870705,345676,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),07/31/2025 14:52:00,0.0,,UPS,,,0
+8377870706,345677,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,LTL Freight,AAA (free package),07/31/2025 13:19:00,0.0,,UPS,,,0
+8377871252,345678,,Contract Manufacturers Inc,729 N Fleishel Ave,,Tyler,TX,75702-6083,US,prepaid,AAA (free package),07/31/2025 14:52:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377871253,345679,,Sur-Seal Corporation,10053 Simonson Rd,,Harrison,OH,45030,US,LTL Freight,AAA (free package),07/31/2025 15:32:00,0.0,,UPS,,,0
+8377871254,345680,,Neuco Inc,515 W Crossroads Pkw,,Bolingbrook,IL,60440-4821,US,prepaid,AAA (free package),07/31/2025 14:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377871474,345681,,US Boiler Company,2920 Old Tree Dr,,Lancaster,PA,17603-4082,US,LTL Freight,AAA (free package),07/31/2025 14:25:00,0.0,,UPS,,,0
+8377871476,345682,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),07/31/2025 14:53:00,0.0,,UPS,,,0
+8377871481,345683,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),07/31/2025 15:47:00,0.0,,UPS,,,0
+8377871781,345684,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),07/31/2025 14:50:00,0.0,,UPS,,,0
+8377871780,345685,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),07/31/2025 14:49:00,0.0,,UPS,,,0
+54,345687, Neeha Narala,Cellipont Bioservices,9501 Lakeside Blvd,,The Woodlands,TX,77381,United States,Prepaid,AAA (free package),07/30/2025 11:44:00,0.0,,UPS,,,0
 3750643620,345688,Lindsay Buchler,,1003 N Damen Ave,Unit 3,Chicago,IL,60622,USA,61292013550820515192,,07/30/2025 13:36:26,8.92,,OTHER,FedEx,,0
 #3943,345689,Andria Rosenbaum,,473 Maitland Avenue,,Teaneck,NJ,07666,USA,61292013550820515178,,07/30/2025 13:07:57,8.99,,OTHER,FedEx,,0
-8377869117,345566,,SupplyHouse LLC,30 Apple Orchard Dr,,Dayton,NJ,08810,US,prepaid,AAA (free package),07/29/2025 16:20:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+#3944,345690,Michael Kaufman,,Kalman Bialer 3/28,,---,,7666113,ISR,GM2753815450016841,,07/30/2025 13:47:17,20.03,,DHL,D72,DHL Packet International,0
 #3944,345690,Michael Kaufman,,Kalman Bialer 3/28,,---,,7666113,ISR,GM5453815450016869,,07/30/2025 13:55:46,22.9,,OTHER,DHL Global Mail,,0
 #3945,345691,Barbara Blankenship,,4728 Mill Creek Rd,,Walla Walla,WA,99362,USA,9261290336147515045139,,07/30/2025 13:07:21,8.57,,DHL,D43,DHL > 1lb Expedited,0
 #3946,345692,Almog Sabag,,Gevat,,Gevat,,3657900,ISR,GM5453815450016852,,07/30/2025 13:49:57,47.76,,OTHER,DHL Global Mail,,0
@@ -3731,22 +3810,31 @@ A45853,345698,Paul Downing,,12083 Lake Vista Dr,,Willis,TX,77318,USA,94001091051
 #3424,345702,jacey mueller,,317 W North St,,Forrest,IL,61741,USA,1ZJ201R90308515057,,07/30/2025 13:06:08,19.28,,UPS,U11,UPS Ground,0
 #146778,345704,Laura Cohen,,25 Rockingham Street,,Cambridge,MA,02139,USA,61292013550820515185,,07/30/2025 13:34:19,8.92,,OTHER,FedEx,,0
 #146779,345705,Niki McCarthy,,4118 Ellicott St NW,,Washington,DC,20016,USA,9261290336147515025063,,07/30/2025 13:36:52,7.07,,DHL,D32,DHL < 1lb Ground,0
+5305,345706, Marc Jehle,,1708 NW 82 Ave,GRD28176,Doral,FL,33126,United States,LTL Freight,AAA (free package),07/31/2025 13:33:00,0.0,,UPS,,,0
+5306,345707, Luis Zambrano,,2821 Townbluff Drive,Apartament 1077,Plano,TX,75075,United States,Prepaid,AAA (free package),07/31/2025 13:37:00,0.0,,UPS,,,0
 #146780,345709,Carmen Caceres,,1102 11th Street,108,Santa Monica,CA,90403,USA,9261290336147515025070,,07/30/2025 14:13:21,7.04,,DHL,D43,DHL > 1lb Expedited,0
 #146781,345710,stacey leon,,43 Terrace Street,,Haworth,NJ,07641,USA,61292013550820515208,,07/30/2025 14:13:44,8.92,,OTHER,FedEx,,0
 #146782,345711,Gretchen Kalish,,17 ATWOOD ST,,NEWBURYPORT,MA,01950,USA,61292013550820515239,,07/30/2025 14:14:57,10.77,,OTHER,FedEx,,0
 #146783,345712,Laurie Willard,,17 Griffon Place,,Rye,NY,10580,USA,61292013550820515215,,07/30/2025 14:14:06,8.92,,OTHER,FedEx,,0
 #146784,345713,Marisa Levi,,67 Fee Court,,Briarcliff Manor,NY,10510,USA,61292013550820515222,,07/30/2025 14:14:30,8.92,,OTHER,FedEx,,0
+5311,345725, debbie hulihan,,1411 W 37th St,,Erie,PA,16508,United States,Prepaid,AAA (free package),07/31/2025 13:38:00,0.0,,UPS,,,0
+5312,345726, Joseph Lucas,,120 Majestic Drive,,Lombard,IL,60148,United States,Prepaid,AAA (free package),07/31/2025 13:36:00,0.0,,UPS,,,0
+5307,345727, Matthew Allbee,,1388 Slate Dr,,Yorkville,IL,60560,United States,Prepaid,AAA (free package),07/31/2025 13:39:00,0.0,,UPS,,,0
+5308,345728, Stephen Espinosa,,524 Brussels Ave,A,Clifton Forge,VA,24422,United States,Prepaid,AAA (free package),07/31/2025 13:37:00,0.0,,UPS,,,0
+5309,345729, Todd Hartley,,677 Hart St,Unit 1,Brooklyn,NY,11221,United States,Prepaid,AAA (free package),07/31/2025 13:38:00,0.0,,UPS,,,0
+5310,345730, John van Rysselt,,460 Vesuvius Bay Rd,,Salt Spring Island,BC,V8K 1K7,Canada,Prepaid,AAA (free package),07/31/2025 13:38:00,0.0,,UPS,,,0
 #3948,345731,Meena Kadhimi,,"House 1149, Flat 21, Road 6025, Block 360",,Zinj,,,BHR,GM2753815450016902,,07/31/2025 11:24:23,15.45,,DHL,D72,DHL Packet International,0
 #3949,345732,Anna-Lena Bodmar Riller,,Marbergsvägen 4,,HALMSTAD,,305 91,SWE,GM2753815450016926,,07/31/2025 11:28:06,13.06,,DHL,D72,DHL Packet International,0
 #3950,345733,Jasmin Chua,,125 Farview Drive,,Denham Court,NSW,2565,AUS,GM5453815450016890,,07/31/2025 11:17:50,27.54,,OTHER,DHL Global Mail,,0
 #3951,345734,Gail Wood,,"100 Cedar St, Apt B30",Building 7,Dobbs Ferry,NY,10522,USA,61292013550820515246,,07/31/2025 09:36:24,8.92,,OTHER,FedEx,,0
 #3952,345735,Karen Low,,678 Choa Chu Kang Crescent,#06-632,Singapore,,680678,SGP,GM2753815450016889,,07/31/2025 11:09:09,10.87,,DHL,D72,DHL Packet International,0
 #3953,345736,Bárbara Lopes,,"Rua Augusto Toscano Batalha, 4 RCDT",,Povoa de Santa Iria,PT-11,2625-224,PRT,GM5453815450016913,,07/31/2025 11:26:35,23.1,,OTHER,DHL Global Mail,,0
-8377869115,345565,,Phoenix Controls,75 Discovery Way,,ACTON,MA,01720,US,prepaid,AAA (free package),07/29/2025 16:20:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+#3947,345737,Lisha Fei,,7341 Covered Bridge Dr,,Austin,TX,78736,USA,1ZJ201R9YW26827465,,07/31/2025 09:19:50,8.91,,OTHER,UPS,,0
+396,345738, Kora Xu,Synnex,TENNESSEE DEPT OF SAFETY,225 EZELL PIKE TRAVIS RAINES,NASHVILLE,TN,37217,,LTL Freight,AAA (free package),07/31/2025 15:31:00,0.0,,UPS,,,0
 397,345739, Rowena Reyes,"Taoglas USA, Inc.",4851 Paramount Drive,,San Diego,CA,92123,United States,8832 1703 4648,AAA (free package),07/31/2025 11:23:00,0.0,,FEDEX GROUND,,,0
 A45858,345740,Tony Kim,"Tony W Kim Insurance Agency, Inc",29266 Las Palmas Ct,,Valencia,CA,91354-1544,USA,9400109105114135072320,,07/31/2025 09:35:45,5.04,,USPS,P10,First-Class Package Service,0
 A45860,345741,Matti Viitala,,Valkkutie 2,,Oulu,,90630,FIN,GM5453815450016937,Box - 16 x 12 x 6,07/31/2025 11:29:24,31.98,,OTHER,DHL Global Mail,,0
-8377869114,345564,,SupplyHouse LLC,3840 Lockbourne Indu,,Columbus,OH,43207,US,prepaid,AAA (free package),07/29/2025 16:20:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+A45861,345742,Howard Rambo,,18 Hunters Hollow,,Columbus,MS,39705,USA,1ZJ201R90302845989,,07/31/2025 09:37:33,27.03,,UPS,U11,UPS Ground,0
 A45861,345742,Howard Rambo,,18 Hunters Hollow,,Columbus,MS,39705,USA,1ZJ201R90301243998,,07/31/2025 09:37:33,12.4,,UPS,U11,UPS Ground,0
 #126548,345743,Jennifer Robins,,1422 Aalapapa Drive,,Kailua,HI,96734,USA,9434609105114135073244,,07/31/2025 09:39:11,16.16,,USPS,P11,Parcel Select,0
 767,345744, Skagit Valley Hospital Gift Shop  ,Skagit Valley Hospital Gift Shop,1415 East Kincaid Street  ,,Mount Vernon,WA ,98274  ,United States of America,1ZJ201R90326571560,,07/31/2025 09:46:18,16.87,,UPS,U11,UPS Ground,0
@@ -3758,9 +3846,37 @@ A45861,345742,Howard Rambo,,18 Hunters Hollow,,Columbus,MS,39705,USA,1ZJ201R9030
 770,345747, Helen Yetman-Bellows  ,Squirrel-Eze & Friends,160 South Road ,,Pepperell,MA ,01463  ,United States of America,61292013550820515253,Box - 8 x 8 x 8,07/31/2025 09:47:48,10.77,,OTHER,FedEx,,0
 #3412,345748,Ellie Kukral,,1890 Horizon Way,Unit C,Chino Valley,AZ,86323,USA,9261290336147515050171,,07/31/2025 09:20:37,5.84,,DHL,D32,DHL < 1lb Ground,0
 #3427,345749, Pope,,4730 Underwood Mountain Road,,Tuscumbia,AL,35674,USA,1ZJ201R90326507522,,07/31/2025 09:38:24,18.13,,UPS,U11,UPS Ground,0
+#146785,345750,Kimberly Russell,,9 Raven Cir,,Heath,TX,75032,USA,1ZJ201R9YW27820728,,07/31/2025 13:35:58,8.91,,OTHER,UPS,,0
+#146786,345751,Alyson Beha,,289 Grace Church Street,,Rye,NY,10580,USA,61292013550820515314,,07/31/2025 13:35:25,8.92,,OTHER,FedEx,,0
 #146787,345752,Shelby Eagleburger,HAPPY BIRTHDAY!,960 Northeast Humboldt Street,,Portland,OR,97211,USA,9261290336147515035109,,07/31/2025 09:39:42,6.52,,DHL,D32,DHL < 1lb Ground,0
 #146788,345753,Bridget Tess,,17 Deer Park Rd,,Great Neck,NY,11024,USA,9261290336147515045146,,07/31/2025 09:40:21,7.31,,DHL,D43,DHL > 1lb Expedited,0
 #146789,345754,Shea Cuthbertson,,360 Nueces Street,1810,Austin,TX,78701,USA,9261290336147515010113,,07/31/2025 09:40:47,6.67,,DHL,D32,DHL < 1lb Ground,0
+8377872173,345756,,US Boiler Warehouse,2930 Old Tree Drive,,Lancaster,PA,17603,US,prepaid,AAA (free package),07/31/2025 14:55:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377872174,345757,,Weil-Mclain,523 S New St,,Eden,NC,27288-3623,US,prepaid,AAA (free package),07/31/2025 14:52:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377872175,345758,,Greenheck Fan Corporation,3010 N David Patrick,,Tulsa,OK,74116-1406,US,LTL Freight,AAA (free package),07/31/2025 15:14:00,0.0,,UPS,,,0
+8377872176,345759,,Daikin Comfort Technologies Di,9626 Fallbrook Pines,,Houston,TX,77064-3509,US,prepaid,AAA (free package),07/31/2025 14:55:00,0.0,,UPS,,,0
+8377872317,345768,,Sur-Seal Corporation,10053 Simonson Rd,,Harrison,OH,45030,US,LTL Freight,AAA (free package),07/31/2025 15:32:00,0.0,,UPS,,,0
+8377872320,345771,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/31/2025 15:38:00,0.0,,UPS,,,0
+8377873212,345774,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/31/2025 15:38:00,0.0,,UPS,,,0
+8377873718,345776,,Proveedora de Seguridad Indust,Blvd Adolfo Lopez Ma,,Tampico,TAM,89336,MX,prepaid,AAA (free package),07/31/2025 14:55:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377873719,345777,,Marcole Enterprises Llc,1108 Oakdale Street,,Manchester,TN,37355,US,prepaid,AAA (free package),07/31/2025 14:55:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+5316,345804, Eddy Chang,,10641 153 Street Northwest,,Edmonton,AB,T5P 2C4,Canada,Prepaid,AAA (free package),07/31/2025 15:33:00,0.0,,UPS,,,0
+5317,345805, Jeff Baker,,143 Beale Street,,Quincy ,MA,02170,United States,Prepaid,AAA (free package),07/31/2025 15:33:00,0.0,,UPS,,,0
+3757435811,345806,Jeanne McLennan,,3657 Woodcrest Lane,,SEDRO WOOLLEY,WA,98284,USA,61292013550820515284,,07/31/2025 12:35:28,11.39,,OTHER,FedEx,,0
+3757443949,345807,Darlene Watts,,310 County Road 954,,CRANE HILL,AL,35053,USA,61292013550820515260,,07/31/2025 12:32:53,11.39,,OTHER,FedEx,,0
+A45862,345808,Caden McKotch,,6455 Old Route 8 North,,Butler,PA,16002,USA,61292013550820515277,Box - 10 x 10 x 10,07/31/2025 12:34:40,10.83,,OTHER,FedEx,,0
+3410,345810,Carolynn Lytle,,2457 Ridgecrest Avenue,,Orange Park,FL,32065,US,1ZJ201R90129277994,Box - 12 x 12 x 12,07/31/2025 12:34:00,55.97,,UPS,U01,Next Day Air,0
+3411,345811,Maggie Robinson,,35 Edgewood Avenue,,Greenwich,CT,06830,US,1ZJ201R90107822828,Box - 8 x 8 x 8,07/31/2025 12:33:27,40.66,,UPS,U01,Next Day Air,0
+3412,345812,Ellie Kukral,,1890 Horizon Way,Unit C,Chino Valley,AZ,86323,US,9261290336147515015194,,07/31/2025 12:32:15,5.84,,DHL,D32,DHL < 1lb Ground,0
+#146791,345813,Hannah Van Thomme,,1572 Griggs Street North,,Saint Paul,MN,55108,USA,61292013550820515291,,07/31/2025 12:43:27,8.92,,OTHER,FedEx,,0
+#146792,345814,Amanda Mawrence,,616 W fulton,Apt 214,Chicago,IL,60661,USA,9261290336147515030104,,07/31/2025 12:43:03,6.97,,DHL,D32,DHL < 1lb Ground,0
+#146793,345815,Natasha Benzaquen,,5110 S Raymond St,,Seattle,WA,98118,USA,61292013550820515307,,07/31/2025 12:44:07,8.92,,OTHER,FedEx,,0
+#146794,345816,Gerri Sweder,,416 Commonwealth Avenue,apt 605,Boston,MA,02215,USA,9261290336147515010120,,07/31/2025 12:43:49,7.07,,DHL,D32,DHL < 1lb Ground,0
+1205,345821, Oscar Gonzalez,Amazon FBM,12119 BRIGHTON BROOK LN,,TOMBALL,TX ,77377-2583,United States,61292013550820515383,,07/31/2025 15:13:52,8.92,,OTHER,FedEx,,0
+1206,345822, Maheswar deonarain,Amazon FBM,12949 157TH ST,,JAMAICA,ny,11434-2845,United States,61292013550820515376,,07/31/2025 15:13:21,8.99,,OTHER,FedEx,,0
+A45865,345823,Andrew Seymour,Percy Julian Middle School,416 South Ridgeland Avenue,,Oak Park,IL,60302,USA,1ZJ201R90309503264,,07/31/2025 15:07:55,18.15,,UPS,U11,UPS Ground,0
+A45865,345823,Andrew Seymour,Percy Julian Middle School,416 South Ridgeland Avenue,,Oak Park,IL,60302,USA,1ZJ201R90310813275,,07/31/2025 15:07:55,18.15,,UPS,U11,UPS Ground,0
+A45865,345823,Andrew Seymour,Percy Julian Middle School,416 South Ridgeland Avenue,,Oak Park,IL,60302,USA,1ZJ201R90316127283,,07/31/2025 15:07:55,18.15,,UPS,U11,UPS Ground,0
 13012,343920, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/09/2025 11:53:00,0.0,,UPS,,,0
 5073,343921, George Richardson,,6324 Timberly Lane,,Zephyrhills,FL,33542,United States,Prepaid,AAA (free package),07/11/2025 08:22:00,0.0,,UPS,,,0
 5074,343922, Anthony Velez,,2297 Southern Boulevard,,Bronx,NY,10460,United States,Prepaid,AAA (free package),07/11/2025 10:38:00,0.0,,UPS,,,0
@@ -3772,29 +3888,6 @@ A45861,345742,Howard Rambo,,18 Hunters Hollow,,Columbus,MS,39705,USA,1ZJ201R9030
 #146394,343928,Anne Marie Wick,,2483 Indian Springs Lane,,Sun Valley,ID,83353,USA,9261290336147509690260,,07/09/2025 12:35:51,8.57,,DHL,D43,DHL > 1lb Expedited,0
 #146395,343929,Taylor Methfessel,,416Acacia Ave,,Corona del mar,CA,92625,USA,9261290336147509715253,,07/09/2025 12:34:15,7.04,,DHL,D43,DHL > 1lb Expedited,0
 #146396,343930,Bertan Talu,,14 Mast Street,Apt 1,Marina del Rey,CA,90292,USA,9261290336147509725269,,07/09/2025 12:20:25,7.04,,DHL,D43,DHL > 1lb Expedited,0
-5290,345511, Jesse Mullins,,26998 West Rd,,Flat Rock,MI,48134,United States,Prepaid,AAA (free package),07/29/2025 11:06:00,0.0,,UPS,,,0
-112-8339598-8801005,343932,Hannah Orr,,400 E A AVE,,KINGMAN,KS,67068-1605,United States,61292013550820513099,Box - 10 x 10 x 10,07/09/2025 12:32:56,11.38,,OTHER,FedEx,,0
-111-1059156-2657056,343933,Ross Rylee,,8309 SE MORRISON ST,,PORTLAND,OR,97216-1221,United States,9261290336147509695265,Box - 10 x 10 x 10,07/09/2025 12:36:24,6.05,,DHL,D32,DHL < 1lb Ground,0
-13191,345501, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:27:00,0.0,,UPS,,,0
-#146398,343936,Bridget Nicholas,,"39 Maple Tree Ave, Unit 15",,Stamford,CT,06906,USA,9261290336147509720226,,07/09/2025 14:09:43,7.07,,DHL,D32,DHL < 1lb Ground,0
-#146399,343937,Gina Bauer,,12 Adele Street,,Ladera Ranch,CA,92694,USA,9261290336147509710197,,07/09/2025 14:10:02,5.79,,DHL,D32,DHL < 1lb Ground,0
-8377829796,343938,,Rheem Montgomery,2769 Gunter Park Dr,,Montgomery,AL,36109-1013,US,LTL Freight,AAA (free package),07/11/2025 09:23:00,0.0,,UPS,,,0
-8377829802,343939,,Lennox Industries Inc,200 South 12th Avenu,,Marshalltown,IA,50158-3005,US,prepaid,AAA (free package),07/10/2025 15:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377829803,343940,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,prepaid,AAA (free package),07/10/2025 15:52:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377829804,343941,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,LTL Freight,AAA (free package),07/11/2025 08:54:00,0.0,,UPS,,,0
-8377829805,343942,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,prepaid,AAA (free package),07/10/2025 15:50:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-13190,345500, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:26:00,0.0,,UPS,,,0
-8377829807,343944,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/10/2025 15:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377829808,343945,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/10/2025 15:52:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377829809,343946,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/10/2025 15:55:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377829810,343947,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/11/2025 15:36:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377829811,343948,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/11/2025 15:36:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377829937,343949,,Ao Smith,500 Tennessee Waltz,,Ashland City,TN,37015-1234,US,LTL Freight,AAA (free package),07/11/2025 15:55:00,0.0,,UPS,,,0
-8377829942,343950,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,prepaid,AAA (free package),07/10/2025 15:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377829943,343951,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/11/2025 09:16:00,0.0,,UPS,,,0
-8377829945,343952,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),07/11/2025 09:03:00,0.0,,UPS,,,0
-8377829947,343953,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/11/2025 15:37:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-8377829948,343954,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),07/11/2025 09:06:00,0.0,,UPS,,,0
 1059,343955, Jennifer Tihanyi  ,Christmas Point Wild Rice Co,14803 Edgewood Drive North,,Baxter,MN,56425 ,,Prepaid,AAA (free package),07/11/2025 08:08:00,0.0,,UPS,,,0
 13024,343956, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/11/2025 14:58:00,0.0,,UPS,,,0
 13023,343957, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/11/2025 15:00:00,0.0,,UPS,,,0
@@ -3811,12 +3904,11 @@ A45861,345742,Howard Rambo,,18 Hunters Hollow,,Columbus,MS,39705,USA,1ZJ201R9030
 38,343968, Tatyana Presny,Brooks Rehabilitation Hospital,3599 University Blvd.,,South Jacksonville,FL,32216,,LTL Freight,AAA (free package),07/11/2025 15:23:00,0.0,,UPS,,,0
 5077,343969, Jonathan Martinez,,1235 Richland Avenue,,Santa Ana,CA,92703,United States,Prepaid,AAA (free package),07/11/2025 08:22:00,0.0,,UPS,,,0
 5078,343970, Tom Volpe,,204 McRae Drive,,Toronto,ON,M4G1T3,Canada,Prepaid,AAA (free package),07/11/2025 08:21:00,0.0,,UPS,,,0
-13189,345499, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:24:00,0.0,,UPS,,,0
 3731014180,343972,Ronda Davis,,12108 La Charles Ave NE,,Albuquerque,NM,87111,USA,61292013550820513112,,07/10/2025 08:58:06,8.91,,OTHER,FedEx,,0
 3738890675,343973,Tiffany Thomas,,13061 4th St.,,Yucaipa,CA,92399,USA,9261290336147509725283,,07/10/2025 08:59:19,7.04,,DHL,D43,DHL > 1lb Expedited,0
 #3885,343974,HIROMI ISHII,,5-2-2  Akitsu-cho,,Higashimurayama-city,JP-13,189-0001,JPN,GM2753815450016551,,07/10/2025 11:13:27,20.71,,DHL,D72,DHL Packet International,0
 #3886,343975,Cheryl Bone,,Mountain Road Mungataroto,,Kaipara,NTL,0587,NZL,GM2753815450016568,,07/10/2025 11:15:01,26.07,,DHL,D72,DHL Packet International,0
-13188,345498, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:24:00,0.0,,UPS,,,0
+1061,343971, Walmart WFS,,"LAX2T, 6730 Kimball Ave",,Chino,CA,91708,,Prepaid,AAA (free package),07/11/2025 08:08:00,0.0,,UPS,,,0
 1060,343977, Ligia ,,3402 Harrison Ave,,Rochester Hills,MI,48307,,9261290336147509700136,,07/10/2025 08:55:57,5.42,,DHL,D32,DHL < 1lb Ground,0
 375,343978, Attn: Eric Charron,Comcast Cable Communications Management LLC,18401 E 40TH AVE,,AURORA,CO, 80011-0845ADAM,USA,LTL Freight,AAA (free package),07/11/2025 15:27:00,0.0,,UPS,,,0
 A45768,343979,James Moyer,,451 Blueberry Circle,,Oceanside,CA,92058,USA,9400109105114133658694,,07/10/2025 08:57:37,5.5,,USPS,P10,First-Class Package Service,0
@@ -3847,7 +3939,7 @@ A45768,343979,James Moyer,,451 Blueberry Circle,,Oceanside,CA,92058,USA,94001091
 8377830018,344005,,Lancaster Metal Manufacturing,1548 Fruitville Pike,,Lancaster,PA,17601-4056,US,prepaid,AAA (free package),07/14/2025 15:54:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377830019,344006,,A O Smith Apcom Dvi,125 Southeast Pkwy,,Franklin,TN,37064,US,LTL Freight,AAA (free package),07/14/2025 14:59:00,0.0,,UPS,,,0
 8377830020,344007,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,LTL Freight,AAA (free package),07/14/2025 14:56:00,0.0,,UPS,,,0
-13187,345497, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:25:00,0.0,,UPS,,,0
+8377829948,343954,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),07/11/2025 09:06:00,0.0,,UPS,,,0
 8377830022,344009,,Solaronics Inc,3720 Lapeer Road,,Auburn Hills,MI,48326,US,prepaid,AAA (free package),07/14/2025 15:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377830024,344010,,Crown Boiler,3633 I Street,,Philadelphia,PA,19134-1451,US,prepaid,AAA (free package),07/14/2025 15:51:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377830025,344011,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/14/2025 15:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
@@ -3865,12 +3957,12 @@ A45768,343979,James Moyer,,451 Blueberry Circle,,Oceanside,CA,92058,USA,94001091
 13025,344023, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/10/2025 11:51:00,0.0,,UPS,,,0
 13026,344024, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/10/2025 11:50:00,0.0,,UPS,,,0
 112-7432677-1815445,344025,Leland Solaita,,1640 WORTHINGTON ST,,LAKE OSWEGO,OR,97034-6132,USA,9261290336147509735244,Box - 8 x 8 x 8,07/10/2025 11:00:37,5.57,,DHL,D32,DHL < 1lb Ground,0
-13186,345496, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/29/2025 14:26:00,0.0,,UPS,,,0
+8377829947,343953,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/11/2025 15:37:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 13027,344027, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/10/2025 11:50:00,0.0,,UPS,,,0
 5084,344028, Michael McAtee,,5965 W Myers Rd,,Covington,OH,45318,United States,Prepaid,AAA (free package),07/11/2025 10:39:00,0.0,,UPS,,,0
 5085,344029, Ray Diaz,,2400 Northwest 95th Avenue,,Doral,FL,33172,United States,Prepaid,AAA (free package),07/11/2025 08:21:00,0.0,,UPS,,,0
 5086,344030, Emily Youngblood,,427 Laurel Street,,Central Point,OR,97502,United States,Prepaid,AAA (free package),07/11/2025 08:20:00,0.0,,UPS,,,0
-419,345495, Darrell Gilbert,LEN LO FARM,640 ROBINSON ROAD,,MOHAWK,New York,13407,United States,1ZJ201R90324378809,,07/29/2025 09:43:30,18.13,,UPS,U11,UPS Ground,0
+8377829945,343952,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),07/11/2025 09:03:00,0.0,,UPS,,,0
 5088,344032, Jimmie Garrett Garrett,,15 Seaton Place Northwest,1,Washington,DC,20001,United States,Prepaid,AAA (free package),07/11/2025 08:20:00,0.0,,UPS,,,0
 5079,344033, Augustus Centeno,,2032 Chatwin Ave.,,Long Beach,CA,90815,United States,Prepaid,AAA (free package),07/11/2025 08:21:00,0.0,,UPS,,,0
 5080,344034, Robert Slough,,122 34th Street,Apt A,Newport Beach,CA,92663,United States,Prepaid,AAA (free package),07/11/2025 08:20:00,0.0,,UPS,,,0
@@ -3903,26 +3995,26 @@ A45775,344045,Marc Stevens,,1215 High St NE,,Warren,OH,44483,USA,1ZJ201R90318010
 220,344055, Amazon SPD - GEU3,Amazon,18900 W McDowell Road,,BUCKEYE,AZ ,85396,,Prepaid,AAA (free package),07/11/2025 08:07:00,0.0,,UPS,,,0
 8377832348,344057,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,LTL Freight,AAA (free package),07/11/2025 15:56:00,0.0,,UPS,,,0
 8377832391,344058,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/11/2025 15:47:00,0.0,,UPS,,,0
-#1243,345623,Kenzie Benvenuti,,2021 F St,,Eureka,CA,95501,USA,9261290336147515045115,,07/29/2025 13:35:11,5.96,,DHL,D32,DHL < 1lb Ground,0
-#1242,345622,Crystal Bedassie,NOVAMULTIVERSE LLC,12119 Heritage Park Road,Apt 141,Oklahoma City,OK,73120,USA,9261290336147515020167,,07/29/2025 13:34:22,5.7,,DHL,D32,DHL < 1lb Ground,0
-#1239,345621,Anastasiia  Nykyforets,,11216 Northeast 17th Street,,Vancouver,WA,98684,USA,9261290336147515030074,,07/29/2025 13:32:55,5.91,,DHL,D32,DHL < 1lb Ground,0
-#1235,345620,Rachael Geiger,,2402 Robinwood Place,,Shawnee,OK,74801,USA,9261290336147515040110,,07/29/2025 13:29:33,6.02,,DHL,D32,DHL < 1lb Ground,0
-#1233,345619,Amy Whitt-Smith,,1112 Fulton Street,,Albertville,AL,35950,USA,9261290336147515050126,,07/29/2025 13:29:01,6.23,,DHL,D32,DHL < 1lb Ground,0
-#1232,345618,Meghan Gallagher,,1445 South Colorado Street,,Philadelphia,PA,19146,USA,9261290336147515030067,,07/29/2025 13:31:02,6.34,,DHL,D32,DHL < 1lb Ground,0
-#1231,345617,Julie Reeves,,P.O.Box 1069,P.O.Box 1069,Queen Creek,AZ,85142,USA,9261290336147515010083,,07/29/2025 13:34:46,5.79,,DHL,D32,DHL < 1lb Ground,0
-#1241,345616,Em Rodriguez,,1211 San Jose St,,San Leandro,CA,94577,USA,1ZJ201R9YW36153692,,07/29/2025 13:35:51,8.74,,OTHER,UPS,,0
-5294,345629, Brennan Booth,,7819 Commerce Park,APT 101,Dubuque,IA,52002,United States,Prepaid,AAA (free package),07/30/2025 10:09:00,0.0,,UPS,,,0
-1101,345636, Butte Creek Mill FDN/Karen Hammonds,Butte Creek Mill,1404 Brownsboro-Eagle Point Highway,,Eagle Point,OR,97524,,Prepaid,AAA (free package),07/30/2025 11:08:00,0.0,,UPS,,,0
-29,345645," Annabella Technologies, Inc. ",Amazon.com Services LLC,18900 W McDowell Road,"BUCKEYE, AZ 85396",Buckeye,AZ,85396,United States,Prepaid,AAA (free package),07/30/2025 12:41:00,0.0,,UPS,,,0
-#3423,345656,Evelyn Peats,,3655 W Tropicana Ave j2120,,Las Vegas,NV,89103,USA,391585439430,Box - 12 x 12 x 12,07/30/2025 09:53:17,10.51,,FEDEX,R02,Ground,0
-54,345687, Neeha Narala,Cellipont Bioservices,9501 Lakeside Blvd,,The Woodlands,TX,77381,United States,Prepaid,AAA (free package),07/30/2025 11:44:00,0.0,,UPS,,,0
-#3944,345690,Michael Kaufman,,Kalman Bialer 3/28,,---,,7666113,ISR,GM2753815450016841,,07/30/2025 13:47:17,20.03,,DHL,D72,DHL Packet International,0
-#3947,345737,Lisha Fei,,7341 Covered Bridge Dr,,Austin,TX,78736,USA,1ZJ201R9YW26827465,,07/31/2025 09:19:50,8.91,,OTHER,UPS,,0
-A45861,345742,Howard Rambo,,18 Hunters Hollow,,Columbus,MS,39705,USA,1ZJ201R90302845989,,07/31/2025 09:37:33,27.03,,UPS,U11,UPS Ground,0
-#146397,343931,Brittany Eber,,370 Los Olivos,,Laguna Beach,CA,92651,USA,9261290336147509710166,,07/09/2025 12:20:46,5.85,,DHL,D43,DHL > 1lb Expedited,0
-A45767,343934,Anthony Oresteen,,27 Stonebridge Blvd,,Newnan,GA,30265,USA,61292013550820513105,,07/09/2025 14:09:25,8.91,,OTHER,FedEx,,0
+8377829943,343951,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/11/2025 09:16:00,0.0,,UPS,,,0
+8377829942,343950,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,prepaid,AAA (free package),07/10/2025 15:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377829937,343949,,Ao Smith,500 Tennessee Waltz,,Ashland City,TN,37015-1234,US,LTL Freight,AAA (free package),07/11/2025 15:55:00,0.0,,UPS,,,0
+8377829811,343948,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/11/2025 15:36:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377829810,343947,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/11/2025 15:36:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377829809,343946,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/10/2025 15:55:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377829808,343945,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/10/2025 15:52:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377829807,343944,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/10/2025 15:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377829806,343943,,Reznor LLC,1747 Cravens Rd,,Poplar Bluff,MO,63901,US,prepaid,AAA (free package),07/10/2025 15:50:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-1061,343971, Walmart WFS,,"LAX2T, 6730 Kimball Ave",,Chino,CA,91708,,Prepaid,AAA (free package),07/11/2025 08:08:00,0.0,,UPS,,,0
+8377829805,343942,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,prepaid,AAA (free package),07/10/2025 15:50:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377829804,343941,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,LTL Freight,AAA (free package),07/11/2025 08:54:00,0.0,,UPS,,,0
+8377829803,343940,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,prepaid,AAA (free package),07/10/2025 15:52:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377829802,343939,,Lennox Industries Inc,200 South 12th Avenu,,Marshalltown,IA,50158-3005,US,prepaid,AAA (free package),07/10/2025 15:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377829796,343938,,Rheem Montgomery,2769 Gunter Park Dr,,Montgomery,AL,36109-1013,US,LTL Freight,AAA (free package),07/11/2025 09:23:00,0.0,,UPS,,,0
+#146399,343937,Gina Bauer,,12 Adele Street,,Ladera Ranch,CA,92694,USA,9261290336147509710197,,07/09/2025 14:10:02,5.79,,DHL,D32,DHL < 1lb Ground,0
+#146398,343936,Bridget Nicholas,,"39 Maple Tree Ave, Unit 15",,Stamford,CT,06906,USA,9261290336147509720226,,07/09/2025 14:09:43,7.07,,DHL,D32,DHL < 1lb Ground,0
+A45767,343934,Anthony Oresteen,,27 Stonebridge Blvd,,Newnan,GA,30265,USA,61292013550820513105,,07/09/2025 14:09:25,8.91,,OTHER,FedEx,,0
+111-1059156-2657056,343933,Ross Rylee,,8309 SE MORRISON ST,,PORTLAND,OR,97216-1221,United States,9261290336147509695265,Box - 10 x 10 x 10,07/09/2025 12:36:24,6.05,,DHL,D32,DHL < 1lb Ground,0
+112-8339598-8801005,343932,Hannah Orr,,400 E A AVE,,KINGMAN,KS,67068-1605,United States,61292013550820513099,Box - 10 x 10 x 10,07/09/2025 12:32:56,11.38,,OTHER,FedEx,,0
+#146397,343931,Brittany Eber,,370 Los Olivos,,Laguna Beach,CA,92651,USA,9261290336147509710166,,07/09/2025 12:20:46,5.85,,DHL,D43,DHL > 1lb Expedited,0
 #3887,343976,Paul Garlasco,,83 PARK LANE RD,,NEW MILFORD,CT,06776,USA,9261290336147509725276,,07/10/2025 08:56:54,5.42,,DHL,D32,DHL < 1lb Ground,0
 8377830021,344008,,Lochinvar Corporation,300 Maddox Simpson P,,Lebanon,TN,37090,US,prepaid,AAA (free package),07/14/2025 15:53:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 114-2141443-7188201,344026,ROSENA L SHAW,,5117 NESMITH RD,,PLANT CITY,FL,33567-3859,USA,61292013550820513150,,07/10/2025 10:32:57,11.44,,OTHER,FedEx,,0
@@ -4300,19 +4392,12 @@ A45652,341626,Danny Vasquez,,1205 John Paul Jones Avenue,,Leesville,LA,71446,USA
 #145743,341628,Lisa Wertheimer,,41 Brite Ave,,Scarsdale,NY,10583,USA,9261290336147508770185,,06/13/2025 14:19:40,6.43,,DHL,D32,DHL < 1lb Ground,0
 8377783770,341629,,Ao Smith,500 Tennessee Waltz,,Ashland City,TN,37015-1234,US,LTL Freight,AAA (free package),06/18/2025 14:39:00,0.0,,UPS,,,0
 DVU_947,341632,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:00:00,0.0,,UPS,,,0
-DVU_954,341639,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:02:00,0.0,,UPS,,,0
-DVU_955,341640,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:02:00,0.0,,UPS,,,0
-DVU_956,341641,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:03:00,0.0,,UPS,,,0
-DVU_957,341642,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:03:00,0.0,,UPS,,,0
-DVU_958,341643,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:04:00,0.0,,UPS,,,0
-DVU_959,341644,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:04:00,0.0,,UPS,,,0
 4798,341645, Jesse Garcia,,115 FINELLI AVE,,CRIVITZ,WI,54114,United States,Prepaid,AAA (free package),06/16/2025 13:08:00,0.0,,UPS,,,0
 4799,341646, Kirk Dunaway,,1817 East Cervantes Street,,Pensacola,FL,32501,United States,Prepaid,AAA (free package),06/16/2025 13:06:00,0.0,,UPS,,,0
 4800,341647, Tyson Wells,,9 Green St,,Monson,MA,01057,United States,Prepaid,AAA (free package),06/16/2025 13:09:00,0.0,,UPS,,,0
 4801,341648, Mihael Flack,,201 Doc Henry Road,266,Woody Creek,CO,81656,United States,Prepaid,AAA (free package),06/16/2025 13:07:00,0.0,,UPS,,,0
 4803,341649, Alexander Vasquez Jr,,32209 Riverside Dr,APT B5,Lake Elsinore,CA,92530,United States,LTL Freight,AAA (free package),06/17/2025 16:30:00,0.0,,UPS,,,0
 8377781378,341650,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),06/13/2025 16:15:00,0.0,,UPS,,,0
-#1204,341657,Elizabeth Mason,,2557 164 Street,,Surrey,BC,V3Z 0E2,CAN,GM2753815450016339,,06/16/2025 13:50:24,12.86,,DHL,D72,DHL Packet International,0
 A45657,341660,Evelio Garcia,,816 Hidden Valley Drive,,Watertown,SD,57201,USA,9400109105114657218947,,06/16/2025 09:24:43,5.09,,USPS,P10,First-Class Package Service,0
 A45661,341661,James Mooney,,3222 John Campbells Trail,,Austin,TX,78735,USA,61292013550820508941,,06/16/2025 09:44:15,8.88,,OTHER,FedEx,,0
 A45658,341662,Gil Sewell,,225 Lenox Avenue,,Bridgeport,CT,06605,USA,61292013550820508965,Box - 10 x 10 x 10,06/16/2025 09:46:13,8.95,,OTHER,FedEx,,0
@@ -4356,12 +4441,19 @@ A45663,341668,David Albrecht,The Journey,3235 Cimmaron Ash Dr,,Zionsville,IN,460
 A45655,341666,Daniel Dhillon,,7481 Crystal Blvd,,El Dorado,CA,95623,USA,1ZJ201R90321069863,,06/16/2025 08:51:19,19.49,,UPS,U11,UPS Ground,0
 A45660,341659,Min Park,,17960 E Dorado Dr,,Aurora,CO,80015-5915,USA,9400109105114131762119,,06/16/2025 09:22:52,4.56,,USPS,P10,First-Class Package Service,0
 3717303443,341658,Martha Schunk,,375 Northern Pines Road,,Gansevoort,NY,12831,USA,9261290336147509235010,,06/16/2025 09:21:53,6.34,,DHL,D32,DHL < 1lb Ground,0
+#1204,341657,Elizabeth Mason,,2557 164 Street,,Surrey,BC,V3Z 0E2,CAN,GM2753815450016339,,06/16/2025 13:50:24,12.86,,DHL,D72,DHL Packet International,0
 #3857,341656,Margaret Voyce,,8401 Sterling Bridge Road,,Chapel Hill,NC,27516,USA,61292013550820508910,,06/16/2025 09:21:22,8.88,,OTHER,FedEx,,0
 #3856,341655,Ira Chambers,,"Home Farm, Bricky Lake Lane",Ower,Romsey,ENG,SO51 6GQ,GBR,GM5453815450016340,,06/16/2025 13:58:00,31.71,,OTHER,DHL Global Mail,,0
 #3855,341654,Laura Lavan,,2132 Brush Hill Lane,,Virginia Beach,VA,23456,USA,61292013550820508927,,06/16/2025 09:22:25,8.88,,OTHER,FedEx,,0
 72,341653, FBA: SHIRAN AZAN,Zengur,4660 North Cotton Lane,,GOODYEAR,AZ,85395,United States,LTL Freight,AAA (free package),06/23/2025 16:24:00,0.0,,UPS,,,0
 71,341652, FBA: SHIRAN AZAN,Zengur,4660 North Cotton Lane,,GOODYEAR,AZ,85395 ,United States,LTL Freight,AAA (free package),06/23/2025 16:24:00,0.0,,UPS,,,0
 3717122033,341651,Margaret Clingan,,5229 38th Ave Sw,Unit A,SEATTLE,WA,98126-2870,USA,61292013550820508934,,06/16/2025 09:26:38,8.88,,OTHER,FedEx,,0
+DVU_959,341644,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:04:00,0.0,,UPS,,,0
+DVU_958,341643,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:04:00,0.0,,UPS,,,0
+DVU_957,341642,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:03:00,0.0,,UPS,,,0
+DVU_956,341641,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:03:00,0.0,,UPS,,,0
+DVU_955,341640,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:02:00,0.0,,UPS,,,0
+DVU_954,341639,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:02:00,0.0,,UPS,,,0
 DVU_953,341638,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:02:00,0.0,,UPS,,,0
 DVU_952,341637,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:02:00,0.0,,UPS,,,0
 DVU_951,341636,Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,USA,LTL Freight,AAA (free package),06/16/2025 08:02:00,0.0,,UPS,,,0
@@ -4719,6 +4811,9 @@ A45680,342201,bruce austin,,1218 RED BUD drive,,Grove,OK,74344,USA,6129201355082
 #146082,342757,Jovana Bursac,,15469 West Rockland Lane,,Libertyville,IL,60048,USA,61292013550820510883,,06/26/2025 12:12:15,8.9,,OTHER,FedEx,,0
 4868,342758, Ben Labrecque,,#43075 - 1685 H Street,,Blaine,WA,98230,United States,Prepaid,AAA (free package),06/26/2025 14:01:00,0.0,,UPS,,,0
 142,342759, Tarantinos Wholesale,Bonafide Provisions,7040 Avenida Encinas,#104-295,Carlsbad,CA,92011,United States,LTL Freight,AAA (free package),06/30/2025 10:54:00,0.0,,UPS,,,0
+12920,342782, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/30/2025 07:28:00,0.0,,UPS,,,0
+12921,342783, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/30/2025 07:35:00,0.0,,UPS,,,0
+4877,342784, Moises Urbina,,1060 Cottage Ln,,Hercules,CA,94547,United States,Prepaid,AAA (free package),06/27/2025 08:08:00,0.0,,UPS,,,0
 4878,342785, Jack Grace,,7 June Avenue,,Bayville ,NY,11709,United States,Prepaid,AAA (free package),06/27/2025 12:00:00,0.0,,UPS,,,0
 4880,342786, Mark Hood,,2136 S 229th St,,Des Moines,WA,98198,United States,Prepaid,AAA (free package),06/27/2025 12:01:00,0.0,,UPS,,,0
 4881,342787, Matthew Hannan,,675 West 59th Street,812,New York,NY,10019,United States,Prepaid,AAA (free package),06/27/2025 12:01:00,0.0,,UPS,,,0
@@ -4726,16 +4821,13 @@ A45680,342201,bruce austin,,1218 RED BUD drive,,Grove,OK,74344,USA,6129201355082
 4883,342789, Richard Tesoro,,510 Alapa St,,Lanai City,HI,96763,United States,LTL Freight,AAA (free package),07/03/2025 09:57:00,0.0,,UPS,,,0
 4782,342790, Thanh Lam,,3993 Yerba Buena Avenue,,San Jose,CA,95121,United States,Prepaid,AAA (free package),06/27/2025 11:53:00,0.0,,UPS,,,0
 4784,342791, Timothy OMalley,,536 Long Meadow Road,,Eagleville,PA,19403,United States,Prepaid,AAA (free package),06/27/2025 11:54:00,0.0,,UPS,,,0
-4877,342784, Moises Urbina,,1060 Cottage Ln,,Hercules,CA,94547,United States,Prepaid,AAA (free package),06/27/2025 08:08:00,0.0,,UPS,,,0
-4885,342793, Christopher DeCamp,,2201 English Dr,,Charlotte,NC,28216,United States,LTL Freight,AAA (free package),06/27/2025 15:16:00,0.0,,UPS,,,0
-4886,342794, Jarret Thomas,,139 La Veta Ave,,Encinitas ,CA,92024,United States,Prepaid,AAA (free package),06/27/2025 11:59:00,0.0,,UPS,,,0
-4887,342795, Chris Ho Chris Ho,,443 Goettingen Street,,San Francisco,CA,94134,United States,Prepaid,AAA (free package),06/27/2025 11:58:00,0.0,,UPS,,,0
+38,342781," MEM1 - Memphis, TN",FBA: ECO WISE PRO LLC.,3292 E Holmes Rd,,Memphis,TN,38118-8102,,Prepaid,AAA (free package),06/27/2025 11:37:00,0.0,,UPS,,,0
 4888,342796, Guillermo Bosch,,13110 Ne 120th Ln,Apt d300,Kirkland,WA,98034,United States,Prepaid,AAA (free package),06/27/2025 12:27:00,0.0,,UPS,,,0
 1055,342798, Whitney Schaper,,15263 W Sherman St. ,,Goodyear,AZ,85338,,9261290336147509705025,,06/27/2025 09:21:53,4.81,,DHL,D32,DHL < 1lb Ground,0
 #3869,342799,Angela Jullings,,Summerfield,Vines Cross Road,"Horam, Heathfield, England, UK",ENG,TN21 0HE,GBR,GM2753815450016445,,06/27/2025 14:22:04,15.35,,DHL,D72,DHL Packet International,0
-38,342781," MEM1 - Memphis, TN",FBA: ECO WISE PRO LLC.,3292 E Holmes Rd,,Memphis,TN,38118-8102,,Prepaid,AAA (free package),06/27/2025 11:37:00,0.0,,UPS,,,0
 37,342780," SWF2 - Hopewell Junction, NY",FBA: ECO WISE PRO LLC.,76 Patriot Way,,Hopewell Junction,NY,12533-6159,,Prepaid,AAA (free package),06/27/2025 11:37:00,0.0,,UPS,,,0
 36,342779," MDW2 - Joliet, IL",FBA: ECO WISE PRO LLC.,250 EMERALD DR,,Joliet,IL,60433-3280,,Prepaid,AAA (free package),06/27/2025 11:37:00,0.0,,UPS,,,0
+35,342778," FWA4 - FORT WAYNE, IN",FBA: ECO WISE PRO LLC.,9798 Smith Road,,FORT WAYNE,IN,46809-9771,,Prepaid,AAA (free package),06/27/2025 11:36:00,0.0,,UPS,,,0
 677,342803, Bridget Bresnahan,Flora!,  202 Locust Street ,,Holyoke,MA ,01040  ,United States of America,1ZJ201R90336024338,,06/27/2025 08:59:15,19.2,,UPS,U11,UPS Ground,0
 678,342804, Michael Lacy,Multitudes Gallery,723 East Main Street ,,Blue Ridge,GA ,30513  ,United States of America,1ZJ201R90339757265,,06/27/2025 09:20:44,30.48,,UPS,U11,UPS Ground,0
 678,342804, Michael Lacy,Multitudes Gallery,723 East Main Street ,,Blue Ridge,GA ,30513  ,United States of America,1ZJ201R90322085272,,06/27/2025 09:20:44,16.07,,UPS,U11,UPS Ground,0
@@ -4764,7 +4856,7 @@ A45680,342201,bruce austin,,1218 RED BUD drive,,Grove,OK,74344,USA,6129201355082
 8377809374,342828,,Weil-Mclain,523 S New St,,Eden,NC,27288-3623,US,prepaid,AAA (free package),06/27/2025 15:19:00,0.0,,UPS,,,0
 8377809936,342829,,US Boiler Warehouse,2930 Old Tree Drive,,Lancaster,PA,17603,US,prepaid,AAA (free package),06/27/2025 15:21:00,0.0,,UPS,,,0
 8377809942,342830,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/01/2025 08:34:00,0.0,,UPS,,,0
-35,342778," FWA4 - FORT WAYNE, IN",FBA: ECO WISE PRO LLC.,9798 Smith Road,,FORT WAYNE,IN,46809-9771,,Prepaid,AAA (free package),06/27/2025 11:36:00,0.0,,UPS,,,0
+34,342777," LGB8 - Rialto, CA",FBA: ECO WISE PRO LLC.,1568 N Linden Ave ,,Rialto,CA,92376-8624,,Prepaid,AAA (free package),06/27/2025 11:38:00,0.0,,UPS,,,0
 8377809945,342832,,Wayne Combustion Systems,801 Glasgow Ave,,Fort Wayne,IN,46803-1344,US,LTL Freight,AAA (free package),07/01/2025 15:41:00,0.0,,UPS,,,0
 8377809946,342833,,Beckett Gas Inc,38000 Beckett Parkwa,,North Ridgeville,OH,44039,US,LTL Freight,AAA (free package),07/01/2025 08:25:00,0.0,,UPS,,,0
 8377809947,342834,,Lochinvar Corporation,300 Maddox Simpson P,,Lebanon,TN,37090,US,prepaid,AAA (free package),06/30/2025 15:01:00,0.0,,UPS,,,0
@@ -4797,14 +4889,6 @@ A45680,342201,bruce austin,,1218 RED BUD drive,,Grove,OK,74344,USA,6129201355082
 4892,342862, Jose Zacarias Perdomo,,747 Kings Lane,,Desoto,TX,75115,United States,Prepaid,AAA (free package),06/27/2025 12:26:00,0.0,,UPS,,,0
 4893,342863, Faith Gallad,,625 Shelia Lane,,McCall,ID,83638,United States,Prepaid,AAA (free package),06/27/2025 12:26:00,0.0,,UPS,,,0
 4894,342864, Jacob Pannor-Watenpaugh,,30 Baywood Terrace,,San Rafael,CA,94901,United States,Prepaid,AAA (free package),06/27/2025 15:41:00,0.0,,UPS,,,0
-34,342777," LGB8 - Rialto, CA",FBA: ECO WISE PRO LLC.,1568 N Linden Ave ,,Rialto,CA,92376-8624,,Prepaid,AAA (free package),06/27/2025 11:38:00,0.0,,UPS,,,0
-4839,342792, Francisco Quiroz,,308 4th Ave S,,Seattle,WA,98104,United States,Prepaid,AAA (free package),06/27/2025 11:54:00,0.0,,UPS,,,0
-#3870,342800,Helen Nilsson,,Tordönsvägen 4P,,Lund,,222 27,SWE,GM2753815450016438,,06/27/2025 14:20:54,10.06,,DHL,D72,DHL Packet International,0
-12921,342783, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/30/2025 07:35:00,0.0,,UPS,,,0
-12920,342782, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),06/30/2025 07:28:00,0.0,,UPS,,,0
-A45712,342801,Julian Peterson,,2400 1st Ave S,#412,Seattle,WA,98134,USA,61292013550820510937,,06/27/2025 09:00:09,8.9,,OTHER,FedEx,,0
-A45711,342802,Carlos Davila Garcia,,34428 Wellman Ter,,Fremont,CA,94555-2663,USA,1ZJ201R90307920129,,06/27/2025 08:54:07,15.21,,UPS,U11,UPS Ground,0
-8377809943,342831,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,prepaid,AAA (free package),06/27/2025 15:19:00,0.0,,UPS,,,0
 #146084,342776,Megan Iglesias,,1530 Glenneyre Street,,Laguna Beach,CA,92651,USA,9261290336147509705018,,06/26/2025 14:08:16,7.04,,DHL,D43,DHL > 1lb Expedited,0
 #146083,342775,Kristin Miller,,8620 Plantation Landing Drive,,Wilmington,NC,28411,USA,61292013550820510920,,06/26/2025 14:07:56,8.9,,OTHER,FedEx,,0
 A45710,342774,Executive Office PO#2252915/,San Juan County NM,100 South Oliver Drive,,Aztec,NM,87410,USA,390424752516,,06/26/2025 14:09:11,14.36,,FEDEX,R02,Ground,0
@@ -4821,6 +4905,14 @@ A45710,342774,Executive Office PO#2252915/,San Juan County NM,100 South Oliver D
 8377807416,342762,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,LTL Freight,AAA (free package),06/30/2025 13:06:00,0.0,,UPS,,,0
 8377807415,342761,,Rheem Water Heating,285 ROOD RD STE 112,,Calexico,CA,92231,US,LTL Freight,AAA (free package),06/27/2025 15:22:00,0.0,,UPS,,,0
 8377807176,342760,,Weil-Mclain,523 S New St,,Eden,NC,27288-3623,US,LTL Freight,AAA (free package),06/27/2025 15:11:00,0.0,,UPS,,,0
+4887,342795, Chris Ho Chris Ho,,443 Goettingen Street,,San Francisco,CA,94134,United States,Prepaid,AAA (free package),06/27/2025 11:58:00,0.0,,UPS,,,0
+4886,342794, Jarret Thomas,,139 La Veta Ave,,Encinitas ,CA,92024,United States,Prepaid,AAA (free package),06/27/2025 11:59:00,0.0,,UPS,,,0
+4885,342793, Christopher DeCamp,,2201 English Dr,,Charlotte,NC,28216,United States,LTL Freight,AAA (free package),06/27/2025 15:16:00,0.0,,UPS,,,0
+4839,342792, Francisco Quiroz,,308 4th Ave S,,Seattle,WA,98104,United States,Prepaid,AAA (free package),06/27/2025 11:54:00,0.0,,UPS,,,0
+#3870,342800,Helen Nilsson,,Tordönsvägen 4P,,Lund,,222 27,SWE,GM2753815450016438,,06/27/2025 14:20:54,10.06,,DHL,D72,DHL Packet International,0
+A45712,342801,Julian Peterson,,2400 1st Ave S,#412,Seattle,WA,98134,USA,61292013550820510937,,06/27/2025 09:00:09,8.9,,OTHER,FedEx,,0
+A45711,342802,Carlos Davila Garcia,,34428 Wellman Ter,,Fremont,CA,94555-2663,USA,1ZJ201R90307920129,,06/27/2025 08:54:07,15.21,,UPS,U11,UPS Ground,0
+8377809943,342831,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,prepaid,AAA (free package),06/27/2025 15:19:00,0.0,,UPS,,,0
 4895,342865, David Johnson,,15 West St,,NORTH PROVIDENCE,RI,02904,United States,Prepaid,AAA (free package),06/27/2025 15:41:00,0.0,,UPS,,,0
 4896,342866, Ryan Burns,,1319 Briarwood Way,,Stockton,CA,95209,United States,Prepaid,AAA (free package),06/27/2025 15:45:00,0.0,,UPS,,,0
 4897,342867, Matthew McManus,,24 West Knapp Street,,Rice Lake,WI,54868,United States,Prepaid,AAA (free package),06/27/2025 15:44:00,0.0,,UPS,,,0
@@ -4979,7 +5071,7 @@ A45726,343255,Jason Force,,15689 Bennett Road,,North Royalton,OH,44133,USA,61292
 #146212,343270,Jo Anna Walker,,243 Timberwood Lane,,Uvalde,TX,78801,USA,9261290336147509730119,,07/01/2025 14:11:01,6.72,,DHL,D43,DHL > 1lb Expedited,0
 #146213,343271,Diana Mehlman,,290 Riverside Avenue,,Greenwich,CT,06878,USA,9261290336147509705155,,07/01/2025 14:08:51,7.07,,DHL,D32,DHL < 1lb Ground,0
 #146214,343272,Ingrid Restrick,,1 Beams Ln,,Andover,NJ,07821,USA,9261290336147509730102,,07/01/2025 14:09:24,10.1,,DHL,D43,DHL > 1lb Expedited,0
-12957,343281, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/02/2025 13:46:00,0.0,,UPS,,,0
+8377804779,343276,,RAYPAK,2151 Eastman Ave,,Oxnard,CA,93030-5194,US,LTL Freight,AAA (free package),07/01/2025 15:33:00,0.0,,UPS,,,0
 A45731,343284,Jessica Embers,,180 N. Butler St.,Apt. 18,Fond du Lac,WI,54935,USA,1ZJ201R90338763518,,07/02/2025 09:33:12,20.32,,UPS,U11,UPS Ground,0
 A45732,343285,Michael Helm,,16465 us hwy 59 n,,Moscow,TX,75960,USA,61292013550820511934,,07/02/2025 08:45:38,11.39,,OTHER,FedEx,,0
 A45733,343286,Randy Jennings,,W159S7169 MARTIN DR,,MUSKEGO,WI,53150,USA,61292013550820511989,Box - 16 x 12 x 6,07/02/2025 09:39:58,8.92,,OTHER,FedEx,,0
@@ -5012,7 +5104,6 @@ A45730,343290,Tony Thomas,,6781 Meadowbranch Road,,Seagrove,NC,27341,USA,3906102
 #146218,343307,Megan Iglesias,,1530 Glenneyre Street,,Laguna Beach,CA,92651,USA,9261290336147509695159,,07/02/2025 09:10:21,7.04,,DHL,D43,DHL > 1lb Expedited,0
 #146219,343308,Jessica Hart,,7935 Nob Hill Road,,Lincoln,NE,68516,USA,1ZJ201R9YW16419951,,07/02/2025 08:47:13,8.91,,OTHER,UPS,,0
 #146220,343309,Becky Bailey,,1457 Lake Road,,Youngstown,NY,14174,USA,9261290336147509720103,,07/02/2025 08:46:41,10.1,,DHL,D43,DHL > 1lb Expedited,0
-8377804779,343276,,RAYPAK,2151 Eastman Ave,,Oxnard,CA,93030-5194,US,LTL Freight,AAA (free package),07/01/2025 15:33:00,0.0,,UPS,,,0
 8377816605,343275,,A O Smith Apcom Dvi,1010 Volunteer Dr,,Cookeville,TN,38506-5025,US,prepaid,AAA (free package),07/02/2025 15:34:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377816587,343274,,Rheem Water Heating,8411 GAVIN RD. SUITE,,Laredo,TX,78045,US,LTL Freight,AAA (free package),07/02/2025 15:46:00,0.0,,UPS,,,0
 8377816580,343273,,A O Smith,1100 E Fairview Ave,,Johnson City,TN,37601-3504,US,LTL Freight,AAA (free package),07/02/2025 16:03:00,0.0,,UPS,,,0
@@ -5032,6 +5123,7 @@ A45730,343290,Tony Thomas,,6781 Meadowbranch Road,,Seagrove,NC,27341,USA,3906102
 A45731,343284,Jessica Embers,,180 N. Butler St.,Apt. 18,Fond du Lac,WI,54935,USA,1ZJ201R90337254703,,07/02/2025 09:33:12,20.32,,UPS,U11,UPS Ground,0
 #1214,343283,Carol Adams,,1014 Lisa Ct.,,Windsor,CA,95492,USA,9261290336147509725085,,07/02/2025 09:36:23,6.03,,DHL,D32,DHL < 1lb Ground,0
 #3879,343282,????? ????,,46 ????? ?????,Apt. 19,???????,,9723436,ISR,GM2753815450016513,,07/02/2025 14:58:45,24.08,,DHL,D72,DHL Packet International,0
+12957,343281, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/02/2025 13:46:00,0.0,,UPS,,,0
 12956,343280, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/02/2025 13:46:00,0.0,,UPS,,,0
 214,343279, Amazon SPD - IUSL,Amazon,600 PRINCIPIO PKWY W,,NORTH EAST,MD,21901-2914,United States,Prepaid,AAA (free package),07/03/2025 12:41:00,0.0,,UPS,,,0
 213,343278, Amazon SPD - IUSL,Amazon,600 PRINCIPIO PKWY W,,NORTH EAST,MD,21901-2914,United Stat,Prepaid,AAA (free package),07/03/2025 12:40:00,0.0,,UPS,,,0
@@ -5293,7 +5385,7 @@ A45746,343448,Rick Spadafore,,6422 Ternes,,Dearborn,MI,48126,USA,940010910511465
 5256,345206, Paul Guldner,,2816 N Charles Ave Apt 1,,Wichita,KS,67204,United States,Prepaid,AAA (free package),07/30/2025 10:25:00,0.0,,UPS,,,0
 5254,345207, Adam Will,,12785 West Glenn Drive,,Glendale,AZ,85307,United States,Prepaid,AAA (free package),07/24/2025 10:21:00,0.0,,UPS,,,0
 13150,345162, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:43:00,0.0,,UPS,,,0
-13149,345161, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:43:00,0.0,,UPS,,,0
+13157,345209, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/28/2025 09:30:00,0.0,,UPS,,,0
 1085,345210, Teresa Adams Tomka ,Kitchen Collage of Des Moines ,430 East Locust Street ,,Des Moines,IA,50309 ,,Prepaid,AAA (free package),07/24/2025 12:28:00,0.0,,UPS,,,0
 #3934,345211,Henry Lord,,1424 Andersonwood Dr.,,Fuquay Varina,NC,27526,USA,9261290336147515015088,,07/24/2025 12:26:55,5.41,,DHL,D32,DHL < 1lb Ground,0
 A45829,345212,David Bonenfant,,9301 Ryden Road,,Grand Portage,MN,55605,USA,1ZJ201R90309146338,,07/24/2025 12:22:56,28.53,,UPS,U11,UPS Ground,0
@@ -5308,7 +5400,7 @@ A45830,345213,Martin Primus,,10216 Rosewater Pkwy,,Bennington,NE,68007,USA,1ZJ20
 #146671,345218,Ashley Snider,,514 Duncan Ave,,CLARKSBURG,WV,26301,USA,61292013550820514638,,07/24/2025 12:29:49,8.92,,OTHER,FedEx,,0
 #146672,345219,Kelsey Roberts,,7 NOTTINGHAM ST,# 2,Newton,MA,02459,USA,9261290336147515015095,,07/24/2025 12:30:16,7.17,,DHL,D32,DHL < 1lb Ground,0
 #146673,345220,Becky Bailey,,1753 Lake Rd,,Youngstown,NY,14174,USA,9261290336147515045054,,07/24/2025 12:31:17,10.1,,DHL,D43,DHL > 1lb Expedited,0
-13148,345160, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:45:00,0.0,,UPS,,,0
+13149,345161, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:43:00,0.0,,UPS,,,0
 1087,345222, Angela Ewbank Fann,AR Workshop Temecula,31083 Skyline Drive,,Temecula,CA ,92591 ,,Prepaid,AAA (free package),07/24/2025 15:40:00,0.0,,UPS,,,0
 1088,345223, Denise Lindbo ,Gourmet Chef ,122 Main Street South ,,Minot,ND,58701 ,,Prepaid,AAA (free package),07/24/2025 15:40:00,0.0,,UPS,,,0
 5257,345224, Jay Jagdish,,130 Hudson Dr,,Pheonixville,PA,19460,United States,Prepaid,AAA (free package),07/24/2025 13:28:00,0.0,,UPS,,,0
@@ -5321,12 +5413,12 @@ A45830,345213,Martin Primus,,10216 Rosewater Pkwy,,Bennington,NE,68007,USA,1ZJ20
 #146675,345231,Sean Vitello,,105 Presidents Lane,,Quincy,MA,02169-1917,USA,61292013550820514669,,07/24/2025 14:33:08,8.92,,OTHER,FedEx,,0
 #146676,345232,Jason Ball,,262 Grand County Road 1901,P.o. box 1779,Kremmling,CO,80459,USA,9261290336147515030012,,07/24/2025 14:32:30,6.52,,DHL,D32,DHL < 1lb Ground,0
 1090,345233, Lora Mitchell  ,Simple Tidings & Kitchen,1115 main st. ,,Sumner,WA,98390 ,,Prepaid,AAA (free package),07/25/2025 11:03:00,0.0,,UPS,,,0
-13147,345159, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:45:00,0.0,,UPS,,,0
+13148,345160, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:45:00,0.0,,UPS,,,0
 654,345235, Amazon.com,Amazon.com,3292 E Holmes Rd,,Memphis,TN,38118-8102,United States,Prepaid,AAA (free package),07/25/2025 11:00:00,0.0,,UPS,,,0
 655,345236, Amazon.com,Amazon.com,1568 N Linden Ave,,Rialto,CA,92376-8624,United States,Prepaid,AAA (free package),07/25/2025 10:59:00,0.0,,UPS,,,0
 656,345237, Amazon.com,Amazon.com,601 Randolph Road,,SOMERSET,NJ,08873,United States,Prepaid,AAA (free package),07/25/2025 10:59:00,0.0,,UPS,,,0
 657,345238, Amazon.com,Amazon.com,24300 Nandina Ave,,Moreno Valley,CA,92551-9534,United States,Prepaid,AAA (free package),07/25/2025 11:00:00,0.0,,UPS,,,0
-13146,345158, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:42:00,0.0,,UPS,,,0
+13147,345159, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:45:00,0.0,,UPS,,,0
 5262,345240, David Cornish,,642 Eldert Lane,,Brooklyn,NY,11208,United States,Prepaid,AAA (free package),07/25/2025 11:05:00,0.0,,UPS,,,0
 5263,345241, Christopher DeLong,,3217 Dutch Hollow Rd,,Bemus Point,NY,14712,United States,Prepaid,AAA (free package),07/25/2025 13:59:00,0.0,,UPS,,,0
 5259,345242, Herb Centeno,,2032 Chatwin Ave,,Long Beach,CA,90815,United States,Prepaid,AAA (free package),07/25/2025 11:04:00,0.0,,UPS,,,0
@@ -5358,7 +5450,8 @@ A45831,345254,Thomas Regits,,10741 Tuscan Court,,Las Vegas,NV,89141,USA,1ZJ201R9
 8377863011,345268,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,prepaid,AAA (free package),07/25/2025 15:41:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377863012,345269,,Broaster/Alco,2855 Cranston Road,,Beloit,WI,53511,US,prepaid,AAA (free package),07/25/2025 15:41:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377863013,345270,,MOONS PRECISION PRODUCTS Inc.,1601 Fullerton Ct,,Glendale Heights,IL,60139-2752,US,prepaid,AAA (free package),07/25/2025 15:41:00,0.0,,UPS,M4,Expedited Mail Innovations,0
-13145,345157, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:46:00,0.0,,UPS,,,0
+13146,345158, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:42:00,0.0,,UPS,,,0
+8377863345,345272,,Caddo Connections  Inc,2833 N Goldring Rd,,La Porte,IN,46350-7134,US,prepaid,AAA (free package),07/28/2025 15:30:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377863346,345273,,Sur-Seal Corporation,10053 Simonson Rd,,Harrison,OH,45030,US,prepaid,AAA (free package),07/28/2025 15:35:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377863347,345274,,Rsd/Total Control,26021 Atlantic Ocean,,Lake Forest,CA,92630,US,prepaid,AAA (free package),07/28/2025 15:32:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377863348,345275,,Metropac Industries Inc,10 Annette Road,,Foxboro,MA,02035,US,prepaid,AAA (free package),07/28/2025 15:32:00,0.0,,UPS,M4,Expedited Mail Innovations,0
@@ -5382,7 +5475,7 @@ A45831,345254,Thomas Regits,,10741 Tuscan Court,,Las Vegas,NV,89141,USA,1ZJ201R9
 755,345289, Coco and Lulu,Coco & lulu,  71800 CA-111 , B-113 ,Rancho Mirage,CA ,92270  ,United States of America,1ZJ201R90333908899,,07/25/2025 11:22:51,11.75,,UPS,U11,UPS Ground,0
 756,345290, Land Zen (Attn: Gina Land) ,Land Zen, 206 Adamson Square  ,,Carrollton,GA ,30117  ,United States of America,1ZJ201R90339555125,,07/25/2025 10:49:43,20.6,,UPS,U11,UPS Ground,0
 #146686,345292,Heide Iravani,,2 Meadowfarm Lane,,Cold Spring Harbor,NY,11724,USA,61292013550820514737,,07/25/2025 11:28:49,8.99,,OTHER,FedEx,,0
-13144,345156, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:46:00,0.0,,UPS,,,0
+13145,345157, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:46:00,0.0,,UPS,,,0
 13161,345294, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/28/2025 09:35:00,0.0,,UPS,,,0
 13162,345295, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/28/2025 09:36:00,0.0,,UPS,,,0
 1091,345296, Wendy A Schutzler  ,The Essential Pantry,"3550 Market Pl. West Unit 105 ""B"" ",,University Place,WA,98466,,Prepaid,AAA (free package),07/25/2025 13:57:00,0.0,,UPS,,,0
@@ -5397,7 +5490,7 @@ A45834,345304,William Griffin,,24862 W Orchard Pl,,Round Lake Heights,IL,60073,U
 758,345305, Andrea Snydstrup  ,Cloverleaf Nook,15206 Prairie Court  ,,Culpeper,VA ,22701  ,United States of America,1ZJ201R90315638009,,07/25/2025 12:36:02,24.6,,UPS,U11,UPS Ground,0
 758,345305, Andrea Snydstrup  ,Cloverleaf Nook,15206 Prairie Court  ,,Culpeper,VA ,22701  ,United States of America,1ZJ201R90310844018,,07/25/2025 12:36:02,30.07,,UPS,U11,UPS Ground,0
 #146688,345306,Alissa Steger,,6373 Hart Rd,,LITTLE VALLEY,NY,14755,USA,61292013550820514751,,07/25/2025 12:11:42,11.39,,OTHER,FedEx,,0
-13143,345155, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:46:00,0.0,,UPS,,,0
+13144,345156, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:46:00,0.0,,UPS,,,0
 8377863642,345310,,SNT Warehousing,1902 E Anson St,,Marshalltown,IA,50158-3671,US,prepaid,AAA (free package),07/28/2025 15:34:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377863643,345311,,Reznor LLC c/o P&P Global Logi,16885 US Highway 83,,Laredo,TX,78045-2329,US,prepaid,AAA (free package),07/28/2025 15:34:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 8377863644,345312,,Flagro Industries,301 Louth St,,St Catharines,ON,L2S 3V6,CA,prepaid,AAA (free package),07/28/2025 15:29:00,0.0,,UPS,M4,Expedited Mail Innovations,0
@@ -5430,6 +5523,7 @@ A45834,345304,William Griffin,,24862 W Orchard Pl,,Round Lake Heights,IL,60073,U
 #146689,345339,Emily Thompson,,5786 Taylorsville Road,,Finchville,KY,40022,USA,9261290336147515035055,,07/25/2025 14:11:13,10.1,,DHL,D43,DHL > 1lb Expedited,0
 #146690,345340,Jill Koons,,52 ELDERWOOD CT,,AMHERST,NY,14228,USA,61292013550820514768,,07/25/2025 14:09:36,8.92,,OTHER,FedEx,,0
 #146691,345341,Nivah Gad,,129 Hicks Lane,,Kings Point,NY,11024,USA,61292013550820514775,,07/25/2025 14:11:48,8.92,,OTHER,FedEx,,0
+13143,345155, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/24/2025 10:46:00,0.0,,UPS,,,0
 1084,345154, Robert Lau ,Caribou Jack's Trading Co ,50 East 2nd South ,,Soda Springs,ID,83276 ,,Prepaid,AAA (free package),07/24/2025 09:54:00,0.0,,UPS,,,0
 #126369,345131,Darren Matsumoto,,2428 Nautilus Court,,San Jose,CA,95128,USA,61292013550820514591,,07/23/2025 14:11:30,8.92,,OTHER,FedEx,,0
 A45826,345120,Steven James,,2027 Bella Lane,,Lomita,CA,90717,USA,9400109105114134454301,,07/23/2025 11:13:12,4.65,,USPS,P10,First-Class Package Service,0
@@ -5447,11 +5541,10 @@ A45827,345119,kevin duff,,154 S Pleasant St,,Haverhill,MA,01835,USA,1ZJ201R90301
 8377859875,345190,,Bradford-White Consignment,5005 Kraft Ave SE,,Grand Rapids,MI,49512-9757,US,LTL Freight,AAA (free package),07/25/2025 10:07:00,0.0,,UPS,,,0
 8377859873,345188,,Rheem Manufacturing Company,1045 Commonwealth Ro,,Randleman,NC,27317,US,LTL Freight,AAA (free package),07/25/2025 10:15:00,0.0,,UPS,,,0
 13156,345208, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/28/2025 09:31:00,0.0,,UPS,,,0
-13157,345209, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/28/2025 09:30:00,0.0,,UPS,,,0
 1086,345221, Jane Davis-Wood  ,Relish Kitchen Store,811 North 8th Street ,,Sheboygan,WI,53081 ,,Prepaid,AAA (free package),07/24/2025 13:29:00,0.0,,UPS,,,0
 653,345234, Amazon.com,Amazon.com,9798 Smith Road,,FORT WAYNE,IN,46809-9771,United States,Prepaid,AAA (free package),07/25/2025 10:58:00,0.0,,UPS,,,0
 13159,345239, Aldo Mendez,Fox Factory,750 Vernon Way,,El Cajon,CA,92020,,LTL Freight,AAA (free package),07/28/2025 09:35:00,0.0,,UPS,,,0
-8377863345,345272,,Caddo Connections  Inc,2833 N Goldring Rd,,La Porte,IN,46350-7134,US,prepaid,AAA (free package),07/28/2025 15:30:00,0.0,,UPS,M4,Expedited Mail Innovations,0
+8377863014,345271,,?????????????????????????????????????????????,??????????????? ?????? B10???,,??????,12,300457,CN,LTL Freight,AAA (free package),07/31/2025 14:48:00,0.0,,UPS,,,0
 #146687,345293,Allison Bentley,,248 Eagle Creek Dr,,Portsmouth,OH,45662,USA,61292013550820514744,,07/25/2025 11:29:49,8.92,,OTHER,FedEx,,0
 8377863641,345309,,Sur-Seal Corporation,10053 Simonson Rd,,Harrison,OH,45030,US,prepaid,AAA (free package),07/28/2025 15:34:00,0.0,,UPS,M4,Expedited Mail Innovations,0
 1098,345342, Merritt Brodt  ,The Farmer’s Daughter,485 Main Street ,PO Box 1113,Ferndale,CA,95536 ,707-407-7550,Prepaid,AAA (free package),07/28/2025 13:42:00,0.0,,UPS,,,0
@@ -5465,4 +5558,17 @@ A45827,345119,kevin duff,,154 S Pleasant St,,Haverhill,MA,01835,USA,1ZJ201R90301
 1099,345351, Kevin Gorman,,16213 S 33rd Street,,Phoenix,AZ,85048,,9261290336147515050072,,07/28/2025 10:14:56,5.16,,DHL,D32,DHL < 1lb Ground,0
 1096,345352, Sonia Di Franco,,405 Maylands Ave,,Raleigh,NC,27615,,9261290336147515040080,,07/28/2025 10:13:38,5.27,,DHL,D32,DHL < 1lb Ground,0
 1097,345353, Marin Fodorean,,"Strada Fântânele 7, Bl. A, Sc. 5, Ap. 112",,Cluj-Napoca,Cluj,4003,Romania,GM5453815450016784,,07/28/2025 12:35:07,39.38,,OTHER,DHL Global Mail,,0
+A45864,345824,Gabriel Peti,,5259 Saloma Ave,,Sherman Oaks,CA,91411,USA,9434609105114661668655,,07/31/2025 15:10:22,6.84,,USPS,P11,Parcel Select,0
+141,345825, Kyle Hinds,,2923 Wahoo Way ,,Alexandria,VA,22306,,61292013550820515390,Box - 16 x 12 x 6,07/31/2025 15:25:21,9.34,,OTHER,FedEx,,0
+142,345826, Carlos Fernandez ,,3109 SW 26th st,,Miami,FL,33133,,61292013550820515406,Box - 16 x 12 x 6,07/31/2025 15:25:48,9.34,,OTHER,FedEx,,0
+143,345827, Vincent Castro,,13158 Lomas Verdes Dr.,,Poway,CA,92064,,1ZJ201R9YW05167306,,07/31/2025 15:12:51,8.43,,OTHER,UPS,,0
+144,345828, Daniel Lee,,563 Beekman Road,,Hopewell Junction,NY,12533,,9261290336147515005270,Box - 8 x 8 x 8,07/31/2025 15:11:44,6.65,,DHL,D32,DHL < 1lb Ground,0
+145,345829, Graham Hirst,,3630 Corte Casera,,Carlsbad,CA,92009,,9261290336147515015200,Box - 16 x 12 x 6,07/31/2025 15:24:52,7.99,,DHL,D43,DHL > 1lb Expedited,0
+146,345830, Dylan Rowder,,159 N Jackson St,Apt 301,Milwaukee,WI,53202,,61292013550820515352,,07/31/2025 15:08:45,8.92,,OTHER,FedEx,,0
+#3428,345831,Jamie Compton,,802 William Dr,,Opelika,AL,36801,USA,1ZJ201R90307045290,,07/31/2025 15:12:21,16.64,,UPS,U11,UPS Ground,0
+1,345832, Julia McInnis,,13407 Indiana Ave Apt 1402,,Lubbock,TX,79423,United States,61292013550820515369,,07/31/2025 15:10:58,6.86,,OTHER,FedEx,,1
+1,345832, Julia McInnis,,13407 Indiana Ave Apt 1402,,Lubbock,TX,79423,United States,9261290336147515005287,,07/31/2025 16:20:03,8.98,,OTHER,DHL Global Mail,,0
+#146795,345833,Tanya Bajaj,,5 Longview Rd,,Port Washington,NY,11050,USA,61292013550820515345,,07/31/2025 14:12:20,8.92,,OTHER,FedEx,,0
+#146796,345834,Nikki Acord,,105 Tallulah Ridge,,Hattiesburg,MS,39402,USA,61292013550820515321,,07/31/2025 14:11:29,8.92,,OTHER,FedEx,,0
+#146797,345835,Kristen Field,,2010 Melrose Drive,,Long Beach,IN,46360,USA,61292013550820515338,,07/31/2025 14:11:56,8.92,,OTHER,FedEx,,0
 4353,337968, Christopher White,,1753 Doncaster Ct,,Fairfield,CA,94533,United States,Prepaid,AAA (free package),07/30/2025 10:19:00,0.0,,UPS,,,0
