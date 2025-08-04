@@ -205,6 +205,11 @@ if __name__ == "__main__":
             "report_name": "Shipping Report",
             "filters": [],
             "output_csv": "shipping_report.csv"
+        },
+        {
+            "report_name": "Pull Manifest report",
+            "filters": [],
+            "output_csv": "pull_manifest_report.csv"
         }
     ]
 
