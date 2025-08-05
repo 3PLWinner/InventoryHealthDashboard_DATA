@@ -197,7 +197,7 @@ if __name__ == "__main__":
             "output_csv": "expected_arrivals.csv"
         },
         {
-            "report_name": "Warehouse Locations - 2",
+            "report_name": "WarehouseLocations",
             "filters": [],
             "output_csv": "warehouse_locations.csv"
         },
