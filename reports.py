@@ -5,6 +5,8 @@ import pandas as pd
 import numpy as np
 import urllib
 import time
+from office365.sharepoint.client_context import ClientContext
+from office365.runtime.auth.client_credential import ClientCredential
 
 pd.set_option("display.max_rows", None)
 pd.set_option("display.max_columns", None)
@@ -19,6 +21,21 @@ USERNAME = os.getenv("USERNAME")
 PASSWORD = os.getenv("PASSWORD")
 SYSTEM_ID = os.getenv("SYSTEM_ID")
 TOKEN = os.getenv("W_TOKEN")
+
+def upload_to_sharepoint(local_path, sharepoint_filename):
+    site_url="https://3plwinner.sharepoint.com"
+    relative_folder_url="/Shared Documents/InventoryHealthDashboard"
+    client_id = os.getenv("SHAREPOINT_CLIENT_ID")
+    client_secret = os.getenv("SHAREPOINT_CLIENT_SECRET")
+
+    ctx = ClientContext(site_url).with_credentials(ClientCredential(client_id, client_secret))
+    target_folder = ctx.web.get_folder_by_server_relative_url(relative_folder_url)
+
+    with open(local_path, 'rb') as file_obj:
+        file_content = file_obj.read()
+    
+    uploaded_file = target_folder.upload_file(sharepoint_filename, file_content).execute_query()
+    print(f"File '{sharepoint_filename}' uploaded to SharePoint at {site_url}{relative_folder_url}/{sharepoint_filename}")
 
 def get_token():
     endpoint = 'https://wms.3plwinner.com/VeraCore/Public.Api/api/Login'

@@ -9,7 +9,10 @@ Gets a list of available reports with the Task ID, and will run a report based o
 
 ## Usage
 
-1. git clone https://github.com/3PLWinner/InventoryHealthDashboard_DATA.git
+1. Clone the repository:
+```bash
+git clone https://github.com/3PLWinner/InventoryHealthDashboard_DATA.git
+```
 
 2. Create & Activate a virtual environment:
 ```bash
