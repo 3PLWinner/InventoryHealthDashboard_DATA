@@ -27,7 +27,6 @@ TOKEN = os.getenv("W_TOKEN")
 SHAREPOINT_CLIENT_ID = os.getenv("SHAREPOINT_CLIENT_ID")
 SHAREPOINT_CLIENT_SECRET = os.getenv("SHAREPOINT_CLIENT_SECRET")
 
-
 #Set up logging for GitHub Actions Environment
 def setup_logging():
     log_dir = 'logs'
