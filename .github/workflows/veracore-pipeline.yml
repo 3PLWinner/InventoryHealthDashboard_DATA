@@ -1,30 +1,13 @@
-# .github/workflows/veracore-pipeline.yml
 name: VeraCore Data Pipeline
 
 on:
-  # Scheduled runs
-  schedule:
-    # Run every day at 6 AM UTC (1 AM EST / 2 AM EDT)
-    - cron: '0 6 * * *'
-    # Run every 4 hours during business days (uncomment if needed)
-    # - cron: '0 8,12,16,20 * * 1-5'
-  
-  # Allow manual triggering
   workflow_dispatch:
-    inputs:
-      force_run:
-        description: 'Force run even if recent execution exists'
-        required: false
-        default: 'false'
-
-# Set timezone for logging
-env:
-  TZ: America/New_York
+  schedule:
+    - cron: '0 6 * * *'
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # Prevent jobs from running too long
     
     steps:
     - name: Checkout repository
@@ -34,7 +17,6 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.9'
-        cache: 'pip'  # Cache pip dependencies
     
     - name: Install dependencies
       run: |
@@ -43,27 +25,13 @@ jobs:
     
     - name: Run VeraCore Pipeline
       env:
-        # VeraCore credentials - FIXED: Use secrets instead of env
-        USERNAME: ${{ secrets.VERACORE_USERNAME }}
-        PASSWORD: ${{ secrets.VERACORE_PASSWORD }}
-        SYSTEM_ID: ${{ secrets.VERACORE_SYSTEM_ID }}
+        USERNAME: ${{ secrets.USERNAME }}
+        PASSWORD: ${{ secrets.PASSWORD }}
+        SYSTEM_ID: ${{ secrets.SYSTEM_ID }}
         W_TOKEN: ${{ secrets.W_TOKEN }}
-        # SharePoint credentials
         SHAREPOINT_CLIENT_ID: ${{ secrets.SHAREPOINT_CLIENT_ID }}
         SHAREPOINT_CLIENT_SECRET: ${{ secrets.SHAREPOINT_CLIENT_SECRET }}
-
-      run: |
-        echo "Starting VeraCore pipeline at $(date)"
-        python reports.py
-        echo "Pipeline completed at $(date)"
-    
-    - name: Upload logs as artifacts (on failure)
-      if: failure()
-      uses: actions/upload-artifact@v4
-      with:
-        name: pipeline-logs-${{ github.run_number }}
-        path: logs/
-        retention-days: 7
+      run: python reports.py
 
         
 
