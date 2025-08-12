@@ -10,12 +10,20 @@ import sys
 from datetime import datetime
 from office365.sharepoint.client_context import ClientContext
 from office365.runtime.auth.client_credential import ClientCredential
+from office365.runtime.auth.authentication_context import AuthenticationContext
+from pathlib import Path
 
 pd.set_option("display.max_rows", None)
 pd.set_option("display.max_columns", None)
 pd.set_option("display.width", 0)
 pd.set_option("display.max_colwidth", None)
 
+CSV_FOLDER = os.path.join(os.getcwd(), "csvs")
+ARCHIVE_FOLDER = os.path.join(os.getcwd(), "archive")
+OUTPUT_FOLDER = os.path.join(os.getcwd(), f"output_{datetime.now().strftime('%Y%m%d_%H%M%S')}")
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+os.makedirs(CSV_FOLDER, exist_ok=True)
+os.makedirs(ARCHIVE_FOLDER, exist_ok=True)
 
 dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
 load_dotenv(dotenv_path)
@@ -24,10 +32,14 @@ USERNAME = os.getenv("USERNAME")
 PASSWORD = os.getenv("PASSWORD")
 SYSTEM_ID = os.getenv("SYSTEM_ID")
 TOKEN = os.getenv("W_TOKEN")
+SHAREPOINT_URL = os.getenv("SHAREPOINT_URL")
+SHAREPOINT_USERNAME=os.getenv("SHAREPOINT_USERNAME")
+SHAREPOINT_FOLDER=os.getenv("SHAREPOINT_FOLDER")
 SHAREPOINT_CLIENT_ID = os.getenv("SHAREPOINT_CLIENT_ID")
 SHAREPOINT_CLIENT_SECRET = os.getenv("SHAREPOINT_CLIENT_SECRET")
+SHAREPOINT_PASSWORD=os.getenv("SHAREPOINT_PASSWORD")
 
-#Set up logging for GitHub Actions Environment
+#Set up logging
 def setup_logging():
     log_dir = 'logs'
     if not os.path.exists(log_dir):
@@ -47,41 +59,143 @@ def setup_logging():
 
 logger = setup_logging()
     
+# Add past data to an archive folder, each set of data gets own folder with date labeled
+def archive_existing_csvs(ctx, relative_folder_url, archive_folder_url):
+    try:
+        # Load the target folder
+        target_folder = ctx.web.get_folder_by_server_relative_url(relative_folder_url)
+        ctx.load(target_folder.files)
+        ctx.execute_query()
+        csv_files = [f for f in target_folder.files if f.properties["Name"].lower().endswith(".csv")]
+        if not csv_files:
+            logger.info(f"No CSV files to archive in folder: {relative_folder_url}")
+            return True
+        # Check if archive folder exists, create if not
+        try:
+            archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
+            ctx.load(archive_folder)
+            ctx.execute_query()
+        except Exception:
+            logger.info(f"Archive folder not found, creating: {archive_folder_url}")
+            target_folder.folders.add(archive_folder_url.split('/')[-1])  # Create last part of path
+            ctx.execute_query()
+            archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
+
+        if not csv_files:
+            logger.info(f"No CSV files to archive in folder: {relative_folder_url}")
+            return True
+        
+        date_str = datetime.now().strftime("%Y%m%d")
+        
+        for f in csv_files:
+            original_name = f.properties["Name"]
+            archive_name = f"{Path(original_name).stem}_{date_str}{Path(original_name).suffix}"
+            archive_path = f"{archive_folder_url}/{archive_name}"
+            
+            logger.info(f"Archiving {original_name} to {archive_path}")
+            f.move_to(archive_path, 1)  # overwrite if exists
+            ctx.execute_query()
+        
+        logger.info(f"Archived {len(csv_files)} CSV files to {archive_folder_url}")
+        return True
+
+    except Exception as e:
+        logger.error(f"Error archiving CSV files: {e}")
+        return False
+
+
 
 # Uploads a file to SharePoint
-def upload_to_sharepoint(local_path, sharepoint_filename):
-    logger.info(f"Starting SharePoint upload for {sharepoint_filename} from {local_path}")
-
-    site_url="https://3plwinner.sharepoint.com"
-    relative_folder_url="/Shared Documents/InventoryHealthDashboard"
-
-    if not SHAREPOINT_CLIENT_ID or not SHAREPOINT_CLIENT_SECRET:
-        logger.error("SharePoint client ID or secret not set in environment variables.")
-        return False
+def upload_to_sharepoint(local_file_path, sharepoint_filename):
     try:
-        ctx = ClientContext(site_url).with_credentials(ClientCredential(SHAREPOINT_CLIENT_ID, SHAREPOINT_CLIENT_SECRET))
-        web = ctx.web.load()
-        ctx.execute_query()
-        logger.info(f"Connected to SharePoint site: {web.properties.get('Title', 'Unknown')}")
-        target_folder = ctx.web.get_folder_by_server_relative_url(relative_folder_url)
+        # Connect to SharePoint
+        ctx_auth = AuthenticationContext(SHAREPOINT_URL)
+        if not ctx_auth.acquire_token_for_user(SHAREPOINT_USERNAME, SHAREPOINT_PASSWORD):
+            logger.error("Authentication failed for SharePoint")
+            return False
+        ctx = ClientContext(SHAREPOINT_URL, ctx_auth)
+        archive_existing_csvs(ctx, SHAREPOINT_FOLDER, f"{SHAREPOINT_FOLDER}/Archive")
+        target_folder = ctx.web.get_folder_by_server_relative_url(SHAREPOINT_FOLDER)
 
-        with open(local_path, 'rb') as file_obj:
-            file_content = file_obj.read()
-
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        timestamped_filename = f"{sharepoint_filename}_{timestamp}"
-        uploaded_file = target_folder.upload_file(timestamped_filename, file_content)
+        # 1. Check if file exists
+        files = target_folder.files
+        ctx.load(files)
         ctx.execute_query()
-        logger.info(f"Successfully uploaded: {timestamped_filename}")
-        logger.info(f"SharePoint URL: {site_url}{relative_folder_url}/{timestamped_filename}")
+
+        existing_file = next((f for f in files if f.properties["Name"] == sharepoint_filename), None)
+        if existing_file:
+            logger.info(f"File '{sharepoint_filename}' already exists — archiving it.")
+            # Ensure archive folder exists
+            archive_folder_url = f"{SHAREPOINT_FOLDER}/Archive"
+            archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
+            try:
+                ctx.load(archive_folder)
+                ctx.execute_query()
+            except:
+                logger.info("Archive folder not found — creating it.")
+                target_folder.folders.add("Archive")
+                ctx.execute_query()
+                archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
+
+            # Build archive filename
+            date_str = datetime.now().strftime("%Y%m%d")
+            archive_name = f"{Path(sharepoint_filename).stem}_{date_str}{Path(sharepoint_filename).suffix}"
+
+            # Move the file to archive folder
+            existing_file.move_to(f"{archive_folder_url}/{archive_name}", 1)  # 1 = overwrite
+            ctx.execute_query()
+            logger.info(f"Archived as: {archive_name}")
+
+        # 2. Upload the new file
+        with open(local_file_path, "rb") as content_file:
+            file_content = content_file.read()
+            target_folder.upload_file(sharepoint_filename, file_content)
+            ctx.execute_query()
+
+        logger.info(f"Successfully uploaded: {sharepoint_filename}")
+        logger.info(f"SharePoint URL: {SHAREPOINT_URL}{SHAREPOINT_FOLDER}/{sharepoint_filename}")
         return True
+
     except Exception as e:
-        logger.error(f"Failed to upload file to SharePoint: {str(e)}")
+        logger.error(f"Error uploading to SharePoint: {e}")
         return False
     
 # Get authorization token from VeraCore API
 def get_token():
     logger.info("Attempting to get authorization token from VeraCore API")
+    logger.info(f"USERNAME: {'SET' if USERNAME else 'NOT SET'}")
+    logger.info(f"PASSWORD: {'SET' if PASSWORD else 'NOT SET'}")  
+    logger.info(f"SYSTEM_ID: {'SET' if SYSTEM_ID else 'NOT SET'}")
+    logger.info(f"W_TOKEN: {'SET' if TOKEN else 'NOT SET'}")
+    if USERNAME:
+        logger.info(f"USERNAME value: {USERNAME}")
+    if SYSTEM_ID:
+        logger.info(f"SYSTEM_ID value: {SYSTEM_ID}")
+    if TOKEN:
+        logger.info("Attempting direct token authentication...")
+        auth_header = {"Authorization": f"bearer {TOKEN}"}
+
+    # Test the token with a simple API call
+
+    test_url = "https://wms.3plwinner.com/VeraCore/Public.Api/api/reports"
+
+    try:
+        logger.info(f"Testing direct token against: {test_url}")
+        test_response = requests.get(test_url, headers=auth_header, timeout=30)
+        logger.info(f"Direct token test - Status Code: {test_response.status_code}")
+        logger.info(f"Direct token test - Response Headers: {dict(test_response.headers)}")
+            
+        if test_response.status_code == 200:
+            logger.info("✓ Direct token authentication successful!")
+            return auth_header
+        else:
+            logger.warning(f"✗ Direct token failed - Response: {test_response.text[:500]}")
+    except Exception as e:
+        logger.warning(f"✗ Direct token test error: {str(e)}")
+
+
+
+
     endpoint = 'https://wms.3plwinner.com/VeraCore/Public.Api/api/Login'
 
     body = {
@@ -171,9 +285,14 @@ def run_report_task(report_name, filters, auth_header, output_csv_name):
         if report_response.status_code == 200:
             report_data = report_response.json()["Data"]
             df = pd.DataFrame(report_data)
-            df.to_csv(output_csv_name, index=False)
+            output_path = os.path.join(OUTPUT_FOLDER, output_csv_name)
+            df.to_csv(output_path, index=False)
             logger.info(f"Report data saved to {output_csv_name}")
-            upload_success = upload_to_sharepoint(output_csv_name, report_name.replace(" ", "_"))
+            basename = Path(output_csv_name).stem
+            timestamped_filename = f"{basename}_{datetime.now().strftime("%Y%m%d_%H%M%S")}.csv"
+
+
+            upload_success = upload_to_sharepoint(output_path, timestamped_filename)
             if os.path.exists(output_csv_name):
                 os.remove(output_csv_name)
                 logger.info(f"Cleaned up local file")
@@ -203,8 +322,17 @@ def get_dataframe_from_api(endpoint, auth_header, name):
             if isinstance(data, list) and all(isinstance(item, dict) for item in data):
                 df = pd.DataFrame(data)
                 filename = f"{name}.csv"
-                df.to_csv(filename, index=False)
-                upload_success = upload_to_sharepoint(filename, filename)
+                output_path = os.path.join(OUTPUT_FOLDER, filename)
+                df.to_csv(output_path, index=False)
+
+                if name == "available_reports_endpoint":
+                    logger.info(f"Skipping SharePoint upload for {filename}")
+                    if os.path.exists(output_path):
+                        os.remove(output_path)
+                        logger.info(f"Deleted local file: {output_path}")
+                    return True
+                
+                upload_success = upload_to_sharepoint(output_path, filename)
                 if os.path.exists(filename):
                     os.remove(filename)
                 if upload_success:
@@ -310,8 +438,8 @@ def main():
         success = run_report_task(
             report["report_name"],
             report["filters"],
-            report["output.csv"],
-            auth_header
+            auth_header,
+            report["output_csv"]
         )
         if success:
             successful_reports += 1
