@@ -241,7 +241,7 @@ def get_token():
         "systemId" : SYSTEM_ID
     }
     try:
-        response = requests.post(endpoint, data=body, timeout=30)
+        response = requests.post(endpoint, data=body, timeout=60)
         if response.status_code != 200:
             logger.error("Login Failed:", response.status_code, response.text)
             return None
@@ -430,18 +430,7 @@ def main():
     reports_to_run = [
         {
             "report_name": "unit-details",
-            "filters": [
-                {"filterColumnName": "Owner"},
-                {"filterColumnName": "Product ID"},
-                {
-                    "filterColumnName": "Receipt Date",
-                    "startDate": "01/01/2025 12:00:00 AM",
-                    "endDate": "07/30/2025 11:59:59 PM"
-                },
-                {"filterColumnName": "Unit"},
-                {"filterColumnName": "Location"},
-                {"filterColumnName": "On Hand Total"},
-            ],
+            "filters": [],
             "output_csv": "unit_details_with_current_balance.csv"
         },
 
