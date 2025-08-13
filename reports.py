@@ -75,28 +75,34 @@ def archive_existing_csvs(ctx, relative_folder_url, archive_folder_url):
             archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
             ctx.load(archive_folder)
             ctx.execute_query()
-        except Exception:
+            logger.info(f"Archive folder exists: {archive_folder_url}")
+        except Exception as e:
             logger.info(f"Archive folder not found, creating: {archive_folder_url}")
-            target_folder.folders.add(archive_folder_url.split('/')[-1])  # Create last part of path
+            archive_folder_name = archive_folder_url.split('/')[-1]
+            target_folder.folders.add(archive_folder_name)
             ctx.execute_query()
             archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
+            ctx.load(archive_folder)
+            ctx.execute_query()
 
-        if not csv_files:
-            logger.info(f"No CSV files to archive in folder: {relative_folder_url}")
-            return True
-        
-        date_str = datetime.now().strftime("%Y%m%d")
+        date_str = datetime.now().strftime("%y%m%d_%H%M%S")
         
         for f in csv_files:
-            original_name = f.properties["Name"]
-            archive_name = f"{Path(original_name).stem}_{date_str}{Path(original_name).suffix}"
-            archive_path = f"{archive_folder_url}/{archive_name}"
+            try:
+
+                original_name = f.properties["Name"]
+                archive_name = f"{Path(original_name).stem}_{date_str}{Path(original_name).suffix}"
             
-            logger.info(f"Archiving {original_name} to {archive_path}")
-            f.move_to(archive_path, 1)  # overwrite if exists
-            ctx.execute_query()
+                logger.info(f"Archiving {original_name} to {archive_name}")
+                f.move_to(f"{archive_folder_url}/{archive_name}", 1)
+                ctx.execute_query()
         
-        logger.info(f"Archived {len(csv_files)} CSV files to {archive_folder_url}")
+                logger.info(f"Archived {original_name} to {archive_name}")
+
+            except Exception as file_error:
+                logger.error(f"Error archiving file {original_name}: {file_error}")
+                continue
+        logger.info(f"Completed archiving process for {len(csv_files)} CSV files")
         return True
 
     except Exception as e:
@@ -114,37 +120,13 @@ def upload_to_sharepoint(local_file_path, sharepoint_filename):
             logger.error("Authentication failed for SharePoint")
             return False
         ctx = ClientContext(SHAREPOINT_URL, ctx_auth)
-        archive_existing_csvs(ctx, SHAREPOINT_FOLDER, f"{SHAREPOINT_FOLDER}/Archive")
+
+        archive_success = archive_existing_csvs(ctx, SHAREPOINT_FOLDER, f"{SHAREPOINT_FOLDER}/Archive")
+
+        if not archive_success:
+            logger.warning("Archiving process has issues, but continuing with upload...")
+
         target_folder = ctx.web.get_folder_by_server_relative_url(SHAREPOINT_FOLDER)
-
-        # 1. Check if file exists
-        files = target_folder.files
-        ctx.load(files)
-        ctx.execute_query()
-
-        existing_file = next((f for f in files if f.properties["Name"] == sharepoint_filename), None)
-        if existing_file:
-            logger.info(f"File '{sharepoint_filename}' already exists — archiving it.")
-            # Ensure archive folder exists
-            archive_folder_url = f"{SHAREPOINT_FOLDER}/Archive"
-            archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
-            try:
-                ctx.load(archive_folder)
-                ctx.execute_query()
-            except:
-                logger.info("Archive folder not found — creating it.")
-                target_folder.folders.add("Archive")
-                ctx.execute_query()
-                archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
-
-            # Build archive filename
-            date_str = datetime.now().strftime("%Y%m%d")
-            archive_name = f"{Path(sharepoint_filename).stem}_{date_str}{Path(sharepoint_filename).suffix}"
-
-            # Move the file to archive folder
-            existing_file.move_to(f"{archive_folder_url}/{archive_name}", 1)  # 1 = overwrite
-            ctx.execute_query()
-            logger.info(f"Archived as: {archive_name}")
 
         # 2. Upload the new file
         with open(local_file_path, "rb") as content_file:
@@ -392,7 +374,7 @@ def main():
     # List of reports to run
     reports_to_run = [
         {
-            "report_name": "Unit Details (by owner) with Current Balance",
+            "report_name": "unit-details",
             "filters": [
                 {"filterColumnName": "Owner"},
                 {"filterColumnName": "Product ID"},
@@ -409,9 +391,14 @@ def main():
         },
 
         {
-            "report_name": "expected arrivals",
+            "report_name": "expected",
             "filters": [],
             "output_csv": "expected_arrivals.csv"
+        },
+        {
+            "report_name": "Unit Billing",
+            "filters": [],
+            "output_csv": "unit_billing.csv"
         },
         {
             "report_name": "WarehouseLocations",
