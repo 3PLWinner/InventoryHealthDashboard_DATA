@@ -1,9 +1,9 @@
 @echo off
-IF NOT EXIST "InventoryHealthDashboard_DATA-3" (
+IF NOT EXIST "InventoryHealthDashboard_DATA" (
     git clone https://github.com/3PLWinner/InventoryHealthDashboard_DATA.git
 )
 
-cd InventoryHealthDashboard_DATA-3
+cd InventoryHealthDashboard_DATA
 
 IF NOT EXIST "venv" (
     echo Creating virtual environment...
