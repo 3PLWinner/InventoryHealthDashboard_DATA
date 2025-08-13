@@ -435,7 +435,7 @@ def main():
         },
 
         {
-            "report_name": "expected",
+            "report_name": "expected-all",
             "filters": [],
             "output_csv": "expected_arrivals.csv"
         },
