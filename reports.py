@@ -45,101 +45,156 @@ def setup_logging():
     if not os.path.exists(log_dir):
         os.makedirs(log_dir)
     log_file = os.path.join(log_dir, f"pipeline_{datetime.now().strftime('%Y%m%d_%H%M%S')}.log")
+    
+    # Create formatters
+    file_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    console_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+    
+    # Create file handler with UTF-8 encoding
+    file_handler = logging.FileHandler(log_file, encoding='utf-8')
+    file_handler.setLevel(logging.INFO)
+    file_handler.setFormatter(file_formatter)
+    
+    # Create console handler with UTF-8 encoding for Windows
+    console_handler = logging.StreamHandler(sys.stdout)
+    console_handler.setLevel(logging.INFO)
+    console_handler.setFormatter(console_formatter)
+    
+    # Configure the root logger
     logging.basicConfig(
         level=logging.INFO,
-        format='%(asctime)s - %(levelname)s - %(message)s',
-        handlers=[
-            logging.FileHandler(log_file),
-            logging.StreamHandler(sys.stdout)
-        ]
+        handlers=[file_handler, console_handler]
     )
+    
     logger = logging.getLogger(__name__)
     logger.info(f"Logging initialized. Log file: {log_file}")
     return logger
 
 logger = setup_logging()
     
-# Add past data to an archive folder, each set of data gets own folder with date labeled
+# Just add these debug lines to your existing archive_existing_csvs function
 def archive_existing_csvs(ctx, relative_folder_url, archive_folder_url):
     try:
+        # Add this debug logging at the start
+        logger.info(f"ARCHIVE DEBUG: Starting archive process")
+        logger.info(f"ARCHIVE DEBUG: Source folder: {relative_folder_url}")
+        logger.info(f"ARCHIVE DEBUG: Archive folder: {archive_folder_url}")
+        
         # Load the target folder
         target_folder = ctx.web.get_folder_by_server_relative_url(relative_folder_url)
         ctx.load(target_folder.files)
         ctx.execute_query()
+        
+        # Add this debug logging
+        all_files = [f.properties["Name"] for f in target_folder.files]
+        logger.info(f"ARCHIVE DEBUG: All files found: {all_files}")
+        
         csv_files = [f for f in target_folder.files if f.properties["Name"].lower().endswith(".csv")]
+        csv_names = [f.properties["Name"] for f in csv_files]
+        logger.info(f"ARCHIVE DEBUG: CSV files to archive: {csv_names}")
+        
         if not csv_files:
             logger.info(f"No CSV files to archive in folder: {relative_folder_url}")
             return True
+        
         # Check if archive folder exists, create if not
         try:
             archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
             ctx.load(archive_folder)
             ctx.execute_query()
-            logger.info(f"Archive folder exists: {archive_folder_url}")
-        except Exception as e:
-            logger.info(f"Archive folder not found, creating: {archive_folder_url}")
-            archive_folder_name = archive_folder_url.split('/')[-1]
-            target_folder.folders.add(archive_folder_name)
+            logger.info(f"ARCHIVE DEBUG: Archive folder exists")
+        except Exception:
+            logger.info(f"ARCHIVE DEBUG: Archive folder not found, creating: {archive_folder_url}")
+            target_folder.folders.add(archive_folder_url.split('/')[-1])  # Create last part of path
             ctx.execute_query()
             archive_folder = ctx.web.get_folder_by_server_relative_url(archive_folder_url)
-            ctx.load(archive_folder)
-            ctx.execute_query()
 
-        date_str = datetime.now().strftime("%y%m%d_%H%M%S")
+        date_str = datetime.now().strftime("%Y%m%d")
         
+        # Add counter for debugging
+        archived_count = 0
         for f in csv_files:
             try:
-
                 original_name = f.properties["Name"]
                 archive_name = f"{Path(original_name).stem}_{date_str}{Path(original_name).suffix}"
-            
-                logger.info(f"Archiving {original_name} to {archive_name}")
-                f.move_to(f"{archive_folder_url}/{archive_name}", 1)
+                archive_path = f"{archive_folder_url}/{archive_name}"
+                
+                logger.info(f"ARCHIVE DEBUG: Archiving {original_name} to {archive_path}")
+                f.move_to(archive_path, 1)  # overwrite if exists
                 ctx.execute_query()
-        
-                logger.info(f"Archived {original_name} to {archive_name}")
-
+                archived_count += 1
+                logger.info(f"ARCHIVE DEBUG: Successfully archived {original_name}")
             except Exception as file_error:
-                logger.error(f"Error archiving file {original_name}: {file_error}")
-                continue
-        logger.info(f"Completed archiving process for {len(csv_files)} CSV files")
+                logger.error(f"ARCHIVE DEBUG: Failed to archive {original_name}: {file_error}")
+        
+        logger.info(f"ARCHIVE DEBUG: Archived {archived_count} of {len(csv_files)} files to {archive_folder_url}")
         return True
 
     except Exception as e:
-        logger.error(f"Error archiving CSV files: {e}")
+        logger.error(f"ARCHIVE DEBUG: Error archiving CSV files: {e}")
         return False
 
 
 
-# Uploads a file to SharePoint
+# Enhanced upload function with better SharePoint path handling
 def upload_to_sharepoint(local_file_path, sharepoint_filename):
     try:
+        logger.info(f"Starting SharePoint upload process...")
+        logger.info(f"Local file: {local_file_path}")
+        logger.info(f"SharePoint filename: {sharepoint_filename}")
+        logger.info(f"SharePoint URL: {SHAREPOINT_URL}")
+        logger.info(f"SharePoint folder: {SHAREPOINT_FOLDER}")
+        
         # Connect to SharePoint
         ctx_auth = AuthenticationContext(SHAREPOINT_URL)
         if not ctx_auth.acquire_token_for_user(SHAREPOINT_USERNAME, SHAREPOINT_PASSWORD):
             logger.error("Authentication failed for SharePoint")
             return False
+        
         ctx = ClientContext(SHAREPOINT_URL, ctx_auth)
-
-        archive_success = archive_existing_csvs(ctx, SHAREPOINT_FOLDER, f"{SHAREPOINT_FOLDER}/Archive")
-
-        if not archive_success:
-            logger.warning("Archiving process has issues, but continuing with upload...")
-
-        target_folder = ctx.web.get_folder_by_server_relative_url(SHAREPOINT_FOLDER)
-
-        # 2. Upload the new file
+        logger.info("SharePoint authentication successful")
+        
+        # Ensure SharePoint folder path is properly formatted
+        # Remove leading/trailing slashes and ensure proper format
+        clean_folder_path = SHAREPOINT_FOLDER.strip('/')
+        if not clean_folder_path.startswith('/'):
+            clean_folder_path = '/' + clean_folder_path
+            
+        archive_folder_path = f"{clean_folder_path}/Archive"
+        
+        logger.info(f"Clean folder path: {clean_folder_path}")
+        logger.info(f"Archive folder path: {archive_folder_path}")
+        
+        # Archive existing CSV files before uploading new ones
+        logger.info("Starting archiving process...")
+        archive_success = archive_existing_csvs(ctx, clean_folder_path, archive_folder_path)
+        
+        if archive_success:
+            logger.info("Archiving completed successfully")
+        else:
+            logger.warning("Archiving had issues, but continuing with upload...")
+        
+        # Get target folder for upload
+        target_folder = ctx.web.get_folder_by_server_relative_url(clean_folder_path)
+        ctx.load(target_folder)
+        ctx.execute_query()
+        
+        # Upload the new file
+        logger.info(f"Uploading file: {sharepoint_filename}")
         with open(local_file_path, "rb") as content_file:
             file_content = content_file.read()
             target_folder.upload_file(sharepoint_filename, file_content)
             ctx.execute_query()
 
         logger.info(f"Successfully uploaded: {sharepoint_filename}")
-        logger.info(f"SharePoint URL: {SHAREPOINT_URL}{SHAREPOINT_FOLDER}/{sharepoint_filename}")
+        logger.info(f"SharePoint URL: {SHAREPOINT_URL}{clean_folder_path}/{sharepoint_filename}")
         return True
 
     except Exception as e:
         logger.error(f"Error uploading to SharePoint: {e}")
+        logger.error(f"Error type: {type(e).__name__}")
+        import traceback
+        logger.error(f"Traceback: {traceback.format_exc()}")
         return False
     
 # Get authorization token from VeraCore API

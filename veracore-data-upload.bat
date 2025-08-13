@@ -22,4 +22,5 @@ pip install -r requirements.txt --disable-pip-version-check --quiet
 
 python reports.py
 
-pause
+:: Only pause if running interactively (not in Task Scheduler)
+echo %CMDCMDLINE% | find /i "cmd.exe" >nul && pause
