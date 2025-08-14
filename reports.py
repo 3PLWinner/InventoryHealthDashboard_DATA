@@ -156,9 +156,7 @@ def upload_to_sharepoint(local_file_path, sharepoint_filename):
         
         # Ensure SharePoint folder path is properly formatted
         # Remove leading/trailing slashes and ensure proper format
-        clean_folder_path = SHAREPOINT_FOLDER.strip('/')
-        if not clean_folder_path.startswith('/'):
-            clean_folder_path = '/' + clean_folder_path
+        clean_folder_path = SHAREPOINT_FOLDER
             
         archive_folder_path = f"{clean_folder_path}/Archive"
         
@@ -440,7 +438,7 @@ def main():
             "output_csv": "expected_arrivals.csv"
         },
         {
-            "report_name": "Unit Billing",
+            "report_name": "unit-billing",
             "filters": [],
             "output_csv": "unit_billing.csv"
         },
