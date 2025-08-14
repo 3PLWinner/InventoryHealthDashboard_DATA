@@ -1,5 +1,8 @@
 @echo off
 cd /d "C:\Users\Administrator\Scripts\InventoryHealthDashboard_DATA"
 
-:: Run the Python script with system Python
-venv\Scripts\python.exe reports.py
+:: Activate virtual environment
+call venv\Scripts\activate.bat
+
+:: Run Python script using venv's Python
+python reports.py
