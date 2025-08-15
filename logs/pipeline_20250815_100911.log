@@ -1,8 +1,0 @@
-2025-08-15 10:09:11,256 - INFO - Logging initialized. Log file: logs\pipeline_20250815_100911.log
-2025-08-15 10:09:11,256 - INFO - ==================================================
-2025-08-15 10:09:11,256 - INFO - Starting Veracore Data Pipeline
-2025-08-15 10:09:11,256 - INFO - Execution time: 2025-08-15 10:09:11
-2025-08-15 10:09:11,256 - INFO - ==================================================
-2025-08-15 10:09:11,257 - ERROR - Missing environment variables: PASSWORD, SYSTEM_ID, SharePoint Client ID, SharePoint Client Secret, W_TOKEN
-2025-08-15 10:09:11,257 - ERROR - Make sure all GitHub Secrets are properly configured.
-2025-08-15 10:09:11,257 - ERROR - Pipeline completed with errors!

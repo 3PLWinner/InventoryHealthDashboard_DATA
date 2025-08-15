@@ -239,7 +239,7 @@ def get_token():
         "systemId" : SYSTEM_ID
     }
     try:
-        response = requests.post(endpoint, data=body, timeout=60)
+        response = requests.post(endpoint, data=body, timeout=90)
         if response.status_code != 200:
             logger.error("Login Failed:", response.status_code, response.text)
             return None
@@ -316,7 +316,7 @@ def run_report_task(report_name, filters, auth_header, output_csv_name):
     
     try:
         report_url = f"https://wms.3plwinner.com/VeraCore/Public.Api/api/reports/{task_id}"
-        report_response = requests.get(report_url, headers=auth_header, timeout=60)
+        report_response = requests.get(report_url, headers=auth_header, timeout=90)
         if report_response.status_code == 200:
             report_data = report_response.json()["Data"]
             df = pd.DataFrame(report_data)
@@ -431,7 +431,11 @@ def main():
             "filters": [],
             "output_csv": "unit_details_with_current_balance.csv"
         },
-
+        {
+            "report_name": "returns-products",
+            "filters": [],
+            "output_csv": "returns.csv"
+        },
         {
             "report_name": "expected-all",
             "filters": [],
