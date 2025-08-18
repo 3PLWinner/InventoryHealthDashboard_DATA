@@ -290,7 +290,7 @@ def run_report_task(report_name, filters, auth_header, output_csv_name):
     max_attempts = 20
     for attempt in range(max_attempts):
         try:
-            status_response = requests.get(status_url, headers=auth_header, timeout=30)
+            status_response = requests.get(status_url, headers=auth_header, timeout=90)
             if status_response.status_code == 200:
                 status = status_response.json().get("Status")
                 if status == "Done":
@@ -311,7 +311,7 @@ def run_report_task(report_name, filters, auth_header, output_csv_name):
             logger.error(f"Exception checking report status: {str(e)}")
             return False
     else:
-        logger.error("Report timeout - did not complete within 60 seconds")
+        logger.error("Report timeout - did not complete within 90 seconds")
         return False
     
     try:
