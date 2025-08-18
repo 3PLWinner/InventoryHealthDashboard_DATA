@@ -2,4 +2,6 @@
 cd /d "C:\Users\Administrator\Scripts\InventoryHealthDashboard_DATA"
 
 :: Activate virtual environment
-venv\Scripts\activate.bat reports.py
+call venv\Scripts\activate.bat 
+
+python reports.py
