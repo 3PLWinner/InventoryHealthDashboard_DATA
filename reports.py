@@ -239,7 +239,7 @@ def get_token():
         "systemId" : SYSTEM_ID
     }
     try:
-        response = requests.post(endpoint, data=body, timeout=90)
+        response = requests.post(endpoint, data=body, timeout=120)
         if response.status_code != 200:
             logger.error("Login Failed:", response.status_code, response.text)
             return None
