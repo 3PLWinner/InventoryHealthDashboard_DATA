@@ -32,12 +32,13 @@ USERNAME = os.getenv("USERNAME")
 PASSWORD = os.getenv("PASSWORD")
 SYSTEM_ID = os.getenv("SYSTEM_ID")
 TOKEN = os.getenv("W_TOKEN")
+
 SHAREPOINT_URL = os.getenv("SHAREPOINT_URL")
-SHAREPOINT_USERNAME=os.getenv("SHAREPOINT_USERNAME")
 SHAREPOINT_FOLDER=os.getenv("SHAREPOINT_FOLDER")
+
 SHAREPOINT_CLIENT_ID = os.getenv("SHAREPOINT_CLIENT_ID")
 SHAREPOINT_CLIENT_SECRET = os.getenv("SHAREPOINT_CLIENT_SECRET")
-SHAREPOINT_PASSWORD=os.getenv("SHAREPOINT_PASSWORD")
+SHAREPOINT_TENANT_ID = os.getenv("SHAREPOINT_TENANT_ID")
 
 #Set up logging
 def setup_logging():
@@ -144,28 +145,25 @@ def upload_to_sharepoint(local_file_path, sharepoint_filename):
         logger.info(f"SharePoint filename: {sharepoint_filename}")
         logger.info(f"SharePoint URL: {SHAREPOINT_URL}")
         logger.info(f"SharePoint folder: {SHAREPOINT_FOLDER}")
-        
+
         # Connect to SharePoint
-        ctx_auth = AuthenticationContext(SHAREPOINT_URL)
-        if not ctx_auth.acquire_token_for_user(SHAREPOINT_USERNAME, SHAREPOINT_PASSWORD):
-            logger.error("Authentication failed for SharePoint")
-            return False
-        
-        ctx = ClientContext(SHAREPOINT_URL, ctx_auth)
-        logger.info("SharePoint authentication successful")
+        credentials = ClientCredential(SHAREPOINT_CLIENT_ID, SHAREPOINT_CLIENT_SECRET)
+        ctx = ClientContext(SHAREPOINT_URL).with_credentials(credentials)
+        logger.info("SharePoint Client Credential authentication successful")
+
+
         
         # Ensure SharePoint folder path is properly formatted
         # Remove leading/trailing slashes and ensure proper format
-        clean_folder_path = SHAREPOINT_FOLDER
             
-        archive_folder_path = f"{clean_folder_path}/Archive"
+        archive_folder_path = f"{SHAREPOINT_FOLDER}/Archive"
         
-        logger.info(f"Clean folder path: {clean_folder_path}")
+        logger.info(f"Clean folder path: {SHAREPOINT_FOLDER}")
         logger.info(f"Archive folder path: {archive_folder_path}")
         
         # Archive existing CSV files before uploading new ones
         logger.info("Starting archiving process...")
-        archive_success = archive_existing_csvs(ctx, clean_folder_path, archive_folder_path)
+        archive_success = archive_existing_csvs(ctx, SHAREPOINT_FOLDER, archive_folder_path)
         
         if archive_success:
             logger.info("Archiving completed successfully")
@@ -173,7 +171,7 @@ def upload_to_sharepoint(local_file_path, sharepoint_filename):
             logger.warning("Archiving had issues, but continuing with upload...")
         
         # Get target folder for upload
-        target_folder = ctx.web.get_folder_by_server_relative_url(clean_folder_path)
+        target_folder = ctx.web.get_folder_by_server_relative_url(SHAREPOINT_FOLDER)
         ctx.load(target_folder)
         ctx.execute_query()
         
@@ -185,7 +183,7 @@ def upload_to_sharepoint(local_file_path, sharepoint_filename):
             ctx.execute_query()
 
         logger.info(f"Successfully uploaded: {sharepoint_filename}")
-        logger.info(f"SharePoint URL: {SHAREPOINT_URL}{clean_folder_path}/{sharepoint_filename}")
+        logger.info(f"SharePoint URL: {SHAREPOINT_URL}{SHAREPOINT_FOLDER}/{sharepoint_filename}")
         return True
 
     except Exception as e:
