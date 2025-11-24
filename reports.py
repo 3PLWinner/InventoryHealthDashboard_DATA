@@ -519,6 +519,11 @@ def main():
             "filters": [],
             "output_csv": "pickslip_activity.csv"
         },
+        {
+            "report_name": "exceptions",
+            "filters": [],
+            "output_csv": "pickslip_exceptions.csv"
+        }
     ]
 
     successful_reports = 0
